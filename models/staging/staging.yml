@@ -19,3 +19,22 @@ models:
 
       - name: patients
         description: Number of unique patients.
+
+  - name: stg_dn_age
+    description: >
+      Standardises the District Nursing age groups dataset.
+      Cleans organisation codes, trims whitespace. One row equals
+      the total number of patients per gender, age-group, and organisation.
+
+    columns:
+      - name: org_code
+        description: NHS organisations unique code
+
+      - name: gender
+        description: Broken into male and female
+        
+      - name: age
+        description: Four year age ranges between 0 and 85+
+
+      - name: total_patients
+        description: Number of unique patients within the prior columns criteria
