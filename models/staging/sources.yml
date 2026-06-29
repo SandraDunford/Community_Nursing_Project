@@ -1,0 +1,31 @@
+version: 2
+
+sources:
+  - name: raw
+    database: RAW_CNP
+    schema: RAW
+
+    tables:
+      - name: dn_referrals
+      - name: dn_age
+      - name: dn_care_contacts
+      - name: dn_care_location
+      - name: eol_age_group
+      - name: eol_pod
+      - name: eol_contacts
+      - name: eol_procedures
+      - name: eol_org_pod
+      - name: eol_referrals
+      - name: imd_la
+      - name: ons_population
+      - name: worforce_fte
+      - name: workforce_fte_prof
+      - name: workforce_hc
+      - name: workforce_hc_prof
+      - name: wound_referrals
+      - name: wound_ages
+      - name: wound_care_loc
+      - name: wound_refs_by_team
+      - name: wound_procedures
+      - name: wound_loc_age
+      - name: wound_contacts

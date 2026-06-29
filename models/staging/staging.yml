@@ -1,0 +1,21 @@
+version: 2
+
+models:
+  - name: stg_dn_referrals
+    description: >
+      Standardises the District Nursing referrals dataset.
+      Cleans organisation names, trims whitespace and preserves
+      one row per organisation ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: NHS organisation code.
+
+      - name: org_name
+        description: Standardised organisation name.
+
+      - name: referrals
+        description: Number of referrals received.
+
+      - name: patients
+        description: Number of unique patients.
