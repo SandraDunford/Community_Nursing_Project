@@ -10,7 +10,7 @@ sources:
       - name: dn_age
       - name: dn_care_contacts
       - name: dn_care_location
-      - name: eol_age_group
+      - name: eol_age_groups
       - name: eol_pod
       - name: eol_contacts
       - name: eol_procedures
@@ -18,7 +18,7 @@ sources:
       - name: eol_referrals
       - name: imd_la
       - name: ons_population
-      - name: worforce_fte
+      - name: workforce_fte
       - name: workforce_fte_prof
       - name: workforce_hc
       - name: workforce_hc_prof

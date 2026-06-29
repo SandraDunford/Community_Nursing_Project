@@ -1,40 +1,725 @@
 version: 2
 
 models:
+
   - name: stg_dn_referrals
     description: >
       Standardises the District Nursing referrals dataset.
-      Cleans organisation names, trims whitespace and preserves
-      one row per organisation ready for downstream transformations.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
 
     columns:
       - name: org_code
-        description: NHS organisation code.
+        description: Three-character NHS organisation identifier.
 
       - name: org_name
-        description: Standardised organisation name.
+        description: Standardised NHS organisation name.
 
       - name: referrals
-        description: Number of referrals received.
+        description: Total number of District Nursing referrals recorded.
 
       - name: patients
-        description: Number of unique patients.
+        description: Total number of unique patients referred.
 
+# NEXT MODEL
   - name: stg_dn_age
     description: >
-      Standardises the District Nursing age groups dataset.
-      Cleans organisation codes, trims whitespace. One row equals
-      the total number of patients per gender, age-group, and organisation.
+      Standardises the District Nursing age demographics dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
 
     columns:
       - name: org_code
-        description: NHS organisations unique code
+        description: Three-character NHS organisation identifier.
 
       - name: gender
-        description: Broken into male and female
-        
+        description: Patient gender.
+
       - name: age
-        description: Four year age ranges between 0 and 85+
+        description: Patient age band.
 
       - name: total_patients
-        description: Number of unique patients within the prior columns criteria
+        description: Number of unique patients within each organisation, gender and age band.
+
+# NEXT MODEL
+  - name: stg_dn_care_contacts
+    description: >
+      Standardises the District Nursing care contacts dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: care_contacts
+        description: Total number of District Nursing care contacts.
+
+      - name: patients
+        description: Number of unique patients receiving care contacts.
+
+# NEXT MODEL
+  - name: stg_dn_care_location
+    description: >
+      Standardises the District Nursing care location dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: gender
+        description: Patient gender.
+
+      - name: activity_loc
+        description: Location where the care activity was delivered.
+
+      - name: no_care_contacts
+        description: Number of care contacts delivered at the specified location.
+
+# NEXT MODEL
+
+  - name: stg_wound_ages
+    description: >
+      Standardises the wound care age demographics dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: age
+        description: Patient age band.
+
+      - name: m_referrals
+        description: Number of referrals for male patients.
+
+      - name: f_referrals
+        description: Number of referrals for female patients.
+
+      - name: m_patients
+        description: Number of unique male patients.
+
+      - name: f_patients
+        description: Number of unique female patients.
+
+# NEXT MODEL
+
+  - name: stg_wound_contacts
+    description: >
+      Standardises the wound care contacts dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: m_contacts
+        description: Number of wound care contacts for male patients.
+
+      - name: f_contacts
+        description: Number of wound care contacts for female patients.
+
+      - name: m_patients
+        description: Number of unique male patients.
+
+      - name: f_patients
+        description: Number of unique female patients.
+
+# NEXT MODEL
+
+  - name: stg_wound_care_loc
+    description: >
+      Standardises the wound care location dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: gender
+        description: Patient gender.
+
+      - name: location_name
+        description: Care location where the wound care activity occurred.
+
+      - name: contacts
+        description: Number of wound care contacts delivered.
+
+# NEXT MODEL
+
+  - name: stg_wound_loc_age
+    description: >
+      Standardises the wound care location and age dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: location
+        description: Care location where wound care activity occurred.
+
+      - name: age_0_4
+        description: Number of patients aged 0–4 years.
+
+      - name: age_5_9
+        description: Number of patients aged 5–9 years.
+
+      - name: age_10_14
+        description: Number of patients aged 10–14 years.
+
+      - name: age_15_18
+        description: Number of patients aged 15–18 years.
+
+      - name: age_19_24
+        description: Number of patients aged 19–24 years.
+
+      - name: age_25_29
+        description: Number of patients aged 25–29 years.
+
+      - name: age_30_34
+        description: Number of patients aged 30–34 years.
+
+      - name: age_35_39
+        description: Number of patients aged 35–39 years.
+
+      - name: age_40_44
+        description: Number of patients aged 40–44 years.
+
+      - name: age_45_49
+        description: Number of patients aged 45–49 years.
+
+      - name: age_50_54
+        description: Number of patients aged 50–54 years.
+
+      - name: age_55_59
+        description: Number of patients aged 55–59 years.
+
+      - name: age_60_64
+        description: Number of patients aged 60–64 years.
+
+      - name: age_65_69
+        description: Number of patients aged 65–69 years.
+
+      - name: age_70_74
+        description: Number of patients aged 70–74 years.
+
+      - name: age_75_79
+        description: Number of patients aged 75–79 years.
+
+      - name: age_80_84
+        description: Number of patients aged 80–84 years.
+
+      - name: age_85_plus
+        description: Number of patients aged 85 years and over.
+
+      - name: age_unknown
+        description: Number of patients whose age was not recorded.
+
+# NEXT MODEL
+
+  - name: stg_wound_procedures
+    description: >
+      Standardises the wound care procedures dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: procedure
+        description: Wound care procedure performed.
+
+      - name: m_patients
+        description: Number of male patients receiving the procedure.
+
+      - name: f_patients
+        description: Number of female patients receiving the procedure.
+
+# NEXT MODEL
+
+  - name: stg_wound_referrals
+    description: >
+      Standardises the wound care referrals dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: m_referrals
+        description: Number of referrals for male patients.
+
+      - name: f_referrals
+        description: Number of referrals for female patients.
+
+      - name: m_patients
+        description: Number of unique male patients.
+
+      - name: f_patients
+        description: Number of unique female patients.
+
+# NEXT MODEL
+
+  - name: stg_wound_refs_by_team
+    description: >
+      Standardises the wound care referrals by clinical team dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: team_type
+        description: Clinical team responsible for wound care referrals.
+
+      - name: female
+        description: Number of referrals for female patients.
+
+      - name: male
+        description: Number of referrals for male patients.
+
+# NEXT MODEL
+
+  - name: stg_eol_age_group
+    description: >
+      Standardises the End of Life age demographics dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: gender
+        description: Patient gender.
+
+      - name: age_group
+        description: Patient age band.
+
+      - name: total_patients
+        description: Number of unique patients within each organisation, gender and age band.
+
+# NEXT MODEL
+
+  - name: stg_eol_care_contacts
+    description: >
+      Standardises the End of Life care contacts dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: f_care_contacts
+        description: Number of care contacts delivered to female patients.
+
+      - name: m_care_contacts
+        description: Number of care contacts delivered to male patients.
+
+      - name: total
+        description: Total number of care contacts delivered.
+
+      - name: f_unique_patients
+        description: Number of unique female patients.
+
+      - name: m_unique_patients
+        description: Number of unique male patients.
+
+      - name: total_unique_patients
+        description: Total number of unique patients.
+
+# NEXT MODEL
+
+  - name: stg_eol_org_pod
+    description: >
+      Standardises the End of Life organisation place of death dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: pts_who_died
+        description: Total number of patients who died.
+
+      - name: pod_recorded
+        description: Number of patients with a recorded place of death.
+
+      - name: died_at_pod
+        description: Number of patients who died in their preferred place of death.
+
+# NEXT MODEL
+
+  - name: stg_eol_pod
+    description: >
+      Standardises the End of Life preferred place of death dataset.
+      Cleans text fields, trims whitespace and preserves the original
+      grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: preferred_place_of_death
+        description: Preferred place of death category.
+
+      - name: pod_hospital
+        description: Number of patients whose preferred place of death was hospital.
+
+      - name: pod_private
+        description: Number of patients whose preferred place of death was their own home.
+
+      - name: pod_hospice
+        description: Number of patients whose preferred place of death was hospice.
+
+      - name: pod_care_home
+        description: Number of patients whose preferred place of death was a care home.
+
+      - name: pod_other
+        description: Number of patients whose preferred place of death was another location.
+
+      - name: pod_not_recorded
+        description: Number of patients whose preferred place of death was not recorded.
+
+# NEXT MODEL
+
+  - name: stg_eol_procedures
+    description: >
+      Standardises the End of Life procedures dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: fem_procedure
+        description: Number of procedures performed for female patients.
+
+      - name: male_procedure
+        description: Number of procedures performed for male patients.
+
+      - name: total_procedure
+        description: Total number of procedures performed.
+
+# NEXT MODEL
+
+  - name: stg_eol_referrals
+    description: >
+      Standardises the End of Life referrals dataset.
+      Cleans text fields, trims whitespace, standardises organisation
+      identifiers and preserves the original grain of the source data
+      ready for downstream transformations.
+
+    columns:
+      - name: org_code
+        description: Three-character NHS organisation identifier.
+
+      - name: org_name
+        description: Standardised NHS organisation name.
+
+      - name: fem_referral
+        description: Number of referrals for female patients.
+
+      - name: male_referral
+        description: Number of referrals for male patients.
+
+      - name: total_referral
+        description: Total number of referrals received.
+
+      - name: fem_patients
+        description: Number of unique female patients.
+
+      - name: male_patients
+        description: Number of unique male patients.
+
+      - name: total_patients
+        description: Total number of unique patients.
+
+# NEXT MODEL
+
+  - name: stg_imd_la
+    description: >
+      Standardises the Index of Multiple Deprivation (IMD) local authority
+      reference dataset. Cleans text fields, trims whitespace and preserves
+      the original grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: local_authority
+        description: Local authority name.
+
+      - name: imd_rank
+        description: National Index of Multiple Deprivation rank.
+
+      - name: imd_decile
+        description: National Index of Multiple Deprivation decile.
+
+# NEXT MODEL
+
+  - name: stg_ons_population
+    description: >
+      Standardises the Office for National Statistics population dataset.
+      Cleans text fields, trims whitespace and preserves the original
+      grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: area
+        description: Geographic area.
+
+      - name: country
+        description: Country within the United Kingdom.
+
+      - name: sex
+        description: Population sex.
+
+      - name: age
+        description: Population age.
+
+      - name: pop_2001
+        description: Estimated population for 2001.
+
+      - name: pop_2002
+        description: Estimated population for 2002.
+
+      - name: pop_2003
+        description: Estimated population for 2003.
+
+      - name: pop_2004
+        description: Estimated population for 2004.
+
+      - name: pop_2005
+        description: Estimated population for 2005.
+
+      - name: pop_2006
+        description: Estimated population for 2006.
+
+      - name: pop_2007
+        description: Estimated population for 2007.
+
+      - name: pop_2008
+        description: Estimated population for 2008.
+
+      - name: pop_2009
+        description: Estimated population for 2009.
+
+      - name: pop_2010
+        description: Estimated population for 2010.
+
+      - name: pop_2011
+        description: Estimated population for 2011.
+
+      - name: pop_2012
+        description: Estimated population for 2012.
+
+      - name: pop_2013
+        description: Estimated population for 2013.
+
+      - name: pop_2014
+        description: Estimated population for 2014.
+
+      - name: pop_2015
+        description: Estimated population for 2015.
+
+      - name: pop_2016
+        description: Estimated population for 2016.
+
+      - name: pop_2017
+        description: Estimated population for 2017.
+
+      - name: pop_2018
+        description: Estimated population for 2018.
+
+# NEXT MODEL
+
+  - name: stg_workforce_fte
+    description: >
+      Standardises the NHS workforce full-time equivalent dataset.
+      Cleans text fields, trims whitespace and preserves the original
+      grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: region
+        description: NHS region.
+
+      - name: trust
+        description: NHS Trust or organisation.
+
+      - name: year_2009
+        description: Full-time equivalent workforce for 2009.
+
+      - name: year_2010
+        description: Full-time equivalent workforce for 2010.
+
+      # Repeat consistently through year_2018
+
+# NEXT MODEL
+
+  - name: stg_workforce_fte_prof
+    description: >
+      Standardises the NHS workforce full-time equivalent by profession dataset.
+      Cleans text fields, trims whitespace and preserves the original
+      grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: region
+        description: NHS region.
+
+      - name: trust
+        description: NHS Trust or organisation.
+
+      - name: total
+        description: Total workforce full-time equivalent.
+
+      - name: qual_clin
+        description: Qualified clinical workforce.
+
+      - name: doctors
+        description: Medical workforce.
+
+      - name: nurses
+        description: Nursing workforce.
+
+      - name: midwives
+        description: Midwifery workforce.
+
+      - name: ambulance_staff
+        description: Ambulance workforce.
+
+      - name: science_tech_staff
+        description: Scientific and technical workforce.
+
+      - name: clin_support
+        description: Clinical support workforce.
+
+      - name: support_staff
+        description: Support workforce.
+
+      - name: infrastructure
+        description: Infrastructure workforce.
+
+      - name: manager
+        description: Management workforce.
+
+# NEXT MODEL
+
+  - name: stg_workforce_hc
+    description: >
+      Standardises the NHS workforce headcount dataset.
+      Cleans text fields, trims whitespace and preserves the original
+      grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: region
+        description: NHS region.
+
+      - name: trust
+        description: NHS Trust or organisation.
+
+      - name: year_2009
+        description: Workforce headcount for 2009.
+
+      # Repeat consistently through year_2018
+
+# NEXT MODEL
+  - name: stg_workforce_hc_prof
+    description: >
+      Standardises the NHS workforce headcount by profession dataset.
+      Cleans text fields, trims whitespace and preserves the original
+      grain of the source data ready for downstream transformations.
+
+    columns:
+      - name: region
+        description: NHS region.
+
+      - name: trust
+        description: NHS Trust or organisation.
+
+      - name: total
+        description: Total workforce headcount.
+
+      - name: qual_clin
+        description: Qualified clinical workforce.
+
+      - name: doctors
+        description: Medical workforce.
+
+      - name: nurses
+        description: Nursing workforce.
+
+      - name: midwives
+        description: Midwifery workforce.
+
+      - name: ambulance_staff
+        description: Ambulance workforce.
+
+      - name: science_tech_staff
+        description: Scientific and technical workforce.
+
+      - name: clin_support
+        description: Clinical support workforce.
+
+      - name: support_staff
+        description: Support workforce.
+
+      - name: infrastructure
+        description: Infrastructure workforce.
+
+      - name: manager
+        description: Management workforce.
