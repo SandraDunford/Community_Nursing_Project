@@ -89,7 +89,6 @@ models:
       patients, referrals and care contacts across organisations and geographic 
       areas.
 
-
     columns:
       - name: organisation_key
         description: Foreign key referencing the organisation dimension.
