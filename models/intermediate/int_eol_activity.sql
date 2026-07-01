@@ -15,5 +15,5 @@ SELECT
     'End of Life' AS service_name
 
 FROM {{ ref('stg_eol_referrals') }}
-LEFT JOIN {{ ref('stg_eol_age_group') }}
+LEFT JOIN {{ ref('stg_eol_age_groups') }}
 USING (org_code)
