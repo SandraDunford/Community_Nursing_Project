@@ -14,4 +14,4 @@ SELECT
 
     'Wound Care' AS service_name
 
-FROM {{ ref('stg_wound_referrals') }}
+FROM {{ ref('stg_wound_ages') }}
