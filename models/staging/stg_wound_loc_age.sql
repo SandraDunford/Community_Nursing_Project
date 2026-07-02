@@ -1,12 +1,18 @@
 SELECT
-    TRIM(org_code) AS org_code,
 
     CASE
-        WHEN TRIM(org_name) = 'All Submitters' THEN 'All'
-        ELSE TRIM(org_name)
+        WHEN LOWER(TRIM(org_code)) = 'all submitters'
+            THEN 'all-orgs'
+        ELSE TRIM(org_code)
+    END AS org_code,
+
+    CASE
+        WHEN LOWER(TRIM(org_name)) = 'all submitters'
+            THEN 'all-orgs'
+        ELSE LOWER(TRIM(org_name))
     END AS org_name,
 
-    TRIM(location) AS location,
+    LOWER(TRIM(location)) AS care_location,
 
     age_0_4,
     age_5_9,

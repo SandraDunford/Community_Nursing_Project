@@ -1,22 +1,27 @@
 SELECT
-    TRIM(org_code) AS org_code,
 
     CASE
-        WHEN TRIM(org_name) = 'All Submitters'
-            THEN 'All'
-        ELSE TRIM(org_name)
+        WHEN LOWER(TRIM(org_code)) = 'all submitters'
+            THEN 'all-orgs'
+        ELSE TRIM(org_code)
+    END AS org_code,
+
+    CASE
+        WHEN LOWER(TRIM(org_name)) = 'all submitters'
+            THEN 'all-orgs'
+        ELSE LOWER(TRIM(org_name))
     END AS org_name,
 
-    fem_referral,
+    fem_referral AS female_referrals,
 
-    male_referral,
+    male_referral AS male_referrals,
 
-    total_referral,
+    total_referral AS total_referrals,
 
-    fem_patient,
+    fem_patient AS female_patients,
 
-    male_patient,
+    male_patient AS male_patients,
 
-    total_patient
+    total_patient AS total_patients
 
 FROM {{ source('raw', 'eol_referrals') }}

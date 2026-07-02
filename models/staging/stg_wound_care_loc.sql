@@ -1,9 +1,14 @@
 SELECT
-    TRIM(org_code) AS org_code,
 
-    TRIM(gender) AS gender,
+    CASE
+        WHEN LOWER(TRIM(org_code)) = 'all submitters'
+            THEN 'all-orgs'
+        ELSE TRIM(org_code)
+    END AS org_code,
 
-    TRIM(location_name) AS location_name,
+    LOWER(TRIM(gender)) AS gender,
+
+    LOWER(TRIM(location_name)) AS location_name,
 
     contacts
 
