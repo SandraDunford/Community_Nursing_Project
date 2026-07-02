@@ -1,0 +1,335 @@
+﻿org_code,org_name,procedure,m_patients,f_patients
+All,All,Administering Tests,3835,5612
+All,All,Assessment,34747,50521
+All,All,Clinical Intervention,138188,210543
+All,All,"Counselling, Advice, Support",6839,9214
+All,All,Patient Specific Health Promotion,326,655
+All,All,Multidisciplinary Team Review,142,204
+All,All,Supporting Another Clinician,434,764
+All,All,Health Visitor Health Review (6-8 weeks),0,0
+All,All,Other,80815,121617
+All,All,Unknown,0,0
+All,All,Unknown,0,0
+All,All,All Activity Codes,265329,399135
+AXG,Wiltshire Health & Care,Administering Tests,25,25
+AXG,Wiltshire Health & Care,Assessment,335,690
+AXG,Wiltshire Health & Care,Clinical Intervention,2355,3845
+AXG,Wiltshire Health & Care,"Counselling, Advice, Support",90,85
+AXG,Wiltshire Health & Care,Supporting Another Clinician,10,10
+AXG,Wiltshire Health & Care,Other,1400,2035
+AXG,Wiltshire Health & Care,All Activity Codes,4215,6690
+NAX,East Coast Community Healthcare CIC,Assessment,55,60
+NAX,East Coast Community Healthcare CIC,Clinical Intervention,15,15
+NAX,East Coast Community Healthcare CIC,Other,25,20
+NAX,East Coast Community Healthcare CIC,All Activity Codes,95,90
+NLL,Peninsula Community Health CIC,Assessment,50,45
+NLL,Peninsula Community Health CIC,Clinical Intervention,6100,7175
+NLL,Peninsula Community Health CIC,"Counselling, Advice, Support",290,375
+NLL,Peninsula Community Health CIC,Patient Specific Health Promotion,0,0
+NLL,Peninsula Community Health CIC,Other,1040,1295
+NLL,Peninsula Community Health CIC,All Activity Codes,7485,8890
+NLT,North Somerset Community Partnership CIC,Administering Tests,0,0
+NLT,North Somerset Community Partnership CIC,Assessment,5,5
+NLT,North Somerset Community Partnership CIC,Other,1240,2135
+NLT,North Somerset Community Partnership CIC,All Activity Codes,1250,2140
+NLX,Sirona Care & Health,Assessment,1265,1080
+NLX,Sirona Care & Health,Clinical Intervention,25,35
+NLX,Sirona Care & Health,"Counselling, Advice, Support",0,5
+NLX,Sirona Care & Health,Other,2660,2140
+NLX,Sirona Care & Health,All Activity Codes,3950,3260
+NNV,Your Healthcare,Assessment,35,40
+NNV,Your Healthcare,Clinical Intervention,270,520
+NNV,Your Healthcare,"Counselling, Advice, Support",80,130
+NNV,Your Healthcare,Other,100,145
+NNV,Your Healthcare,All Activity Codes,485,830
+NQ7,Medway Community Healthcare,Other,455,620
+NQ7,Medway Community Healthcare,All Activity Codes,455,620
+NQA,Provide,Assessment,1970,2720
+NQA,Provide,Clinical Intervention,365,600
+NQA,Provide,Other,50,140
+NQA,Provide,All Activity Codes,2385,3465
+NQV,Bromley Healthcare,Other,0,15
+NQV,Bromley Healthcare,All Activity Codes,0,15
+NR5,Livewell Southwest,Assessment,40,90
+NR5,Livewell Southwest,Clinical Intervention,465,925
+NR5,Livewell Southwest,"Counselling, Advice, Support",15,30
+NR5,Livewell Southwest,Other,830,1095
+NR5,Livewell Southwest,All Activity Codes,1350,2145
+R0A,Manchester University NHS Foundation Trust,Assessment,0,0
+R0A,Manchester University NHS Foundation Trust,"Counselling, Advice, Support",0,0
+R0A,Manchester University NHS Foundation Trust,Other,605,635
+R0A,Manchester University NHS Foundation Trust,All Activity Codes,605,635
+R1A,Worcestershire Health and Care NHS Trust,Assessment,55,80
+R1A,Worcestershire Health and Care NHS Trust,Clinical Intervention,1480,1880
+R1A,Worcestershire Health and Care NHS Trust,"Counselling, Advice, Support",0,10
+R1A,Worcestershire Health and Care NHS Trust,All Activity Codes,1535,1970
+R1C,Solent NHS Trust,Assessment,15,20
+R1C,Solent NHS Trust,Clinical Intervention,400,590
+R1C,Solent NHS Trust,"Counselling, Advice, Support",0,0
+R1C,Solent NHS Trust,Other,210,320
+R1C,Solent NHS Trust,All Activity Codes,620,935
+R1D,Shropshire Community Health NHS Trust,Assessment,330,545
+R1D,Shropshire Community Health NHS Trust,Clinical Intervention,2270,2860
+R1D,Shropshire Community Health NHS Trust,"Counselling, Advice, Support",40,45
+R1D,Shropshire Community Health NHS Trust,Multidisciplinary Team Review,0,0
+R1D,Shropshire Community Health NHS Trust,All Activity Codes,2640,3450
+R1J,Gloucestershire Care Services NHS Trust,Assessment,75,60
+R1J,Gloucestershire Care Services NHS Trust,Clinical Intervention,330,365
+R1J,Gloucestershire Care Services NHS Trust,"Counselling, Advice, Support",100,130
+R1J,Gloucestershire Care Services NHS Trust,Other,200,160
+R1J,Gloucestershire Care Services NHS Trust,All Activity Codes,700,710
+R1L,Essex Partnership University NHS Foundation Trust,Assessment,190,230
+R1L,Essex Partnership University NHS Foundation Trust,Clinical Intervention,135,255
+R1L,Essex Partnership University NHS Foundation Trust,"Counselling, Advice, Support",215,295
+R1L,Essex Partnership University NHS Foundation Trust,Other,3080,4600
+R1L,Essex Partnership University NHS Foundation Trust,All Activity Codes,3625,5375
+RAT,North East London NHS Foundation Trust,Administering Tests,50,95
+RAT,North East London NHS Foundation Trust,Assessment,1545,2475
+RAT,North East London NHS Foundation Trust,Clinical Intervention,8720,14460
+RAT,North East London NHS Foundation Trust,"Counselling, Advice, Support",2290,3265
+RAT,North East London NHS Foundation Trust,Patient Specific Health Promotion,135,215
+RAT,North East London NHS Foundation Trust,Multidisciplinary Team Review,0,0
+RAT,North East London NHS Foundation Trust,Supporting Another Clinician,100,195
+RAT,North East London NHS Foundation Trust,Health Visitor Health Review (6-8 weeks),0,0
+RAT,North East London NHS Foundation Trust,Other,355,440
+RAT,North East London NHS Foundation Trust,All Activity Codes,13205,21140
+RBK,Walsall Healthcare NHS Trust,Assessment,0,0
+RBK,Walsall Healthcare NHS Trust,"Counselling, Advice, Support",10,10
+RBK,Walsall Healthcare NHS Trust,Other,0,0
+RBK,Walsall Healthcare NHS Trust,All Activity Codes,15,15
+RCB,York Teaching Hospital NHS Foundation Trust,Assessment,340,350
+RCB,York Teaching Hospital NHS Foundation Trust,Clinical Intervention,5,45
+RCB,York Teaching Hospital NHS Foundation Trust,"Counselling, Advice, Support",0,30
+RCB,York Teaching Hospital NHS Foundation Trust,Other,11195,15205
+RCB,York Teaching Hospital NHS Foundation Trust,All Activity Codes,11545,15630
+RCD,Harrogate and District NHS Foundation Trust,Assessment,125,95
+RCD,Harrogate and District NHS Foundation Trust,Clinical Intervention,180,390
+RCD,Harrogate and District NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RCD,Harrogate and District NHS Foundation Trust,Patient Specific Health Promotion,0,0
+RCD,Harrogate and District NHS Foundation Trust,Multidisciplinary Team Review,0,0
+RCD,Harrogate and District NHS Foundation Trust,Other,185,240
+RCD,Harrogate and District NHS Foundation Trust,All Activity Codes,500,725
+RDR,Sussex Community NHS Foundation Trust,Administering Tests,110,210
+RDR,Sussex Community NHS Foundation Trust,Assessment,1205,2235
+RDR,Sussex Community NHS Foundation Trust,Clinical Intervention,5965,9715
+RDR,Sussex Community NHS Foundation Trust,"Counselling, Advice, Support",70,135
+RDR,Sussex Community NHS Foundation Trust,Patient Specific Health Promotion,30,70
+RDR,Sussex Community NHS Foundation Trust,Other,1655,2405
+RDR,Sussex Community NHS Foundation Trust,All Activity Codes,9040,14765
+RE9,South Tyneside NHS Foundation Trust,Clinical Intervention,977,1678
+RE9,South Tyneside NHS Foundation Trust,All Activity Codes,977,1678
+RFR,The Rotherham NHS Foundation Trust,Assessment,90,115
+RFR,The Rotherham NHS Foundation Trust,Clinical Intervention,50,25
+RFR,The Rotherham NHS Foundation Trust,"Counselling, Advice, Support",5,10
+RFR,The Rotherham NHS Foundation Trust,Other,45,50
+RFR,The Rotherham NHS Foundation Trust,All Activity Codes,195,200
+RH5,Somerset Partnership NHS Foundation Trust,Administering Tests,990,1380
+RH5,Somerset Partnership NHS Foundation Trust,Assessment,320,340
+RH5,Somerset Partnership NHS Foundation Trust,Clinical Intervention,4645,6265
+RH5,Somerset Partnership NHS Foundation Trust,"Counselling, Advice, Support",650,850
+RH5,Somerset Partnership NHS Foundation Trust,Other,220,190
+RH5,Somerset Partnership NHS Foundation Trust,All Activity Codes,6820,9025
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Administering Tests,5,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Assessment,0,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Clinical Intervention,8205,12805
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Supporting Another Clinician,150,245
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Other,85,150
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Unknown,0,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,All Activity Codes,8450,13205
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Assessment,30,40
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Clinical Intervention,8595,11870
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Other,30,35
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,All Activity Codes,8655,11945
+RJ2,Lewisham and Greenwich NHS Trust,Assessment,75,95
+RJ2,Lewisham and Greenwich NHS Trust,Clinical Intervention,80,120
+RJ2,Lewisham and Greenwich NHS Trust,"Counselling, Advice, Support",65,85
+RJ2,Lewisham and Greenwich NHS Trust,Other,50,80
+RJ2,Lewisham and Greenwich NHS Trust,Unknown,0,0
+RJ2,Lewisham and Greenwich NHS Trust,All Activity Codes,265,385
+RJ6,Croydon Health Services NHS Trust,Clinical Intervention,55,30
+RJ6,Croydon Health Services NHS Trust,All Activity Codes,55,30
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Assessment,30,10
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Clinical Intervention,390,75
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,"Counselling, Advice, Support",0,15
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Supporting Another Clinician,0,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Other,280,570
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,All Activity Codes,705,670
+RKE,Whittington Health NHS Trust,Administering Tests,0,0
+RKE,Whittington Health NHS Trust,Assessment,65,95
+RKE,Whittington Health NHS Trust,Clinical Intervention,105,55
+RKE,Whittington Health NHS Trust,"Counselling, Advice, Support",35,20
+RKE,Whittington Health NHS Trust,Patient Specific Health Promotion,0,0
+RKE,Whittington Health NHS Trust,Multidisciplinary Team Review,120,195
+RKE,Whittington Health NHS Trust,Supporting Another Clinician,0,0
+RKE,Whittington Health NHS Trust,Other,20,20
+RKE,Whittington Health NHS Trust,All Activity Codes,355,385
+RL4,The Royal Wolverhampton NHS Trust,Assessment,85,195
+RL4,The Royal Wolverhampton NHS Trust,Clinical Intervention,145,90
+RL4,The Royal Wolverhampton NHS Trust,Other,0,0
+RL4,The Royal Wolverhampton NHS Trust,All Activity Codes,230,285
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Assessment,140,120
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Clinical Intervention,2465,3985
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Other,155,225
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,All Activity Codes,2760,4330
+RNN,Cumbria Partnership NHS Foundation Trust,Clinical Intervention,0,10
+RNN,Cumbria Partnership NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RNN,Cumbria Partnership NHS Foundation Trust,All Activity Codes,0,10
+RNU,Oxford Health NHS Foundation Trust,Assessment,500,675
+RNU,Oxford Health NHS Foundation Trust,"Counselling, Advice, Support",150,165
+RNU,Oxford Health NHS Foundation Trust,Multidisciplinary Team Review,0,0
+RNU,Oxford Health NHS Foundation Trust,Other,4640,8230
+RNU,Oxford Health NHS Foundation Trust,All Activity Codes,5295,9070
+RPG,Oxleas NHS Foundation Trust,Assessment,0,0
+RPG,Oxleas NHS Foundation Trust,Clinical Intervention,30,50
+RPG,Oxleas NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RPG,Oxleas NHS Foundation Trust,Other,0,0
+RPG,Oxleas NHS Foundation Trust,All Activity Codes,30,60
+RR1,Heart of England NHS Foundation Trust,Assessment,10,40
+RR1,Heart of England NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RR1,Heart of England NHS Foundation Trust,Other,1485,2335
+RR1,Heart of England NHS Foundation Trust,All Activity Codes,1495,2375
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Assessment,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Clinical Intervention,0,5
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",All Activity Codes,5,5
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Administering Tests,100,285
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Assessment,3895,5700
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Clinical Intervention,11590,22895
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,"Counselling, Advice, Support",130,210
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Patient Specific Health Promotion,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Supporting Another Clinician,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,All Activity Codes,15720,29085
+RT2,Pennine Care NHS Foundation Trust,Assessment,95,150
+RT2,Pennine Care NHS Foundation Trust,Clinical Intervention,35,60
+RT2,Pennine Care NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RT2,Pennine Care NHS Foundation Trust,Other,25,40
+RT2,Pennine Care NHS Foundation Trust,All Activity Codes,160,260
+RT5,Leicestershire Partnership NHS Trust,Administering Tests,1465,2070
+RT5,Leicestershire Partnership NHS Trust,Assessment,190,220
+RT5,Leicestershire Partnership NHS Trust,Clinical Intervention,12305,18065
+RT5,Leicestershire Partnership NHS Trust,"Counselling, Advice, Support",425,455
+RT5,Leicestershire Partnership NHS Trust,Patient Specific Health Promotion,0,0
+RT5,Leicestershire Partnership NHS Trust,Multidisciplinary Team Review,10,0
+RT5,Leicestershire Partnership NHS Trust,Supporting Another Clinician,50,90
+RT5,Leicestershire Partnership NHS Trust,All Activity Codes,14445,20895
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Clinical Intervention,0,150
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"Counselling, Advice, Support",0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Other,0,20
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,All Activity Codes,10,165
+RTR,South Tees Hospitals NHS Foundation Trust,Assessment,80,120
+RTR,South Tees Hospitals NHS Foundation Trust,Clinical Intervention,0,15
+RTR,South Tees Hospitals NHS Foundation Trust,"Counselling, Advice, Support",115,80
+RTR,South Tees Hospitals NHS Foundation Trust,Supporting Another Clinician,95,205
+RTR,South Tees Hospitals NHS Foundation Trust,Other,12210,20260
+RTR,South Tees Hospitals NHS Foundation Trust,All Activity Codes,12500,20685
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Administering Tests,35,130
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Assessment,350,695
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Clinical Intervention,1680,3090
+RTV,North West Boroughs Healthcare NHS Foundation Trust,"Counselling, Advice, Support",195,390
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Patient Specific Health Promotion,130,350
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Supporting Another Clinician,0,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Other,755,1080
+RTV,North West Boroughs Healthcare NHS Foundation Trust,All Activity Codes,3150,5740
+RV3,Central and North West London NHS Foundation Trust,Assessment,10,15
+RV3,Central and North West London NHS Foundation Trust,Multidisciplinary Team Review,0,5
+RV3,Central and North West London NHS Foundation Trust,Other,120,140
+RV3,Central and North West London NHS Foundation Trust,All Activity Codes,130,160
+RV9,Humber NHS Foundation Trust,Assessment,0,0
+RV9,Humber NHS Foundation Trust,Clinical Intervention,245,270
+RV9,Humber NHS Foundation Trust,"Counselling, Advice, Support",15,10
+RV9,Humber NHS Foundation Trust,Other,285,315
+RV9,Humber NHS Foundation Trust,All Activity Codes,545,600
+RVW,North Tees and Hartlepool NHS Foundation Trust,Clinical Intervention,2920,4470
+RVW,North Tees and Hartlepool NHS Foundation Trust,Other,2440,3670
+RVW,North Tees and Hartlepool NHS Foundation Trust,All Activity Codes,5360,8145
+RVY,Southport and Ormskirk Hospital NHS Trust,Other,10,15
+RVY,Southport and Ormskirk Hospital NHS Trust,All Activity Codes,10,15
+RW1,Southern Health NHS Foundation Trust,Administering Tests,0,0
+RW1,Southern Health NHS Foundation Trust,Assessment,75,155
+RW1,Southern Health NHS Foundation Trust,Clinical Intervention,350,630
+RW1,Southern Health NHS Foundation Trust,"Counselling, Advice, Support",485,820
+RW1,Southern Health NHS Foundation Trust,Patient Specific Health Promotion,0,0
+RW1,Southern Health NHS Foundation Trust,Supporting Another Clinician,0,0
+RW1,Southern Health NHS Foundation Trust,Other,0,0
+RW1,Southern Health NHS Foundation Trust,All Activity Codes,915,1605
+RW5,Lancashire Care NHS Foundation Trust,Other,535,835
+RW5,Lancashire Care NHS Foundation Trust,All Activity Codes,535,835
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Clinical Intervention,500,365
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Other,60,50
+RWY,Calderdale and Huddersfield NHS Foundation Trust,All Activity Codes,560,415
+RXC,East Sussex Healthcare NHS Trust,Assessment,610,1445
+RXC,East Sussex Healthcare NHS Trust,Clinical Intervention,2670,4400
+RXC,East Sussex Healthcare NHS Trust,Other,1490,2575
+RXC,East Sussex Healthcare NHS Trust,All Activity Codes,4775,8420
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Administering Tests,940,1280
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Assessment,12705,21205
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Clinical Intervention,37980,56800
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,"Counselling, Advice, Support",910,1055
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Other,7320,12310
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,All Activity Codes,59860,92650
+RXF,Mid Yorkshire Hospitals NHS Trust,Clinical Intervention,0,10
+RXF,Mid Yorkshire Hospitals NHS Trust,Other,15,15
+RXF,Mid Yorkshire Hospitals NHS Trust,All Activity Codes,15,30
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Assessment,435,570
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Clinical Intervention,2065,3995
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Other,1035,1820
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,All Activity Codes,3540,6380
+RY1,Liverpool Community Health NHS Trust,Administering Tests,25,25
+RY1,Liverpool Community Health NHS Trust,Assessment,4125,4425
+RY1,Liverpool Community Health NHS Trust,Clinical Intervention,1835,1670
+RY1,Liverpool Community Health NHS Trust,"Counselling, Advice, Support",180,105
+RY1,Liverpool Community Health NHS Trust,Patient Specific Health Promotion,20,15
+RY1,Liverpool Community Health NHS Trust,Other,5200,6755
+RY1,Liverpool Community Health NHS Trust,All Activity Codes,11380,12990
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Administering Tests,55,85
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Assessment,120,85
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Clinical Intervention,2660,3210
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,"Counselling, Advice, Support",15,30
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Other,670,725
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,All Activity Codes,3525,4140
+RY3,Norfolk Community Health and Care NHS Trust,Clinical Intervention,0,0
+RY3,Norfolk Community Health and Care NHS Trust,Supporting Another Clinician,0,0
+RY3,Norfolk Community Health and Care NHS Trust,Other,0,0
+RY3,Norfolk Community Health and Care NHS Trust,All Activity Codes,0,0
+RY4,Hertfordshire Community NHS Trust,Assessment,980,1190
+RY4,Hertfordshire Community NHS Trust,Clinical Intervention,4090,6595
+RY4,Hertfordshire Community NHS Trust,"Counselling, Advice, Support",185,265
+RY4,Hertfordshire Community NHS Trust,Multidisciplinary Team Review,0,0
+RY4,Hertfordshire Community NHS Trust,Other,7945,14550
+RY4,Hertfordshire Community NHS Trust,All Activity Codes,13195,22595
+RY5,Lincolnshire Community Health Services NHS Trust,Assessment,60,45
+RY5,Lincolnshire Community Health Services NHS Trust,Clinical Intervention,185,415
+RY5,Lincolnshire Community Health Services NHS Trust,Multidisciplinary Team Review,0,0
+RY5,Lincolnshire Community Health Services NHS Trust,Other,4615,5405
+RY5,Lincolnshire Community Health Services NHS Trust,All Activity Codes,4860,5860
+RY6,Leeds Community Healthcare NHS Trust,Assessment,150,265
+RY6,Leeds Community Healthcare NHS Trust,Other,20,0
+RY6,Leeds Community Healthcare NHS Trust,All Activity Codes,175,265
+RY7,Wirral Community NHS Foundation Trust,Clinical Intervention,50,120
+RY7,Wirral Community NHS Foundation Trust,Other,1120,1310
+RY7,Wirral Community NHS Foundation Trust,All Activity Codes,1170,1430
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Assessment,60,70
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Clinical Intervention,275,300
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Supporting Another Clinician,15,15
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Other,65,90
+RY8,Derbyshire Community Health Services NHS Foundation Trust,All Activity Codes,415,475
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Assessment,35,45
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Clinical Intervention,65,80
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Other,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,All Activity Codes,100,125
+RYG,Coventry and Warwickshire Partnership NHS Trust,Administering Tests,30,35
+RYG,Coventry and Warwickshire Partnership NHS Trust,Assessment,130,220
+RYG,Coventry and Warwickshire Partnership NHS Trust,Clinical Intervention,1805,2155
+RYG,Coventry and Warwickshire Partnership NHS Trust,"Counselling, Advice, Support",30,65
+RYG,Coventry and Warwickshire Partnership NHS Trust,Patient Specific Health Promotion,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,Other,1380,1640
+RYG,Coventry and Warwickshire Partnership NHS Trust,All Activity Codes,3375,4115
+RYV,Cambridgeshire Community Services NHS Trust,Assessment,10,25
+RYV,Cambridgeshire Community Services NHS Trust,Clinical Intervention,30,0
+RYV,Cambridgeshire Community Services NHS Trust,"Counselling, Advice, Support",20,30
+RYV,Cambridgeshire Community Services NHS Trust,Other,1185,2445
+RYV,Cambridgeshire Community Services NHS Trust,All Activity Codes,1245,2500
+RYX,Central London Community Healthcare NHS Trust,Assessment,1620,1330
+RYX,Central London Community Healthcare NHS Trust,Clinical Intervention,35,50
+RYX,Central London Community Healthcare NHS Trust,"Counselling, Advice, Support",0,0
+RYX,Central London Community Healthcare NHS Trust,All Activity Codes,1660,1380

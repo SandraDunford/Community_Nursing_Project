@@ -1,0 +1,506 @@
+﻿org_code,org_name,location,age_0_4,age_5_9,age_10_14,age_15_18,age_19_24,age_25_29,age_30_34,age_35_39,age_40_44,age_45_49,age_50_54,age_55_59,age_60_64,age_65_69,age_70_74,age_75_79,age_80_84,age_85_plus,age_unknown
+All,All,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0
+All,All,Dedicated Facilities for Children and Families,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All,All,"Educational, Childcare and Training Establishments",0,0,5,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All,All,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,5,70,160,210,215,185,240,430,415,690,850,1210,1720,1935,2395,5325,0
+All,All,Health Centre premises,65,45,250,440,1175,1060,1515,1445,1290,1400,2220,2085,2290,2195,2790,2865,3010,2455,0
+All,All,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0
+All,All,Justice and Home Office premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All,All,Locations on Hospital Premises,20,10,30,80,355,220,265,430,480,625,610,1060,965,1775,2035,1820,3170,4830,5
+All,All,Not recorded,135,110,340,815,1820,1805,2080,2545,3020,4110,6880,7750,10625,13865,20035,23345,32970,82220,75
+All,All,Nursing and Residential Homes,0,0,0,5,25,25,15,45,20,110,145,235,325,480,1005,2025,3855,16195,15
+All,All,Other locations,95,45,220,310,635,445,610,650,825,1195,1295,1810,2430,3420,4360,5840,7355,18495,45
+All,All,Patients Main residence or related location,130,85,355,900,2150,2430,3000,3080,4545,6040,9215,12600,16850,22635,32885,39735,56550,134700,75
+All,All,Public locations,0,0,0,0,10,0,5,15,10,10,20,20,25,40,50,50,95,235,0
+All,All,"Walk In Centres, Out of Hours Premises and Emergency Community Dental Services",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20,0
+AXG,Wiltshire Health & Care,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,10,5,15,15,25,30,45,45,100,115,110,150,455,0
+AXG,Wiltshire Health & Care,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AXG,Wiltshire Health & Care,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+AXG,Wiltshire Health & Care,Not recorded,0,0,0,0,20,25,20,40,50,110,95,170,225,370,550,390,670,1850,0
+AXG,Wiltshire Health & Care,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,20,0,10,10,20,35,40,110,600,0
+AXG,Wiltshire Health & Care,Other locations,0,0,0,0,5,5,5,15,15,25,25,35,65,70,105,105,195,460,0
+AXG,Wiltshire Health & Care,Patients Main residence or related location,0,0,0,0,15,30,30,65,40,135,120,220,355,460,760,570,815,2615,0
+NAX,East Coast Community Healthcare CIC,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAX,East Coast Community Healthcare CIC,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,5,25,5,10,10,0
+NAX,East Coast Community Healthcare CIC,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NAX,East Coast Community Healthcare CIC,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+NDA,Virgin Care Services Ltd,Not recorded,0,0,0,30,45,45,50,20,55,90,185,135,260,340,425,555,920,1455,0
+NLL,Peninsula Community Health CIC,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+NLL,Peninsula Community Health CIC,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,5,25,85,80,20,60,170,70,215,270,425,650,650,770,1575,0
+NLL,Peninsula Community Health CIC,Health Centre premises,0,0,0,5,0,0,0,0,0,0,0,0,0,0,10,10,5,10,0
+NLL,Peninsula Community Health CIC,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NLL,Peninsula Community Health CIC,Locations on Hospital Premises,0,0,0,0,15,10,25,10,30,40,50,60,95,125,190,210,260,410,0
+NLL,Peninsula Community Health CIC,Not recorded,0,0,0,0,5,15,10,10,25,35,30,40,70,140,165,175,215,565,0
+NLL,Peninsula Community Health CIC,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,25,0,0,10,45,30,25,85,415,0
+NLL,Peninsula Community Health CIC,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NLL,Peninsula Community Health CIC,Patients Main residence or related location,0,0,0,5,45,130,85,75,180,155,165,425,580,680,1155,1305,1225,2700,0
+NLT,North Somerset Community Partnership CIC,Other locations,0,0,0,0,50,45,15,45,5,35,45,80,225,120,325,455,400,1855,0
+NLT,North Somerset Community Partnership CIC,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,0
+NLW,Bristol Community Health,Not recorded,0,0,0,20,5,10,5,15,15,35,40,50,55,135,180,135,205,590,0
+NLX,Sirona Care & Health,Other locations,0,0,0,0,0,0,10,0,30,45,35,65,45,95,80,295,235,350,0
+NNV,Your Healthcare,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0
+NNV,Your Healthcare,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,255,0,0
+NNV,Your Healthcare,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,10,0,0,5,0,10,35,60,0
+NNV,Your Healthcare,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,55,0
+NNV,Your Healthcare,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,20,0
+NNV,Your Healthcare,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,15,0,0,5,25,20,30,200,0
+NNV,Your Healthcare,"Walk In Centres, Out of Hours Premises and Emergency Community Dental Services",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+NQ7,Medway Community Healthcare,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQ7,Medway Community Healthcare,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQ7,Medway Community Healthcare,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+NQ7,Medway Community Healthcare,Patients Main residence or related location,0,0,0,0,5,5,0,20,45,25,90,40,45,100,100,115,160,270,0
+NQ7,Medway Community Healthcare,Public locations,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,0,0
+NQA,Provide,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,15,0
+NQA,Provide,Health Centre premises,0,0,0,0,0,5,5,0,0,0,5,0,10,25,35,10,10,30,0
+NQA,Provide,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQA,Provide,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQA,Provide,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,5,5,25,30,10,100,105,240,1420,0
+NQA,Provide,Other locations,0,0,0,0,0,0,0,0,10,0,15,30,30,35,50,135,170,465,0
+NQA,Provide,Patients Main residence or related location,0,0,0,10,30,15,25,50,130,55,155,225,450,535,905,1280,2075,5735,0
+NQT,Virgin Care Ltd,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,10,0,10,0,5,0,40,15,35,20,45,85,210,0
+NQT,Virgin Care Ltd,Health Centre premises,0,0,0,0,45,15,20,25,40,45,85,30,135,65,110,95,125,85,0
+NQT,Virgin Care Ltd,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0
+NQT,Virgin Care Ltd,Not recorded,0,0,0,0,15,0,0,0,15,15,10,10,35,15,15,20,35,45,0
+NQT,Virgin Care Ltd,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,15,60,0
+NQT,Virgin Care Ltd,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0
+NQT,Virgin Care Ltd,Patients Main residence or related location,0,0,0,0,35,40,15,15,45,115,60,130,205,245,345,315,705,1100,0
+NQT,Virgin Care Ltd,Public locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQV,Bromley Healthcare,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQV,Bromley Healthcare,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NQV,Bromley Healthcare,Patients Main residence or related location,0,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NR5,Livewell Southwest,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,5,0,0,0,0,0,5,5,15,15,25,15,35,85,0
+NR5,Livewell Southwest,Not recorded,0,0,0,55,85,140,40,70,75,150,130,180,670,415,850,670,945,2635,0
+NR5,Livewell Southwest,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,15,5,30,25,20,95,160,925,0
+NR5,Livewell Southwest,Other locations,0,0,0,0,0,0,0,10,0,5,5,10,35,25,60,60,90,180,0
+NR5,Livewell Southwest,Patients Main residence or related location,0,0,0,0,0,10,0,50,10,15,55,100,210,215,500,345,540,1095,0
+R0A,Manchester University NHS Foundation Trust,Other locations,35,15,70,20,95,25,95,120,45,110,45,60,90,55,85,105,90,125,0
+R0A,Manchester University NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1A,Worcestershire Health and Care NHS Trust,Locations on Hospital Premises,0,0,0,0,10,0,15,0,0,10,5,20,20,10,5,30,30,70,0
+R1A,Worcestershire Health and Care NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+R1A,Worcestershire Health and Care NHS Trust,Other locations,0,0,0,5,0,0,0,0,0,0,10,10,0,10,10,15,10,170,0
+R1A,Worcestershire Health and Care NHS Trust,Patients Main residence or related location,0,0,0,25,0,25,30,35,20,10,50,200,250,220,465,450,500,1860,0
+R1C,Solent NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,0,5,0
+R1C,Solent NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1C,Solent NHS Trust,Not recorded,0,0,0,0,0,10,0,0,25,30,120,75,30,185,420,320,405,950,0
+R1C,Solent NHS Trust,Other locations,0,0,0,0,0,0,0,0,0,0,5,0,0,10,15,25,25,65,0
+R1C,Solent NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,20,20,50,80,25,150,255,240,305,745,0
+R1D,Shropshire Community Health NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,5,0,0,0,0,10,10,10,10,0
+R1D,Shropshire Community Health NHS Trust,Health Centre premises,0,0,10,0,0,5,0,0,0,10,10,0,5,0,0,0,5,5,0
+R1D,Shropshire Community Health NHS Trust,Justice and Home Office premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1D,Shropshire Community Health NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,5,0,0,0,0,5,0,0,0,0,0
+R1D,Shropshire Community Health NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,25,65,0
+R1D,Shropshire Community Health NHS Trust,Other locations,0,0,0,35,0,15,5,5,30,20,15,10,25,45,30,30,45,125,0
+R1D,Shropshire Community Health NHS Trust,Patients Main residence or related location,0,0,35,10,55,95,35,45,65,115,185,200,580,325,675,1175,1390,3550,0
+R1D,Shropshire Community Health NHS Trust,"Walk In Centres, Out of Hours Premises and Emergency Community Dental Services",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,15,10,0,0,25,50,35,60,60,125,135,0
+R1J,Gloucestershire Care Services NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,5,0,0,10,10,20,5,15,15,20,25,0
+R1J,Gloucestershire Care Services NHS Trust,Other locations,0,0,0,10,0,0,0,0,0,0,0,0,5,0,5,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,Patients Main residence or related location,15,0,0,15,0,0,0,0,0,0,0,0,35,0,20,5,10,15,0
+R1L,Essex Partnership University NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,20,10,20,10,5,5,15,20,35,60,50,120,105,120,415,0
+R1L,Essex Partnership University NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+R1L,Essex Partnership University NHS Foundation Trust,Not recorded,0,0,5,140,215,185,130,170,110,330,365,930,1100,1245,1665,1930,3455,8785,0
+R1L,Essex Partnership University NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,5,0,10,5,30,0,30,45,70,115,525,0
+R1L,Essex Partnership University NHS Foundation Trust,Other locations,0,0,0,10,5,10,5,0,20,15,15,45,45,45,75,60,150,480,0
+R1L,Essex Partnership University NHS Foundation Trust,Patients Main residence or related location,10,10,95,140,175,155,140,140,210,245,265,710,815,975,1055,1490,2835,6065,0
+R1L,Essex Partnership University NHS Foundation Trust,Public locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RAT,North East London NHS Foundation Trust,"Educational, Childcare and Training Establishments",0,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RAT,North East London NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,10,0,10,5,10,25,35,25,25,70,90,105,300,0
+RAT,North East London NHS Foundation Trust,Health Centre premises,0,0,0,0,10,10,10,35,25,30,55,75,70,65,30,50,60,65,0
+RAT,North East London NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,60,10,25,15,40,50,70,85,45,85,170,135,160,350,0
+RAT,North East London NHS Foundation Trust,Not recorded,0,0,0,0,10,15,10,25,30,15,35,20,35,80,40,40,20,60,0
+RAT,North East London NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,10,0,10,10,10,40,40,80,320,0
+RAT,North East London NHS Foundation Trust,Other locations,0,0,0,15,20,0,10,10,10,20,30,20,25,40,60,80,85,155,0
+RAT,North East London NHS Foundation Trust,Patients Main residence or related location,0,10,10,60,110,145,145,325,320,445,425,765,1045,1075,1720,2015,3260,7300,0
+RAT,North East London NHS Foundation Trust,Public locations,0,0,0,0,5,0,0,10,0,0,0,0,0,10,0,0,15,20,0
+RBK,Walsall Healthcare NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RBZ,Northern Devon Healthcare NHS Trust,"Educational, Childcare and Training Establishments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,10,0,15,10,0,5,15,25,20,50,100,0
+RBZ,Northern Devon Healthcare NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,0
+RBZ,Northern Devon Healthcare NHS Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,5,45,225,0
+RBZ,Northern Devon Healthcare NHS Trust,Patients Main residence or related location,20,0,5,10,5,10,5,5,70,35,40,65,160,160,560,355,680,1605,0
+RCB,York Teaching Hospital NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,5,0,0,0,5,10,0,5,5,10,10,35,0
+RCB,York Teaching Hospital NHS Foundation Trust,Not recorded,0,0,0,0,75,30,65,50,75,40,100,135,145,285,315,520,570,1440,0
+RCB,York Teaching Hospital NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,10,10,35,40,65,235,0
+RCB,York Teaching Hospital NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,5,5,5,10,5,15,25,25,0
+RCB,York Teaching Hospital NHS Foundation Trust,Patients Main residence or related location,0,0,0,10,55,105,185,165,95,130,295,370,245,490,910,1125,1900,4590,0
+RCD,Harrogate and District NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,5,5,10,5,20,35,0
+RCD,Harrogate and District NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,5,0,0,15,5,0,10,0,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,Not recorded,0,0,0,0,0,0,15,5,35,30,65,90,140,135,230,275,425,1355,0
+RCD,Harrogate and District NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,25,15,35,235,0
+RCD,Harrogate and District NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,5,15,25,30,40,45,50,70,95,275,0
+RCD,Harrogate and District NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,5,10,0,35,5,20,60,75,65,130,140,240,640,0
+RDR,Sussex Community NHS Foundation Trust,Dedicated Facilities for Children and Families,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RDR,Sussex Community NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,10,5,10,15,15,15,10,25,20,20,35,50,60,160,0
+RDR,Sussex Community NHS Foundation Trust,Health Centre premises,0,0,0,5,100,55,20,140,70,90,75,135,75,80,75,115,75,90,0
+RDR,Sussex Community NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RDR,Sussex Community NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,15,0,20,5,5,15,40,0
+RDR,Sussex Community NHS Foundation Trust,Not recorded,0,0,0,75,235,180,120,195,270,340,650,850,1135,1420,1910,2835,3955,12385,0
+RDR,Sussex Community NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,5,0,0,0,0,5,0,10,15,25,95,240,865,0
+RDR,Sussex Community NHS Foundation Trust,Other locations,10,5,5,75,35,25,20,20,25,65,75,135,155,240,310,440,585,1850,0
+RDR,Sussex Community NHS Foundation Trust,Patients Main residence or related location,0,0,0,35,110,95,80,90,145,250,490,620,615,1115,1435,1965,2640,7765,0
+RE9,South Tyneside NHS Foundation Trust,Patients Main residence or related location,0,0,0,5,90,10,75,45,35,130,190,155,210,325,275,395,555,1255,0
+RFR,The Rotherham NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RFR,The Rotherham NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+RFR,The Rotherham NHS Foundation Trust,Not recorded,0,0,0,0,0,10,0,5,5,10,20,5,15,25,35,30,35,55,0
+RFR,The Rotherham NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,0
+RFR,The Rotherham NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,10,5,15,0
+RH5,Somerset Partnership NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,5,0
+RH5,Somerset Partnership NHS Foundation Trust,Locations on Hospital Premises,0,0,0,5,60,0,0,45,20,55,60,85,80,55,150,85,115,100,0
+RH5,Somerset Partnership NHS Foundation Trust,Not recorded,0,0,0,0,5,0,0,10,15,40,5,0,5,0,45,20,10,75,0
+RH5,Somerset Partnership NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RH5,Somerset Partnership NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,15,0
+RH5,Somerset Partnership NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,15,10,25,10,180,85,205,315,335,470,1150,1115,1690,5890,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,10,10,10,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Health Centre premises,0,0,0,0,15,10,20,30,25,25,25,40,60,65,85,145,75,130,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,10,10,5,0,0,5,30,25,20,50,160,230,370,1615,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,10,0,0,10,20,25,25,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,Patients Main residence or related location,0,0,0,5,95,160,185,180,290,360,550,975,1265,1630,2665,2945,3965,9210,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,15,0,10,0,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Not recorded,0,0,0,5,25,20,30,15,20,30,80,85,110,140,170,295,305,335,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,75,50,310,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Other locations,0,0,0,0,0,0,5,0,5,0,10,10,10,20,20,30,40,65,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Patients Main residence or related location,0,0,0,50,235,110,70,225,230,325,440,630,895,1200,1495,2175,2220,4580,0
+RJ2,Lewisham and Greenwich NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,Not recorded,0,0,0,0,0,0,5,5,0,0,0,10,15,5,20,15,10,55,0
+RJ6,Croydon Health Services NHS Trust,Not recorded,20,0,85,5,10,5,30,110,85,215,285,315,375,490,580,750,900,2655,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,5,0,5,20,10,10,25,40,85,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,5,15,5,25,20,0,15,10,20,5,10,15,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Not recorded,0,0,0,0,15,0,10,10,5,25,20,20,35,40,45,70,155,310,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,15,5,0,25,25,30,95,145,485,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,15,10,40,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,55,15,70,10,40,35,50,135,175,270,280,430,485,1015,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,Public locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RKE,Whittington Health NHS Trust,"Educational, Childcare and Training Establishments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RKE,Whittington Health NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0
+RKE,Whittington Health NHS Trust,Health Centre premises,0,0,0,0,10,20,10,0,0,5,0,0,10,10,20,0,0,50,0
+RKE,Whittington Health NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RKE,Whittington Health NHS Trust,Not recorded,0,0,0,0,0,0,0,0,0,15,15,15,25,10,30,20,50,110,0
+RKE,Whittington Health NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,10,0,25,0
+RKE,Whittington Health NHS Trust,Other locations,0,0,0,0,0,0,0,0,0,0,5,5,10,5,10,5,15,20,0
+RKE,Whittington Health NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,5,5,5,5,10,15,10,25,50,0
+RL4,The Royal Wolverhampton NHS Trust,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,5,30,5,20,30,20,15,25,30,30,35,20,0
+RL4,The Royal Wolverhampton NHS Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Not recorded,0,0,0,45,135,110,135,110,195,240,385,490,380,475,870,1050,770,2245,0
+RNA,The Dudley Group NHS Foundation Trust,"Educational, Childcare and Training Establishments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,10,0,0,20,10,0,30,0,35,40,25,0
+RNA,The Dudley Group NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,0
+RNA,The Dudley Group NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,15,15,40,15,5,20,95,35,35,75,110,200,185,475,0
+RNN,Cumbria Partnership NHS Foundation Trust,Dedicated Facilities for Children and Families,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNN,Cumbria Partnership NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNN,Cumbria Partnership NHS Foundation Trust,Patients Main residence or related location,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNU,Oxford Health NHS Foundation Trust,Not recorded,0,45,30,5,25,80,55,25,50,160,190,340,370,540,975,1165,1775,5390,0
+RPG,Oxleas NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0
+RPG,Oxleas NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,5,0,15,0,10,20,30,30,50,85,0
+RR1,Heart of England NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,10,0,25,0
+RR1,Heart of England NHS Foundation Trust,Not recorded,0,0,0,0,10,10,20,10,10,20,65,70,55,85,140,175,195,540,0
+RR1,Heart of England NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RR1,Heart of England NHS Foundation Trust,Other locations,0,0,0,0,0,5,20,5,5,10,35,35,35,80,75,95,95,235,0
+RR1,Heart of England NHS Foundation Trust,Patients Main residence or related location,0,0,0,10,5,10,35,10,15,20,120,225,195,200,230,285,420,1085,0
+RR7,Gateshead Health NHS Foundation rust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RR7,Gateshead Health NHS Foundation rust,Locations on Hospital Premises,0,0,0,0,0,45,30,140,115,215,50,365,285,805,765,540,1325,2120,0
+RR7,Gateshead Health NHS Foundation rust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RR7,Gateshead Health NHS Foundation rust,Patients Main residence or related location,0,5,20,0,0,0,0,0,85,0,0,0,0,10,25,70,25,35,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,5,0,0,5,10,20,30,10,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,5,0,5,15,20,20,25,40,35,60,90,175,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,5,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,5,0,5,10,5,10,5,20,30,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,5,0,5,35,65,115,535,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Other locations,10,0,0,0,50,10,15,10,50,55,70,95,155,300,295,415,610,2055,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Patients Main residence or related location,10,0,0,5,85,45,105,85,140,280,280,355,830,1475,1320,1555,2705,7015,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,Public locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,Health Centre premises,0,0,0,0,0,15,0,0,0,5,5,10,15,15,15,15,10,0,0
+RT2,Pennine Care NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,15,0,0,0,0,10,5,10,10,20,15,20,10,0
+RT2,Pennine Care NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,25,10,0
+RT2,Pennine Care NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,10,0,0,10,20,25,15,20,30,20,85,65,0
+RT5,Leicestershire Partnership NHS Trust,"Educational, Childcare and Training Establishments",0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RT5,Leicestershire Partnership NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,30,60,40,30,35,50,20,30,50,70,50,55,75,50,60,0
+RT5,Leicestershire Partnership NHS Trust,Locations on Hospital Premises,5,5,10,65,160,95,120,100,150,95,65,135,85,180,90,70,85,80,5
+RT5,Leicestershire Partnership NHS Trust,Not recorded,25,15,130,125,315,310,270,195,295,305,375,465,570,835,920,915,1505,2870,75
+RT5,Leicestershire Partnership NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,5,15,30,50,65,130,255,1085,15
+RT5,Leicestershire Partnership NHS Trust,Other locations,20,10,80,70,230,145,225,185,335,270,290,415,470,650,830,1030,1320,2425,45
+RT5,Leicestershire Partnership NHS Trust,Patients Main residence or related location,25,15,110,100,130,110,190,155,180,270,315,420,575,1200,1050,1290,2230,3590,75
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,"Educational, Childcare and Training Establishments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,10,0,0,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Patients Main residence or related location,0,0,0,5,0,0,0,0,0,0,0,0,0,0,10,0,5,15,0
+RTR,South Tees Hospitals NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,5,5,20,10,15,20,25,40,55,80,185,0
+RTR,South Tees Hospitals NHS Foundation Trust,Not recorded,0,0,0,10,30,30,20,105,70,165,205,235,290,580,425,495,870,1850,0
+RTR,South Tees Hospitals NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RTR,South Tees Hospitals NHS Foundation Trust,Other locations,0,0,0,0,0,15,15,45,15,60,70,85,80,210,185,205,355,630,0
+RTR,South Tees Hospitals NHS Foundation Trust,Patients Main residence or related location,0,0,0,10,55,50,90,205,145,355,425,745,750,1365,1470,1485,3060,5495,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Health Centre premises,10,5,65,135,270,205,250,345,240,230,340,370,465,295,410,325,560,370,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0,10,5,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Not recorded,0,0,0,0,20,15,0,15,10,10,25,35,30,25,40,45,75,115,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,10,0,0,15,30,90,235,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,20,130,10,25,30,125,195,265,305,320,365,590,885,1460,0
+RV3,Central and North West London NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,5,0,0,5,5,30,0,0,15,0
+RV3,Central and North West London NHS Foundation Trust,Other locations,0,0,0,0,0,5,0,5,0,10,20,0,15,25,25,35,40,40,0
+RV9,Humber NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RV9,Humber NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,5,35,0
+RV9,Humber NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RV9,Humber NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,95,65,265,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Not recorded,0,0,0,15,10,10,215,280,105,215,585,210,625,745,670,1015,1300,3390,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,10,0,0,45,10,30,20,120,165,490,1440,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Other locations,0,0,0,0,0,5,45,60,25,40,40,40,70,100,85,130,160,405,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,Patients Main residence or related location,0,0,0,45,20,20,185,285,85,205,605,215,535,650,500,845,1125,2135,0
+RVY,Southport and Ormskirk Hospital NHS Trust,Not recorded,20,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,5,5,10,5,10,15,10,20,0
+RW1,Southern Health NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,10,5,15,0
+RW1,Southern Health NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,10,15,15,20,45,0
+RW1,Southern Health NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,10,0,10,10,20,50,165,0
+RW1,Southern Health NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,0,20,5,20,20,5,40,35,45,55,65,160,0
+RW1,Southern Health NHS Foundation Trust,Public locations,0,0,0,0,0,0,0,5,0,5,15,15,15,20,45,45,75,200,0
+RW5,Lancashire Care NHS Foundation Trust,Not recorded,0,0,0,40,65,75,60,175,110,245,345,245,395,555,525,675,685,1270,0
+RWJ,Stockport NHS Foundation Trust,Health Centre premises,0,0,35,120,130,225,395,230,255,295,450,405,440,355,625,590,520,420,0
+RWJ,Stockport NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RWJ,Stockport NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,15,5,0,15,0,0
+RWJ,Stockport NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,15,15,20,0
+RWJ,Stockport NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,15,35,0
+RWJ,Stockport NHS Foundation Trust,Other locations,0,0,0,10,40,60,20,10,40,140,75,195,200,300,415,405,770,1675,0
+RWJ,Stockport NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,30,70,15,10,10,120,70,115,140,105,210,285,650,1155,0
+RWX,Berkshire Healthcare NHS Foundation Trust,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RWX,Berkshire Healthcare NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0
+RWX,Berkshire Healthcare NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RWX,Berkshire Healthcare NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RWX,Berkshire Healthcare NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,5,0,0,0,10,15,20,105,0
+RWX,Berkshire Healthcare NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,5,0,0,0,0,10,10,10,0,20,45,0
+RWX,Berkshire Healthcare NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,75,15,60,40,195,100,140,255,185,200,680,675,1430,3850,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Not recorded,0,0,0,15,0,0,0,0,0,5,5,40,30,40,50,30,75,115,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Patients Main residence or related location,15,15,20,40,0,0,0,0,0,0,0,0,0,10,5,15,30,55,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,"Educational, Childcare and Training Establishments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Health Centre premises,0,0,15,5,5,30,70,10,45,60,140,120,105,130,130,225,180,85,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,85,445,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,115,5,0,135,60,90,115,185,385,255,500,710,1310,0
+RXC,East Sussex Healthcare NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,5,0,10,10,30,20,60,80,95,345,0
+RXC,East Sussex Healthcare NHS Trust,Not recorded,0,0,0,0,5,60,30,25,340,65,170,145,305,360,620,895,1505,4425,0
+RXC,East Sussex Healthcare NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,25,0
+RXC,East Sussex Healthcare NHS Trust,Other locations,0,0,0,0,0,10,0,5,65,20,55,30,65,90,155,145,250,750,0
+RXC,East Sussex Healthcare NHS Trust,Patients Main residence or related location,0,0,0,5,5,70,45,30,270,70,230,210,305,500,780,1130,1575,4860,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,5,5,0,0,0,0,0,5,0,0,10,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,10,5,10,0,5,0,10,20,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,5,5,10,15,10,20,25,20,45,50,30,40,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Not recorded,0,0,0,0,0,0,0,0,0,5,5,5,5,10,25,20,25,40,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,5,5,5,5,20,50,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Other locations,0,0,0,0,5,0,0,0,0,0,0,10,5,20,25,25,50,65,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,40,60,75,45,220,225,155,200,395,380,880,920,1010,2270,0
+RXF,Mid Yorkshire Hospitals NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,10,10,10,0
+RXF,Mid Yorkshire Hospitals NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,10,5,5,20,25,0
+RXG,South West Yorkshire Partnership Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,5,20,15,10,10,20,20,25,30,20,95,50,135,85,170,0
+RXG,South West Yorkshire Partnership Foundation Trust,Health Centre premises,0,10,30,10,205,100,120,125,125,120,195,135,120,220,200,220,135,60,0
+RXG,South West Yorkshire Partnership Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,15,0,0,0,0,0,0
+RXG,South West Yorkshire Partnership Foundation Trust,Not recorded,0,0,0,0,10,0,15,15,10,25,35,20,35,55,30,55,60,80,0
+RXG,South West Yorkshire Partnership Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,30,20,25,35,220,340,1025,0
+RXG,South West Yorkshire Partnership Foundation Trust,Other locations,0,0,0,0,0,0,0,0,0,0,10,5,0,5,0,10,5,10,0
+RXG,South West Yorkshire Partnership Foundation Trust,Patients Main residence or related location,0,0,10,15,160,180,130,215,140,290,235,515,300,865,775,1475,1455,2940,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,25,25,10,55,75,80,145,235,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Not recorded,0,0,0,15,50,35,30,60,50,90,410,280,380,600,990,1010,1505,2585,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Other locations,0,0,0,0,0,0,0,0,0,0,5,5,15,30,30,30,30,85,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,Patients Main residence or related location,0,0,0,10,20,35,20,10,40,100,150,140,255,415,540,650,915,1825,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Health Centre premises,0,0,0,0,5,5,0,15,20,35,90,60,45,95,40,95,140,95,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Locations on Hospital Premises,5,0,15,0,15,30,25,30,80,70,175,180,220,335,455,510,885,1330,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Not recorded,0,0,0,0,60,95,120,245,270,290,600,755,1040,1225,1630,1960,3525,5895,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,5,0,0,80,50,225,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,0,0,20,0,0,40,5,15,5,15,15,15,65,0
+RY1,Liverpool Community Health NHS Trust,Health Centre premises,0,0,20,135,315,320,520,445,365,340,575,535,585,520,740,665,590,515,0
+RY1,Liverpool Community Health NHS Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY1,Liverpool Community Health NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY1,Liverpool Community Health NHS Trust,Not recorded,0,0,0,15,40,40,60,70,40,60,65,90,55,70,120,70,80,135,0
+RY1,Liverpool Community Health NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY1,Liverpool Community Health NHS Trust,Other locations,0,0,0,0,0,10,0,10,10,15,25,25,10,15,10,25,25,50,0
+RY1,Liverpool Community Health NHS Trust,Patients Main residence or related location,0,0,0,10,30,110,355,60,240,300,590,785,1290,1315,1910,1645,2585,5680,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Day Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,10,5,10,10,0,5,15,20,40,50,50,55,55,160,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Health Centre premises,40,20,75,15,25,30,35,20,30,60,65,75,70,110,120,55,70,80,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Not recorded,20,15,20,10,105,95,125,205,75,140,215,165,255,350,745,435,610,1230,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,25,80,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,5,5,5,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Patients Main residence or related location,0,0,0,5,25,10,30,45,40,30,55,85,170,215,425,270,335,850,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,Public locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,Not recorded,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RY3,Norfolk Community Health and Care NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY4,Hertfordshire Community NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,15,5,0
+RY4,Hertfordshire Community NHS Trust,Health Centre premises,0,0,0,0,15,0,0,0,0,0,5,10,5,10,10,15,10,35,0
+RY4,Hertfordshire Community NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,15,0,0,0,10,10,0,15,15,15,10,0
+RY4,Hertfordshire Community NHS Trust,Not recorded,0,0,0,135,85,30,130,95,170,225,500,515,660,845,1790,2325,2880,8840,0
+RY4,Hertfordshire Community NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,20,20,25,40,95,155,890,0
+RY4,Hertfordshire Community NHS Trust,Other locations,0,0,0,20,45,15,30,25,25,70,85,115,145,175,330,445,555,1630,0
+RY4,Hertfordshire Community NHS Trust,Patients Main residence or related location,0,0,0,125,155,60,235,160,270,450,840,740,920,1150,2205,3340,4380,12405,0
+RY5,Lincolnshire Community Health Services NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,15,15,20,5,25,50,25,95,0
+RY5,Lincolnshire Community Health Services NHS Trust,Health Centre premises,0,0,0,0,5,0,10,5,15,10,30,10,10,20,30,60,15,15,0
+RY5,Lincolnshire Community Health Services NHS Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY5,Lincolnshire Community Health Services NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY5,Lincolnshire Community Health Services NHS Trust,Not recorded,0,0,0,0,10,30,70,45,90,60,180,150,145,185,550,610,615,1745,0
+RY5,Lincolnshire Community Health Services NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,5,0,0,15,35,65,110,220,1135,0
+RY5,Lincolnshire Community Health Services NHS Trust,Other locations,0,0,0,0,0,0,5,5,5,10,20,15,20,35,65,45,95,175,0
+RY5,Lincolnshire Community Health Services NHS Trust,Patients Main residence or related location,0,0,0,5,105,90,60,45,45,135,220,310,270,365,1000,1185,1245,2845,0
+RY6,Leeds Community Healthcare NHS Trust,"Educational, Childcare and Training Establishments",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,Not recorded,40,10,25,10,0,0,0,0,0,0,0,0,0,10,5,5,0,10,0
+RY6,Leeds Community Healthcare NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,10,20,0
+RY6,Leeds Community Healthcare NHS Trust,Other locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,5,0,20,0
+RY6,Leeds Community Healthcare NHS Trust,Patients Main residence or related location,20,5,15,15,0,0,0,0,0,0,0,0,5,0,5,5,0,20,0
+RY7,Wirral Community NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,0,10,0,5,0,0,10,10,0
+RY7,Wirral Community NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,5,5,10,20,20,15,5,25,0
+RY7,Wirral Community NHS Foundation Trust,Not recorded,0,0,0,0,30,0,5,5,15,40,90,110,85,140,145,185,160,295,0
+RY7,Wirral Community NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,15,0,10,10,75,0
+RY7,Wirral Community NHS Foundation Trust,Other locations,0,0,0,0,5,0,0,0,0,5,10,0,15,15,10,15,20,45,0
+RY7,Wirral Community NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,25,5,20,5,10,35,130,160,155,140,220,220,255,515,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,5,10,15,5,15,20,15,10,10,30,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,10,5,0,5,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,10,0,0,0,0,5,0,0,0,0,5,0,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Not recorded,0,0,0,0,20,10,0,5,0,0,35,10,40,15,45,30,30,35,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Other locations,0,0,0,0,0,0,0,5,0,5,10,5,20,15,30,20,35,35,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,Patients Main residence or related location,0,0,0,0,0,10,0,20,5,0,110,0,55,15,85,55,15,55,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,"Walk In Centres, Out of Hours Premises and Emergency Community Dental Services",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,10,5,5,5,5,5,0,10,25,40,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Health Centre premises,0,0,0,0,0,0,0,0,0,0,0,0,5,0,5,10,10,20,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Not recorded,0,0,5,0,0,0,0,5,0,5,5,0,10,15,15,20,20,40,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,Other locations,0,0,55,0,15,5,35,15,10,90,80,140,250,420,425,745,570,1225,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,Patients Main residence or related location,0,0,0,0,0,10,5,5,5,30,35,95,110,165,345,305,260,735,0
+RYV,Cambridgeshire Community Services NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,10,10,5,10,25,35,30,50,80,0
+RYV,Cambridgeshire Community Services NHS Trust,Hospice premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RYV,Cambridgeshire Community Services NHS Trust,Not recorded,0,0,0,5,0,30,30,30,10,45,65,110,190,200,515,460,485,1390,0
+RYV,Cambridgeshire Community Services NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,5,0,30,40,165,0
+RYV,Cambridgeshire Community Services NHS Trust,Other locations,0,0,0,0,0,0,5,0,0,5,0,10,10,25,25,20,30,75,0
+RYV,Cambridgeshire Community Services NHS Trust,Patients Main residence or related location,0,0,0,5,0,25,40,20,10,70,90,125,165,250,445,495,450,1380,0
+RYX,Central London Community Healthcare NHS Trust,General Practitioner and Ophthalmic Medical Practitioner Premises,0,0,0,0,0,0,0,0,0,0,10,5,0,0,15,15,15,10,0
+RYX,Central London Community Healthcare NHS Trust,Health Centre premises,0,0,0,0,0,0,15,0,20,10,30,30,25,45,50,100,115,170,0
+RYX,Central London Community Healthcare NHS Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RYX,Central London Community Healthcare NHS Trust,Not recorded,0,0,0,5,15,15,115,65,190,135,65,110,180,415,455,610,885,1895,0
+RYX,Central London Community Healthcare NHS Trust,Nursing and Residential Homes,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RYX,Central London Community Healthcare NHS Trust,Patients Main residence or related location,0,0,0,0,0,0,15,0,5,0,0,0,10,25,15,20,50,90,0
+RYX,Central London Community Healthcare NHS Trust,"Walk In Centres, Out of Hours Premises and Emergency Community Dental Services",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,0
+RYY,Kent Community Health NHS Foundation Trust,Locations on Hospital Premises,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RYY,Kent Community Health NHS Foundation Trust,Other locations,0,10,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RYY,Kent Community Health NHS Foundation Trust,Patients Main residence or related location,10,15,15,60,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+All Submitters,All Submitters,All Locations,447,301,1211,2639,6325,6201,7700,8399,10436,13925,20803,26246,34363,45620,64883,77623,109417,264484,216
+AXG,Wiltshire Health & Care,All Locations,0,0,0,5,45,70,65,140,125,310,270,485,705,1020,1560,1210,1945,5980,0
+NAX,East Coast Community Healthcare CIC,All Locations,0,0,0,0,0,0,0,0,0,0,0,0,0,5,30,5,10,15,0
+NDA,Virgin Care Services Ltd,All Locations,0,0,0,30,45,45,50,20,55,90,185,135,260,340,425,555,920,1455,0
+NLL,Peninsula Community Health CIC,All Locations,0,0,0,25,90,240,205,115,300,435,315,745,1030,1415,2205,2370,2570,5680,0
+NLT,North Somerset Community Partnership CIC,All Locations,0,0,0,0,50,45,15,45,5,35,45,80,225,120,325,455,410,1870,0
+NLW,Bristol Community Health,All Locations,0,0,0,20,5,10,5,15,15,35,40,50,55,135,180,135,205,590,0
+NLX,Sirona Care & Health,All Locations,0,0,0,0,0,0,10,0,30,45,35,65,45,95,80,295,235,350,0
+NNV,Your Healthcare,All Locations,0,0,0,0,0,0,0,0,0,0,35,0,10,15,35,35,340,340,0
+NQ7,Medway Community Healthcare,All Locations,0,0,0,5,10,5,5,20,50,30,95,40,50,105,100,120,165,275,0
+NQA,Provide,All Locations,0,0,0,10,30,25,35,50,140,70,185,280,520,610,1090,1535,2510,7665,0
+NQT,Virgin Care Ltd,All Locations,0,0,0,0,90,65,35,50,105,180,155,215,390,360,495,490,975,1505,0
+NQV,Bromley Healthcare,All Locations,0,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+NR5,Livewell Southwest,All Locations,0,0,0,55,90,160,40,135,90,175,210,300,960,690,1455,1185,1775,4920,0
+R0A,Manchester University NHS Foundation Trust,All Locations,35,15,70,20,95,25,95,120,45,110,45,60,90,55,85,105,90,130,0
+R1A,Worcestershire Health and Care NHS Trust,All Locations,0,0,0,35,15,30,45,35,20,20,70,225,270,240,485,495,540,2110,0
+R1C,Solent NHS Trust,All Locations,0,0,0,0,0,20,0,0,45,50,180,160,60,355,695,590,735,1765,0
+R1D,Shropshire Community Health NHS Trust,All Locations,0,0,45,45,55,115,40,55,105,155,210,220,615,380,720,1230,1475,3760,0
+R1J,Gloucestershire Care Services NHS Trust,All Locations,15,0,0,25,0,0,0,20,15,0,15,35,110,40,95,80,155,180,0
+R1L,Essex Partnership University NHS Foundation Trust,All Locations,15,10,105,310,405,370,285,325,345,615,670,1750,2025,2345,2960,3655,6675,16270,0
+RAT,North East London NHS Foundation Trust,All Locations,5,10,10,90,215,190,205,430,430,575,640,1005,1255,1400,2125,2450,3775,8585,0
+RBK,Walsall Healthcare NHS Trust,All Locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0
+RBZ,Northern Devon Healthcare NHS Trust,All Locations,25,0,5,10,5,15,10,20,70,55,45,65,175,180,590,390,780,1940,0
+RCB,York Teaching Hospital NHS Foundation Trust,All Locations,0,0,0,15,130,140,255,220,170,170,410,525,415,800,1270,1710,2560,6325,0
+RCD,Harrogate and District NHS Foundation Trust,All Locations,0,0,0,0,5,10,35,15,75,50,135,190,270,265,450,505,815,2545,0
+RDR,Sussex Community NHS Foundation Trust,All Locations,15,5,15,195,490,370,250,460,525,760,1310,1785,2005,2915,3790,5510,7570,23155,0
+RE9,South Tyneside NHS Foundation Trust,All Locations,0,0,0,5,90,10,75,45,35,130,190,155,210,325,275,395,555,1255,0
+RFR,The Rotherham NHS Foundation Trust,All Locations,0,0,0,0,0,15,0,5,5,10,20,5,20,30,45,40,50,90,0
+RH5,Somerset Partnership NHS Foundation Trust,All Locations,0,0,0,5,80,15,30,65,220,185,275,405,420,540,1355,1230,1830,6090,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,All Locations,0,0,0,5,120,180,220,215,325,390,605,1055,1355,1745,2920,3350,4445,10985,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,All Locations,0,0,0,60,260,130,105,245,260,365,535,745,1025,1375,1700,2570,2615,5295,0
+RJ2,Lewisham and Greenwich NHS Trust,All Locations,0,0,0,0,0,0,5,5,0,0,0,10,15,5,20,15,10,55,0
+RJ6,Croydon Health Services NHS Trust,All Locations,20,0,85,5,10,5,30,110,85,215,285,315,375,490,580,750,900,2655,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,All Locations,0,0,0,0,75,20,90,40,55,110,105,165,280,365,390,640,850,1960,0
+RKE,Whittington Health NHS Trust,All Locations,0,0,0,0,15,25,15,0,10,30,30,30,55,40,80,45,100,255,0
+RL4,The Royal Wolverhampton NHS Trust,All Locations,0,0,0,0,0,5,5,30,5,25,30,20,15,30,30,30,35,25,0
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,All Locations,0,0,0,45,135,110,135,110,195,240,385,490,380,475,870,1050,770,2245,0
+RNA,The Dudley Group NHS Foundation Trust,All Locations,0,0,0,0,15,15,40,20,5,25,115,45,40,105,115,235,230,515,0
+RNN,Cumbria Partnership NHS Foundation Trust,All Locations,0,0,10,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RNU,Oxford Health NHS Foundation Trust,All Locations,0,45,30,5,25,80,55,25,50,160,190,340,370,540,975,1165,1775,5390,0
+RPG,Oxleas NHS Foundation Trust,All Locations,0,0,0,0,0,0,0,0,5,0,15,0,10,25,30,30,55,90,0
+RR1,Heart of England NHS Foundation Trust,All Locations,0,0,0,20,20,25,80,20,30,50,220,335,285,370,455,565,715,1895,0
+RR7,Gateshead Health NHS Foundation rust,All Locations,0,5,20,0,0,45,30,145,200,215,50,365,285,815,790,610,1350,2160,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",All Locations,0,0,0,0,0,0,0,0,0,5,0,0,5,15,20,35,15,10,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,All Locations,20,0,0,10,145,55,130,100,200,365,375,485,1020,1830,1705,2115,3555,9820,0
+RT2,Pennine Care NHS Foundation Trust,All Locations,0,0,0,0,10,25,15,0,5,20,35,45,40,45,65,60,145,90,0
+RT5,Leicestershire Partnership NHS Trust,All Locations,75,50,340,395,895,700,835,670,1010,970,1085,1500,1800,2960,3010,3515,5445,10115,215
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,All Locations,0,0,0,10,0,0,0,0,0,0,5,25,10,10,20,10,20,25,0
+RTR,South Tees Hospitals NHS Foundation Trust,All Locations,0,0,0,20,90,100,125,360,235,600,715,1080,1140,2180,2120,2235,4370,8165,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,All Locations,10,5,65,135,315,350,265,385,280,370,560,685,810,655,835,1000,1625,2190,0
+RV3,Central and North West London NHS Foundation Trust,All Locations,0,0,0,0,5,5,0,10,0,15,20,0,20,30,55,40,40,55,0
+RV9,Humber NHS Foundation Trust,All Locations,0,0,0,0,0,0,0,0,0,0,0,0,25,0,0,115,75,315,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,All Locations,0,0,0,65,35,35,450,630,215,460,1280,475,1260,1520,1380,2160,3075,7380,0
+RVY,Southport and Ormskirk Hospital NHS Trust,All Locations,20,10,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,All Locations,5,0,0,0,0,5,5,30,5,40,45,45,70,80,125,160,220,605,0
+RW5,Lancashire Care NHS Foundation Trust,All Locations,0,0,0,40,65,75,60,175,110,245,345,245,395,555,525,675,685,1270,0
+RWJ,Stockport NHS Foundation Trust,All Locations,0,0,35,130,205,355,440,255,305,555,600,725,785,780,1270,1300,1980,3310,0
+RWX,Berkshire Healthcare NHS Foundation Trust,All Locations,0,0,0,0,80,15,65,45,195,100,150,260,200,215,705,700,1475,4015,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,All Locations,20,20,25,60,0,0,0,0,0,10,10,45,35,60,60,50,105,170,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,All Locations,0,0,15,5,10,145,75,15,180,125,235,240,290,525,395,760,980,1850,0
+RXC,East Sussex Healthcare NHS Trust,All Locations,0,0,0,5,15,135,85,65,680,150,465,395,705,975,1615,2255,3435,10400,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,All Locations,0,0,0,0,45,70,90,55,240,260,190,245,445,440,995,1025,1145,2490,0
+RXF,Mid Yorkshire Hospitals NHS Trust,All Locations,0,0,0,0,0,0,0,0,0,0,0,10,5,20,20,15,35,35,0
+RXG,South West Yorkshire Partnership Foundation Trust,All Locations,5,10,45,35,395,300,275,365,295,460,500,740,510,1265,1090,2115,2080,4285,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,All Locations,0,0,0,20,75,70,55,70,90,200,595,450,660,1100,1635,1765,2595,4735,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,All Locations,10,0,20,5,85,130,150,310,370,400,905,1000,1330,1660,2145,2660,4615,7605,0
+RY1,Liverpool Community Health NHS Trust,All Locations,0,0,20,160,390,480,935,590,655,715,1260,1435,1935,1920,2775,2410,3275,6385,0
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,All Locations,60,40,95,35,170,150,200,290,150,245,350,345,540,725,1345,840,1100,2410,0
+RY3,Norfolk Community Health and Care NHS Trust,All Locations,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5,10,0
+RY4,Hertfordshire Community NHS Trust,All Locations,0,0,0,275,310,110,400,300,465,750,1435,1410,1765,2215,4390,6245,8010,23815,0
+RY5,Lincolnshire Community Health Services NHS Trust,All Locations,0,0,0,10,120,125,150,105,155,230,465,505,480,650,1740,2055,2215,6010,0
+RY6,Leeds Community Healthcare NHS Trust,All Locations,65,15,45,30,0,0,0,0,5,0,0,0,15,20,25,30,20,75,0
+RY7,Wirral Community NHS Foundation Trust,All Locations,0,0,0,0,60,10,30,15,30,80,240,290,265,335,400,450,460,965,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,All Locations,0,0,0,0,35,20,0,30,20,25,170,30,140,75,185,115,90,155,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,All Locations,5,0,5,0,0,0,0,10,10,15,20,10,25,20,20,40,55,100,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,All Locations,0,0,55,0,15,15,40,20,15,120,115,235,365,585,770,1050,830,1970,0
+RYV,Cambridgeshire Community Services NHS Trust,All Locations,0,0,0,20,0,60,80,50,25,130,165,255,380,505,1025,1035,1055,3095,0
+RYX,Central London Community Healthcare NHS Trust,All Locations,0,0,0,5,20,15,145,65,215,150,110,150,220,485,535,750,1065,2175,0
+RYY,Kent Community Health NHS Foundation Trust,All Locations,10,25,20,75,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0

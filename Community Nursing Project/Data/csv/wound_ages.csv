@@ -1,0 +1,1275 @@
+﻿org_code,org_name,Age,m_referrals,f_referrals,m_patients,f_patients
+All,All,10-14,210,145,190,130
+All,All,5-9,110,70,105,65
+All,All,0-4,105,90,95,85
+All,All,15-18,335,230,285,215
+All,All,19-24,815,660,690,565
+All,All,25-29,775,670,640,565
+All,All,30-34,800,840,665,725
+All,All,35-39,955,925,805,800
+All,All,40-44,1040,1045,865,860
+All,All,45-49,1530,1555,1250,1275
+All,All,50-54,2015,1995,1625,1640
+All,All,55-59,2485,2350,1995,1915
+All,All,60-64,3100,2785,2490,2250
+All,All,65-69,4080,3640,3270,2920
+All,All,70-74,5235,5355,4200,4225
+All,All,75-79,5705,7080,4535,5530
+All,All,80-84,7095,10330,5540,7915
+All,All,85-plus,12430,29815,9535,22535
+All,All,all-ages,48839,69645,38753,54197
+AXG,Wiltshire Health & Care,15-18,0,0,0,0
+AXG,Wiltshire Health & Care,19-24,0,5,0,5
+AXG,Wiltshire Health & Care,25-29,0,5,0,5
+AXG,Wiltshire Health & Care,30-34,0,5,0,5
+AXG,Wiltshire Health & Care,35-39,0,10,0,10
+AXG,Wiltshire Health & Care,40-44,10,10,10,5
+AXG,Wiltshire Health & Care,45-49,15,25,15,20
+AXG,Wiltshire Health & Care,50-54,10,30,10,25
+AXG,Wiltshire Health & Care,55-59,25,30,25,25
+AXG,Wiltshire Health & Care,60-64,40,30,30,20
+AXG,Wiltshire Health & Care,65-69,55,60,45,45
+AXG,Wiltshire Health & Care,70-74,75,105,55,85
+AXG,Wiltshire Health & Care,75-79,75,95,60,75
+AXG,Wiltshire Health & Care,80-84,100,170,85,130
+AXG,Wiltshire Health & Care,85-plus,245,580,195,465
+AXG,Wiltshire Health & Care,all-ages,665,1160,540,925
+NAX,East Coast Community Healthcare CIC,30-34,0,0,0,0
+NAX,East Coast Community Healthcare CIC,45-49,0,0,0,0
+NAX,East Coast Community Healthcare CIC,55-59,0,0,0,0
+NAX,East Coast Community Healthcare CIC,60-64,0,0,0,0
+NAX,East Coast Community Healthcare CIC,65-69,0,0,0,0
+NAX,East Coast Community Healthcare CIC,70-74,0,0,0,0
+NAX,East Coast Community Healthcare CIC,75-79,0,0,0,0
+NAX,East Coast Community Healthcare CIC,80-84,0,0,0,0
+NAX,East Coast Community Healthcare CIC,85-plus,0,0,0,0
+NAX,East Coast Community Healthcare CIC,all-ages,10,10,10,10
+NDA,Virgin Care Services Ltd,15-18,0,0,0,0
+NDA,Virgin Care Services Ltd,19-24,0,0,0,0
+NDA,Virgin Care Services Ltd,25-29,10,5,5,5
+NDA,Virgin Care Services Ltd,30-34,0,5,0,5
+NDA,Virgin Care Services Ltd,35-39,0,5,0,0
+NDA,Virgin Care Services Ltd,40-44,10,0,5,0
+NDA,Virgin Care Services Ltd,45-49,15,10,10,10
+NDA,Virgin Care Services Ltd,50-54,45,20,15,10
+NDA,Virgin Care Services Ltd,55-59,35,15,20,10
+NDA,Virgin Care Services Ltd,60-64,35,55,25,35
+NDA,Virgin Care Services Ltd,65-69,65,40,40,30
+NDA,Virgin Care Services Ltd,70-74,75,90,45,55
+NDA,Virgin Care Services Ltd,75-79,85,100,50,65
+NDA,Virgin Care Services Ltd,80-84,80,175,50,95
+NDA,Virgin Care Services Ltd,85-plus,160,395,100,225
+NDA,Virgin Care Services Ltd,all-ages,630,925,375,560
+NLL,Peninsula Community Health CIC,10-14,0,0,0,0
+NLL,Peninsula Community Health CIC,5-9,0,0,0,0
+NLL,Peninsula Community Health CIC,15-18,0,0,0,0
+NLL,Peninsula Community Health CIC,19-24,15,5,10,5
+NLL,Peninsula Community Health CIC,25-29,10,0,10,0
+NLL,Peninsula Community Health CIC,30-34,10,10,10,10
+NLL,Peninsula Community Health CIC,35-39,10,5,10,5
+NLL,Peninsula Community Health CIC,40-44,20,15,10,10
+NLL,Peninsula Community Health CIC,45-49,25,30,20,25
+NLL,Peninsula Community Health CIC,50-54,15,20,15,20
+NLL,Peninsula Community Health CIC,55-59,40,20,35,20
+NLL,Peninsula Community Health CIC,60-64,50,45,45,40
+NLL,Peninsula Community Health CIC,65-69,85,50,75,45
+NLL,Peninsula Community Health CIC,70-74,100,105,90,95
+NLL,Peninsula Community Health CIC,75-79,100,105,85,100
+NLL,Peninsula Community Health CIC,80-84,125,155,105,130
+NLL,Peninsula Community Health CIC,85-plus,175,390,145,355
+NLL,Peninsula Community Health CIC,all-ages,790,965,670,865
+NLT,North Somerset Community Partnership CIC,19-24,0,0,0,0
+NLT,North Somerset Community Partnership CIC,25-29,0,0,0,0
+NLT,North Somerset Community Partnership CIC,30-34,5,0,0,0
+NLT,North Somerset Community Partnership CIC,35-39,5,0,0,0
+NLT,North Somerset Community Partnership CIC,40-44,0,0,0,0
+NLT,North Somerset Community Partnership CIC,45-49,0,10,0,5
+NLT,North Somerset Community Partnership CIC,50-54,0,5,0,5
+NLT,North Somerset Community Partnership CIC,55-59,10,10,10,10
+NLT,North Somerset Community Partnership CIC,60-64,15,15,10,10
+NLT,North Somerset Community Partnership CIC,65-69,20,10,15,10
+NLT,North Somerset Community Partnership CIC,70-74,30,30,25,25
+NLT,North Somerset Community Partnership CIC,75-79,30,50,25,40
+NLT,North Somerset Community Partnership CIC,80-84,50,50,35,45
+NLT,North Somerset Community Partnership CIC,85-plus,110,290,95,240
+NLT,North Somerset Community Partnership CIC,all-ages,285,485,230,400
+NLW,Bristol Community Health,15-18,0,0,0,0
+NLW,Bristol Community Health,19-24,0,0,0,0
+NLW,Bristol Community Health,25-29,0,0,0,0
+NLW,Bristol Community Health,30-34,0,0,0,0
+NLW,Bristol Community Health,35-39,5,0,5,0
+NLW,Bristol Community Health,40-44,5,0,5,0
+NLW,Bristol Community Health,45-49,0,0,0,0
+NLW,Bristol Community Health,50-54,5,0,0,0
+NLW,Bristol Community Health,55-59,15,5,10,5
+NLW,Bristol Community Health,60-64,20,10,15,5
+NLW,Bristol Community Health,65-69,15,10,15,10
+NLW,Bristol Community Health,70-74,25,15,25,15
+NLW,Bristol Community Health,75-79,15,20,15,20
+NLW,Bristol Community Health,80-84,25,30,20,30
+NLW,Bristol Community Health,85-plus,50,85,50,80
+NLW,Bristol Community Health,all-ages,185,185,175,175
+NLX,Sirona Care & Health,19-24,0,0,0,0
+NLX,Sirona Care & Health,25-29,0,0,0,0
+NLX,Sirona Care & Health,30-34,0,0,0,0
+NLX,Sirona Care & Health,40-44,0,0,0,0
+NLX,Sirona Care & Health,45-49,0,0,0,0
+NLX,Sirona Care & Health,50-54,0,0,0,0
+NLX,Sirona Care & Health,55-59,0,0,0,0
+NLX,Sirona Care & Health,60-64,0,0,0,0
+NLX,Sirona Care & Health,65-69,5,5,5,5
+NLX,Sirona Care & Health,70-74,0,5,0,5
+NLX,Sirona Care & Health,75-79,15,10,15,10
+NLX,Sirona Care & Health,80-84,15,15,10,15
+NLX,Sirona Care & Health,85-plus,15,30,15,30
+NLX,Sirona Care & Health,all-ages,70,75,65,75
+NNV,Your Healthcare,35-39,0,0,0,0
+NNV,Your Healthcare,40-44,0,0,0,0
+NNV,Your Healthcare,50-54,0,0,0,0
+NNV,Your Healthcare,60-64,0,0,0,0
+NNV,Your Healthcare,65-69,0,0,0,0
+NNV,Your Healthcare,70-74,0,0,0,0
+NNV,Your Healthcare,75-79,0,5,0,5
+NNV,Your Healthcare,80-84,15,20,15,20
+NNV,Your Healthcare,85-plus,20,40,20,35
+NNV,Your Healthcare,all-ages,45,75,45,70
+NQ7,Medway Community Healthcare,10-14,20,10,20,10
+NQ7,Medway Community Healthcare,5-9,10,10,10,10
+NQ7,Medway Community Healthcare,0-4,10,10,10,5
+NQ7,Medway Community Healthcare,15-18,20,15,20,10
+NQ7,Medway Community Healthcare,19-24,30,35,25,30
+NQ7,Medway Community Healthcare,25-29,30,45,25,35
+NQ7,Medway Community Healthcare,30-34,25,50,20,40
+NQ7,Medway Community Healthcare,35-39,35,40,30,35
+NQ7,Medway Community Healthcare,40-44,40,55,30,45
+NQ7,Medway Community Healthcare,45-49,55,55,50,45
+NQ7,Medway Community Healthcare,50-54,60,75,55,60
+NQ7,Medway Community Healthcare,55-59,65,60,60,55
+NQ7,Medway Community Healthcare,60-64,65,70,60,55
+NQ7,Medway Community Healthcare,65-69,95,90,80,70
+NQ7,Medway Community Healthcare,70-74,100,95,85,80
+NQ7,Medway Community Healthcare,75-79,95,110,85,95
+NQ7,Medway Community Healthcare,80-84,75,100,60,85
+NQ7,Medway Community Healthcare,85-plus,100,200,80,160
+NQ7,Medway Community Healthcare,all-ages,930,1125,800,925
+NQA,Provide,15-18,0,0,0,0
+NQA,Provide,19-24,0,5,0,0
+NQA,Provide,25-29,5,10,0,5
+NQA,Provide,30-34,10,10,5,5
+NQA,Provide,35-39,10,10,10,5
+NQA,Provide,40-44,20,10,10,5
+NQA,Provide,45-49,15,0,10,0
+NQA,Provide,50-54,30,15,20,10
+NQA,Provide,55-59,25,45,15,35
+NQA,Provide,60-64,60,40,35,25
+NQA,Provide,65-69,85,75,55,50
+NQA,Provide,70-74,110,125,80,80
+NQA,Provide,75-79,125,235,90,130
+NQA,Provide,80-84,245,355,150,215
+NQA,Provide,85-plus,540,1320,315,780
+NQA,Provide,all-ages,1285,2255,805,1365
+NQT,Virgin Care Ltd,19-24,10,15,10,10
+NQT,Virgin Care Ltd,25-29,5,5,5,5
+NQT,Virgin Care Ltd,30-34,0,15,0,15
+NQT,Virgin Care Ltd,35-39,10,10,10,10
+NQT,Virgin Care Ltd,40-44,10,15,10,15
+NQT,Virgin Care Ltd,45-49,15,25,15,20
+NQT,Virgin Care Ltd,50-54,25,35,20,35
+NQT,Virgin Care Ltd,55-59,35,45,25,40
+NQT,Virgin Care Ltd,60-64,65,55,45,45
+NQT,Virgin Care Ltd,65-69,40,75,35,60
+NQT,Virgin Care Ltd,70-74,65,75,50,60
+NQT,Virgin Care Ltd,75-79,80,70,75,60
+NQT,Virgin Care Ltd,80-84,95,125,85,100
+NQT,Virgin Care Ltd,85-plus,110,330,90,270
+NQT,Virgin Care Ltd,all-ages,560,895,475,750
+NQV,Bromley Healthcare,15-18,0,0,0,0
+NQV,Bromley Healthcare,all-ages,0,0,0,0
+NR5,Livewell Southwest,10-14,0,0,0,0
+NR5,Livewell Southwest,0-4,0,0,0,0
+NR5,Livewell Southwest,15-18,0,0,0,0
+NR5,Livewell Southwest,19-24,5,10,5,10
+NR5,Livewell Southwest,25-29,15,5,10,5
+NR5,Livewell Southwest,30-34,5,5,5,0
+NR5,Livewell Southwest,35-39,15,5,5,0
+NR5,Livewell Southwest,40-44,15,10,10,5
+NR5,Livewell Southwest,45-49,10,15,10,10
+NR5,Livewell Southwest,50-54,20,20,15,15
+NR5,Livewell Southwest,55-59,15,15,15,10
+NR5,Livewell Southwest,60-64,50,25,35,20
+NR5,Livewell Southwest,65-69,35,40,25,25
+NR5,Livewell Southwest,70-74,50,80,40,60
+NR5,Livewell Southwest,75-79,75,85,55,55
+NR5,Livewell Southwest,80-84,80,145,55,105
+NR5,Livewell Southwest,85-plus,130,360,95,275
+NR5,Livewell Southwest,all-ages,525,825,385,600
+R0A,Manchester University NHS Foundation Trust,10-14,5,10,5,10
+R0A,Manchester University NHS Foundation Trust,5-9,5,5,5,5
+R0A,Manchester University NHS Foundation Trust,0-4,15,5,10,5
+R0A,Manchester University NHS Foundation Trust,15-18,5,5,5,5
+R0A,Manchester University NHS Foundation Trust,19-24,20,20,15,20
+R0A,Manchester University NHS Foundation Trust,25-29,10,10,10,10
+R0A,Manchester University NHS Foundation Trust,30-34,15,20,15,20
+R0A,Manchester University NHS Foundation Trust,35-39,10,15,5,10
+R0A,Manchester University NHS Foundation Trust,40-44,15,10,15,10
+R0A,Manchester University NHS Foundation Trust,45-49,20,15,15,10
+R0A,Manchester University NHS Foundation Trust,50-54,10,15,5,10
+R0A,Manchester University NHS Foundation Trust,55-59,15,15,15,15
+R0A,Manchester University NHS Foundation Trust,60-64,10,10,10,10
+R0A,Manchester University NHS Foundation Trust,65-69,10,15,10,10
+R0A,Manchester University NHS Foundation Trust,70-74,10,10,10,10
+R0A,Manchester University NHS Foundation Trust,75-79,10,10,10,10
+R0A,Manchester University NHS Foundation Trust,80-84,10,15,10,10
+R0A,Manchester University NHS Foundation Trust,85-plus,10,15,10,15
+R0A,Manchester University NHS Foundation Trust,all-ages,205,215,185,195
+R1A,Worcestershire Health and Care NHS Trust,15-18,0,0,0,0
+R1A,Worcestershire Health and Care NHS Trust,19-24,0,0,0,0
+R1A,Worcestershire Health and Care NHS Trust,25-29,0,0,0,0
+R1A,Worcestershire Health and Care NHS Trust,30-34,0,5,0,5
+R1A,Worcestershire Health and Care NHS Trust,35-39,0,0,0,0
+R1A,Worcestershire Health and Care NHS Trust,40-44,0,5,0,5
+R1A,Worcestershire Health and Care NHS Trust,45-49,0,5,0,5
+R1A,Worcestershire Health and Care NHS Trust,50-54,5,0,5,0
+R1A,Worcestershire Health and Care NHS Trust,55-59,10,10,10,10
+R1A,Worcestershire Health and Care NHS Trust,60-64,10,15,10,15
+R1A,Worcestershire Health and Care NHS Trust,65-69,10,15,10,15
+R1A,Worcestershire Health and Care NHS Trust,70-74,15,25,15,25
+R1A,Worcestershire Health and Care NHS Trust,75-79,25,25,25,25
+R1A,Worcestershire Health and Care NHS Trust,80-84,25,45,25,40
+R1A,Worcestershire Health and Care NHS Trust,85-plus,60,150,60,145
+R1A,Worcestershire Health and Care NHS Trust,all-ages,180,315,180,305
+R1C,Solent NHS Trust,0-4,0,0,0,0
+R1C,Solent NHS Trust,19-24,0,0,0,0
+R1C,Solent NHS Trust,25-29,0,0,0,0
+R1C,Solent NHS Trust,30-34,0,0,0,0
+R1C,Solent NHS Trust,35-39,0,0,0,0
+R1C,Solent NHS Trust,40-44,5,5,5,5
+R1C,Solent NHS Trust,45-49,0,5,0,5
+R1C,Solent NHS Trust,50-54,5,0,0,0
+R1C,Solent NHS Trust,55-59,0,5,0,5
+R1C,Solent NHS Trust,60-64,10,5,10,5
+R1C,Solent NHS Trust,65-69,15,10,15,10
+R1C,Solent NHS Trust,70-74,20,20,20,20
+R1C,Solent NHS Trust,75-79,15,20,15,20
+R1C,Solent NHS Trust,80-84,25,30,25,30
+R1C,Solent NHS Trust,85-plus,45,130,40,115
+R1C,Solent NHS Trust,all-ages,160,240,145,220
+R1D,Shropshire Community Health NHS Trust,10-14,0,0,0,0
+R1D,Shropshire Community Health NHS Trust,5-9,0,0,0,0
+R1D,Shropshire Community Health NHS Trust,15-18,0,0,0,0
+R1D,Shropshire Community Health NHS Trust,19-24,0,0,0,0
+R1D,Shropshire Community Health NHS Trust,25-29,0,5,0,5
+R1D,Shropshire Community Health NHS Trust,30-34,5,0,5,0
+R1D,Shropshire Community Health NHS Trust,35-39,10,5,10,5
+R1D,Shropshire Community Health NHS Trust,40-44,10,10,10,10
+R1D,Shropshire Community Health NHS Trust,45-49,20,10,15,10
+R1D,Shropshire Community Health NHS Trust,50-54,5,20,5,15
+R1D,Shropshire Community Health NHS Trust,55-59,15,20,15,20
+R1D,Shropshire Community Health NHS Trust,60-64,25,25,25,25
+R1D,Shropshire Community Health NHS Trust,65-69,35,30,35,25
+R1D,Shropshire Community Health NHS Trust,70-74,35,40,35,35
+R1D,Shropshire Community Health NHS Trust,75-79,75,60,70,55
+R1D,Shropshire Community Health NHS Trust,80-84,75,80,65,75
+R1D,Shropshire Community Health NHS Trust,85-plus,120,270,105,255
+R1D,Shropshire Community Health NHS Trust,all-ages,440,585,410,545
+R1J,Gloucestershire Care Services NHS Trust,10-14,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,5-9,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,0-4,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,15-18,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,30-34,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,35-39,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,40-44,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,45-49,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,50-54,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,55-59,0,0,0,0
+R1J,Gloucestershire Care Services NHS Trust,60-64,10,0,10,0
+R1J,Gloucestershire Care Services NHS Trust,65-69,5,0,5,0
+R1J,Gloucestershire Care Services NHS Trust,70-74,5,10,5,10
+R1J,Gloucestershire Care Services NHS Trust,75-79,5,10,5,10
+R1J,Gloucestershire Care Services NHS Trust,80-84,10,10,10,10
+R1J,Gloucestershire Care Services NHS Trust,85-plus,20,25,20,25
+R1J,Gloucestershire Care Services NHS Trust,all-ages,75,70,75,70
+R1L,Essex Partnership University NHS Foundation Trust,10-14,0,0,0,0
+R1L,Essex Partnership University NHS Foundation Trust,5-9,0,0,0,0
+R1L,Essex Partnership University NHS Foundation Trust,0-4,0,0,0,0
+R1L,Essex Partnership University NHS Foundation Trust,15-18,10,5,5,5
+R1L,Essex Partnership University NHS Foundation Trust,19-24,15,20,10,15
+R1L,Essex Partnership University NHS Foundation Trust,25-29,15,15,15,10
+R1L,Essex Partnership University NHS Foundation Trust,30-34,10,10,10,10
+R1L,Essex Partnership University NHS Foundation Trust,35-39,20,10,15,10
+R1L,Essex Partnership University NHS Foundation Trust,40-44,15,15,15,15
+R1L,Essex Partnership University NHS Foundation Trust,45-49,35,30,25,25
+R1L,Essex Partnership University NHS Foundation Trust,50-54,50,40,40,35
+R1L,Essex Partnership University NHS Foundation Trust,55-59,60,50,45,40
+R1L,Essex Partnership University NHS Foundation Trust,60-64,55,70,50,55
+R1L,Essex Partnership University NHS Foundation Trust,65-69,105,100,90,80
+R1L,Essex Partnership University NHS Foundation Trust,70-74,125,140,105,115
+R1L,Essex Partnership University NHS Foundation Trust,75-79,145,175,120,150
+R1L,Essex Partnership University NHS Foundation Trust,80-84,240,310,180,260
+R1L,Essex Partnership University NHS Foundation Trust,85-plus,400,930,320,755
+R1L,Essex Partnership University NHS Foundation Trust,all-ages,1315,1935,1050,1580
+RAT,North East London NHS Foundation Trust,10-14,0,0,0,0
+RAT,North East London NHS Foundation Trust,5-9,0,0,0,0
+RAT,North East London NHS Foundation Trust,0-4,0,0,0,0
+RAT,North East London NHS Foundation Trust,15-18,10,5,10,5
+RAT,North East London NHS Foundation Trust,19-24,20,15,15,15
+RAT,North East London NHS Foundation Trust,25-29,15,15,15,15
+RAT,North East London NHS Foundation Trust,30-34,35,15,20,15
+RAT,North East London NHS Foundation Trust,35-39,40,30,30,25
+RAT,North East London NHS Foundation Trust,40-44,45,30,35,25
+RAT,North East London NHS Foundation Trust,45-49,65,55,40,35
+RAT,North East London NHS Foundation Trust,50-54,65,65,55,40
+RAT,North East London NHS Foundation Trust,55-59,100,95,70,60
+RAT,North East London NHS Foundation Trust,60-64,140,115,95,65
+RAT,North East London NHS Foundation Trust,65-69,155,155,110,100
+RAT,North East London NHS Foundation Trust,70-74,200,240,135,155
+RAT,North East London NHS Foundation Trust,75-79,280,355,170,210
+RAT,North East London NHS Foundation Trust,80-84,325,490,195,290
+RAT,North East London NHS Foundation Trust,85-plus,675,1560,405,905
+RAT,North East London NHS Foundation Trust,all-ages,2165,3250,1405,1960
+RBK,Walsall Healthcare NHS Trust,40-44,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,45-49,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,50-54,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,55-59,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,60-64,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,65-69,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,70-74,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,75-79,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,80-84,0,0,0,0
+RBK,Walsall Healthcare NHS Trust,85-plus,0,5,0,5
+RBK,Walsall Healthcare NHS Trust,all-ages,10,10,10,10
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,10-14,0,0,0,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,15-18,0,0,0,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,19-24,0,0,0,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,25-29,10,5,5,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,30-34,10,0,5,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,35-39,0,5,0,0
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,40-44,5,10,0,5
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,45-49,5,5,5,5
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,50-54,15,10,10,5
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,55-59,10,10,10,10
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,60-64,20,15,15,10
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,65-69,15,35,15,25
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,70-74,50,45,30,25
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,75-79,25,60,20,45
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,80-84,45,75,25,50
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,85-plus,90,230,65,145
+RBT,Mid Cheshire Hospitals NHS Foundation Trust,all-ages,305,510,220,340
+RBZ,Northern Devon Healthcare NHS Trust,10-14,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,0-4,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,15-18,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,19-24,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,25-29,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,30-34,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,35-39,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,40-44,0,5,0,5
+RBZ,Northern Devon Healthcare NHS Trust,45-49,0,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,50-54,10,0,5,0
+RBZ,Northern Devon Healthcare NHS Trust,55-59,5,0,0,0
+RBZ,Northern Devon Healthcare NHS Trust,60-64,15,15,10,15
+RBZ,Northern Devon Healthcare NHS Trust,65-69,15,10,15,10
+RBZ,Northern Devon Healthcare NHS Trust,70-74,30,40,25,30
+RBZ,Northern Devon Healthcare NHS Trust,75-79,25,30,20,25
+RBZ,Northern Devon Healthcare NHS Trust,80-84,50,60,40,50
+RBZ,Northern Devon Healthcare NHS Trust,85-plus,85,200,70,155
+RBZ,Northern Devon Healthcare NHS Trust,all-ages,245,380,195,310
+RCB,York Teaching Hospital NHS Foundation Trust,15-18,0,0,0,0
+RCB,York Teaching Hospital NHS Foundation Trust,19-24,10,10,10,10
+RCB,York Teaching Hospital NHS Foundation Trust,25-29,10,10,10,10
+RCB,York Teaching Hospital NHS Foundation Trust,30-34,15,10,10,5
+RCB,York Teaching Hospital NHS Foundation Trust,35-39,15,10,15,10
+RCB,York Teaching Hospital NHS Foundation Trust,40-44,5,15,5,10
+RCB,York Teaching Hospital NHS Foundation Trust,45-49,15,20,15,20
+RCB,York Teaching Hospital NHS Foundation Trust,50-54,25,25,20,25
+RCB,York Teaching Hospital NHS Foundation Trust,55-59,45,35,35,30
+RCB,York Teaching Hospital NHS Foundation Trust,60-64,40,40,35,35
+RCB,York Teaching Hospital NHS Foundation Trust,65-69,60,75,50,65
+RCB,York Teaching Hospital NHS Foundation Trust,70-74,110,90,95,80
+RCB,York Teaching Hospital NHS Foundation Trust,75-79,115,140,90,125
+RCB,York Teaching Hospital NHS Foundation Trust,80-84,160,255,130,200
+RCB,York Teaching Hospital NHS Foundation Trust,85-plus,315,690,270,570
+RCB,York Teaching Hospital NHS Foundation Trust,all-ages,945,1420,785,1185
+RCD,Harrogate and District NHS Foundation Trust,10-14,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,0-4,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,15-18,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,19-24,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,25-29,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,30-34,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,35-39,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,40-44,0,0,0,0
+RCD,Harrogate and District NHS Foundation Trust,45-49,5,10,5,10
+RCD,Harrogate and District NHS Foundation Trust,50-54,15,10,10,10
+RCD,Harrogate and District NHS Foundation Trust,55-59,15,15,10,10
+RCD,Harrogate and District NHS Foundation Trust,60-64,20,10,15,10
+RCD,Harrogate and District NHS Foundation Trust,65-69,25,20,20,15
+RCD,Harrogate and District NHS Foundation Trust,70-74,30,25,25,20
+RCD,Harrogate and District NHS Foundation Trust,75-79,35,50,30,40
+RCD,Harrogate and District NHS Foundation Trust,80-84,50,70,40,60
+RCD,Harrogate and District NHS Foundation Trust,85-plus,95,245,90,200
+RCD,Harrogate and District NHS Foundation Trust,all-ages,310,460,265,380
+RDR,Sussex Community NHS Foundation Trust,10-14,0,5,0,5
+RDR,Sussex Community NHS Foundation Trust,5-9,0,0,0,0
+RDR,Sussex Community NHS Foundation Trust,0-4,0,0,0,0
+RDR,Sussex Community NHS Foundation Trust,15-18,15,5,10,5
+RDR,Sussex Community NHS Foundation Trust,19-24,40,20,30,15
+RDR,Sussex Community NHS Foundation Trust,25-29,35,30,20,25
+RDR,Sussex Community NHS Foundation Trust,30-34,35,20,20,15
+RDR,Sussex Community NHS Foundation Trust,35-39,30,45,20,40
+RDR,Sussex Community NHS Foundation Trust,40-44,35,45,30,30
+RDR,Sussex Community NHS Foundation Trust,45-49,40,70,30,40
+RDR,Sussex Community NHS Foundation Trust,50-54,100,95,70,70
+RDR,Sussex Community NHS Foundation Trust,55-59,110,105,80,75
+RDR,Sussex Community NHS Foundation Trust,60-64,130,125,95,90
+RDR,Sussex Community NHS Foundation Trust,65-69,185,150,115,105
+RDR,Sussex Community NHS Foundation Trust,70-74,245,255,175,175
+RDR,Sussex Community NHS Foundation Trust,75-79,270,380,190,260
+RDR,Sussex Community NHS Foundation Trust,80-84,390,560,275,385
+RDR,Sussex Community NHS Foundation Trust,85-plus,735,1965,525,1365
+RDR,Sussex Community NHS Foundation Trust,all-ages,2400,3880,1695,2700
+RE9,South Tyneside NHS Foundation Trust,15-18,0,0,0,0
+RE9,South Tyneside NHS Foundation Trust,19-24,15,10,15,10
+RE9,South Tyneside NHS Foundation Trust,25-29,10,0,5,0
+RE9,South Tyneside NHS Foundation Trust,30-34,10,20,10,15
+RE9,South Tyneside NHS Foundation Trust,35-39,10,10,10,10
+RE9,South Tyneside NHS Foundation Trust,40-44,15,15,10,10
+RE9,South Tyneside NHS Foundation Trust,45-49,30,25,20,20
+RE9,South Tyneside NHS Foundation Trust,50-54,40,45,35,30
+RE9,South Tyneside NHS Foundation Trust,55-59,50,40,30,25
+RE9,South Tyneside NHS Foundation Trust,60-64,45,65,35,45
+RE9,South Tyneside NHS Foundation Trust,65-69,60,75,50,60
+RE9,South Tyneside NHS Foundation Trust,70-74,90,80,70,65
+RE9,South Tyneside NHS Foundation Trust,75-79,95,115,70,90
+RE9,South Tyneside NHS Foundation Trust,80-84,110,220,90,140
+RE9,South Tyneside NHS Foundation Trust,85-plus,195,525,130,365
+RE9,South Tyneside NHS Foundation Trust,all-ages,770,1245,575,880
+RFR,The Rotherham NHS Foundation Trust,10-14,0,0,0,0
+RFR,The Rotherham NHS Foundation Trust,5-9,0,0,0,0
+RFR,The Rotherham NHS Foundation Trust,0-4,0,0,0,0
+RFR,The Rotherham NHS Foundation Trust,15-18,0,0,0,0
+RFR,The Rotherham NHS Foundation Trust,19-24,10,5,10,0
+RFR,The Rotherham NHS Foundation Trust,25-29,5,15,5,10
+RFR,The Rotherham NHS Foundation Trust,30-34,10,5,10,0
+RFR,The Rotherham NHS Foundation Trust,35-39,15,10,15,10
+RFR,The Rotherham NHS Foundation Trust,40-44,0,0,0,0
+RFR,The Rotherham NHS Foundation Trust,45-49,15,10,10,10
+RFR,The Rotherham NHS Foundation Trust,50-54,25,20,15,15
+RFR,The Rotherham NHS Foundation Trust,55-59,15,20,15,15
+RFR,The Rotherham NHS Foundation Trust,60-64,35,30,25,25
+RFR,The Rotherham NHS Foundation Trust,65-69,50,50,30,35
+RFR,The Rotherham NHS Foundation Trust,70-74,65,80,45,55
+RFR,The Rotherham NHS Foundation Trust,75-79,90,80,55,60
+RFR,The Rotherham NHS Foundation Trust,80-84,100,130,70,95
+RFR,The Rotherham NHS Foundation Trust,85-plus,185,315,125,225
+RFR,The Rotherham NHS Foundation Trust,all-ages,620,780,440,560
+RGR,West Suffolk NHS Foundation Trust,10-14,0,0,0,0
+RGR,West Suffolk NHS Foundation Trust,15-18,0,0,0,0
+RGR,West Suffolk NHS Foundation Trust,all-ages,0,0,0,0
+RH5,Somerset Partnership NHS Foundation Trust,15-18,0,0,0,0
+RH5,Somerset Partnership NHS Foundation Trust,19-24,10,10,10,10
+RH5,Somerset Partnership NHS Foundation Trust,25-29,0,0,0,0
+RH5,Somerset Partnership NHS Foundation Trust,30-34,10,0,5,0
+RH5,Somerset Partnership NHS Foundation Trust,35-39,5,10,5,5
+RH5,Somerset Partnership NHS Foundation Trust,40-44,10,10,10,5
+RH5,Somerset Partnership NHS Foundation Trust,45-49,10,20,10,15
+RH5,Somerset Partnership NHS Foundation Trust,50-54,15,20,15,15
+RH5,Somerset Partnership NHS Foundation Trust,55-59,30,25,20,20
+RH5,Somerset Partnership NHS Foundation Trust,60-64,45,25,35,20
+RH5,Somerset Partnership NHS Foundation Trust,65-69,45,40,35,30
+RH5,Somerset Partnership NHS Foundation Trust,70-74,95,85,65,70
+RH5,Somerset Partnership NHS Foundation Trust,75-79,80,105,65,85
+RH5,Somerset Partnership NHS Foundation Trust,80-84,100,160,85,135
+RH5,Somerset Partnership NHS Foundation Trust,85-plus,260,530,220,465
+RH5,Somerset Partnership NHS Foundation Trust,all-ages,715,1045,580,890
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,0-4,0,0,0,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,15-18,0,0,0,0
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,19-24,35,15,20,10
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,25-29,35,25,20,10
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,30-34,20,25,15,20
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,35-39,50,20,35,15
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,40-44,25,35,20,20
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,45-49,75,40,35,25
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,50-54,70,70,45,55
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,55-59,75,105,55,65
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,60-64,115,90,85,70
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,65-69,165,115,125,95
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,70-74,220,235,165,195
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,75-79,295,325,225,245
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,80-84,320,500,250,395
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,85-plus,595,1515,475,1145
+RHA,Nottinghamshire Healthcare NHS Foundation Trust,all-ages,2100,3120,1555,2365
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,10-14,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,5-9,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,0-4,0,0,0,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,15-18,10,0,5,0
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,19-24,20,10,15,10
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,25-29,10,10,10,10
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,30-34,10,15,10,10
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,35-39,10,15,10,10
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,40-44,15,20,15,15
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,45-49,35,25,30,25
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,50-54,55,35,50,30
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,55-59,50,45,45,40
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,60-64,65,50,60,45
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,65-69,95,70,80,60
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,70-74,120,135,110,115
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,75-79,145,180,130,155
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,80-84,170,220,155,190
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,85-plus,250,510,220,435
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,all-ages,1060,1345,945,1155
+RJ2,Lewisham and Greenwich NHS Trust,19-24,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,30-34,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,35-39,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,40-44,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,45-49,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,50-54,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,55-59,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,60-64,5,0,5,0
+RJ2,Lewisham and Greenwich NHS Trust,65-69,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,70-74,0,10,0,5
+RJ2,Lewisham and Greenwich NHS Trust,75-79,0,0,0,0
+RJ2,Lewisham and Greenwich NHS Trust,80-84,5,0,5,0
+RJ2,Lewisham and Greenwich NHS Trust,85-plus,10,20,10,20
+RJ2,Lewisham and Greenwich NHS Trust,all-ages,35,45,35,45
+RJ6,Croydon Health Services NHS Trust,10-14,10,0,5,0
+RJ6,Croydon Health Services NHS Trust,5-9,0,0,0,0
+RJ6,Croydon Health Services NHS Trust,0-4,0,0,0,0
+RJ6,Croydon Health Services NHS Trust,19-24,5,0,5,0
+RJ6,Croydon Health Services NHS Trust,25-29,0,0,0,0
+RJ6,Croydon Health Services NHS Trust,30-34,5,0,5,0
+RJ6,Croydon Health Services NHS Trust,35-39,5,15,5,15
+RJ6,Croydon Health Services NHS Trust,40-44,5,0,0,0
+RJ6,Croydon Health Services NHS Trust,45-49,30,15,20,10
+RJ6,Croydon Health Services NHS Trust,50-54,25,25,20,20
+RJ6,Croydon Health Services NHS Trust,55-59,40,20,30,20
+RJ6,Croydon Health Services NHS Trust,60-64,35,40,25,30
+RJ6,Croydon Health Services NHS Trust,65-69,60,40,40,30
+RJ6,Croydon Health Services NHS Trust,70-74,60,65,40,50
+RJ6,Croydon Health Services NHS Trust,75-79,85,90,60,65
+RJ6,Croydon Health Services NHS Trust,80-84,115,130,75,95
+RJ6,Croydon Health Services NHS Trust,85-plus,190,425,140,300
+RJ6,Croydon Health Services NHS Trust,all-ages,675,890,485,640
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,15-18,0,0,0,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,19-24,5,5,0,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,25-29,5,0,5,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,30-34,0,0,0,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,35-39,5,5,5,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,40-44,5,0,5,0
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,45-49,10,5,10,5
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,50-54,10,15,10,15
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,55-59,15,5,15,5
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,60-64,20,25,20,20
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,65-69,25,15,25,15
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,70-74,25,30,25,30
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,75-79,35,45,35,40
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,80-84,45,70,40,60
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,85-plus,85,240,80,205
+RJL,Northern Lincolnshire and Goole NHS Foundation Trust,all-ages,295,470,275,410
+RKE,Whittington Health NHS Trust,10-14,0,0,0,0
+RKE,Whittington Health NHS Trust,15-18,0,0,0,0
+RKE,Whittington Health NHS Trust,19-24,5,0,0,0
+RKE,Whittington Health NHS Trust,25-29,0,0,0,0
+RKE,Whittington Health NHS Trust,30-34,5,0,0,0
+RKE,Whittington Health NHS Trust,35-39,0,0,0,0
+RKE,Whittington Health NHS Trust,40-44,5,0,5,0
+RKE,Whittington Health NHS Trust,45-49,15,0,15,0
+RKE,Whittington Health NHS Trust,50-54,15,0,15,0
+RKE,Whittington Health NHS Trust,55-59,10,20,10,20
+RKE,Whittington Health NHS Trust,60-64,30,10,20,10
+RKE,Whittington Health NHS Trust,65-69,15,15,15,10
+RKE,Whittington Health NHS Trust,70-74,20,20,15,20
+RKE,Whittington Health NHS Trust,75-79,20,25,20,20
+RKE,Whittington Health NHS Trust,80-84,25,35,20,35
+RKE,Whittington Health NHS Trust,85-plus,35,70,30,65
+RKE,Whittington Health NHS Trust,all-ages,205,210,175,190
+RL4,The Royal Wolverhampton NHS Trust,0-4,5,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,15-18,0,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,19-24,0,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,25-29,0,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,30-34,0,0,0,0
+RL4,The Royal Wolverhampton NHS Trust,35-39,10,0,5,0
+RL4,The Royal Wolverhampton NHS Trust,40-44,0,5,0,0
+RL4,The Royal Wolverhampton NHS Trust,45-49,5,10,5,10
+RL4,The Royal Wolverhampton NHS Trust,50-54,10,15,10,15
+RL4,The Royal Wolverhampton NHS Trust,55-59,15,5,15,0
+RL4,The Royal Wolverhampton NHS Trust,60-64,10,10,10,10
+RL4,The Royal Wolverhampton NHS Trust,65-69,25,15,25,10
+RL4,The Royal Wolverhampton NHS Trust,70-74,20,25,15,20
+RL4,The Royal Wolverhampton NHS Trust,75-79,25,25,25,20
+RL4,The Royal Wolverhampton NHS Trust,80-84,20,35,20,30
+RL4,The Royal Wolverhampton NHS Trust,85-plus,35,75,30,65
+RL4,The Royal Wolverhampton NHS Trust,all-ages,195,225,170,195
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,5-9,0,0,0,0
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,15-18,15,10,10,10
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,19-24,30,25,25,20
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,25-29,35,20,25,15
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,30-34,25,35,25,30
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,35-39,35,35,35,30
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,40-44,40,35,30,35
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,45-49,40,40,40,35
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,50-54,60,60,50,55
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,55-59,70,70,60,60
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,60-64,60,70,55,65
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,65-69,75,70,65,60
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,70-74,110,125,90,100
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,75-79,100,130,80,110
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,80-84,90,130,75,110
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,85-plus,130,370,105,290
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,all-ages,910,1225,770,1035
+RNA,The Dudley Group NHS Foundation Trust,5-9,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,19-24,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,25-29,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,30-34,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,35-39,5,0,5,0
+RNA,The Dudley Group NHS Foundation Trust,40-44,0,0,0,0
+RNA,The Dudley Group NHS Foundation Trust,45-49,0,5,0,5
+RNA,The Dudley Group NHS Foundation Trust,50-54,5,5,5,0
+RNA,The Dudley Group NHS Foundation Trust,55-59,5,0,5,0
+RNA,The Dudley Group NHS Foundation Trust,60-64,10,0,5,0
+RNA,The Dudley Group NHS Foundation Trust,65-69,15,5,15,5
+RNA,The Dudley Group NHS Foundation Trust,70-74,15,10,15,10
+RNA,The Dudley Group NHS Foundation Trust,75-79,20,20,20,20
+RNA,The Dudley Group NHS Foundation Trust,80-84,30,30,30,30
+RNA,The Dudley Group NHS Foundation Trust,85-plus,30,70,30,70
+RNA,The Dudley Group NHS Foundation Trust,all-ages,155,170,150,165
+RNN,Cumbria Partnership NHS Foundation Trust,10-14,0,0,0,0
+RNN,Cumbria Partnership NHS Foundation Trust,15-18,0,0,0,0
+RNN,Cumbria Partnership NHS Foundation Trust,all-ages,0,0,0,0
+RNU,Oxford Health NHS Foundation Trust,10-14,0,0,0,0
+RNU,Oxford Health NHS Foundation Trust,5-9,0,0,0,0
+RNU,Oxford Health NHS Foundation Trust,0-4,0,0,0,0
+RNU,Oxford Health NHS Foundation Trust,15-18,0,5,0,5
+RNU,Oxford Health NHS Foundation Trust,19-24,5,5,0,0
+RNU,Oxford Health NHS Foundation Trust,25-29,15,0,5,0
+RNU,Oxford Health NHS Foundation Trust,30-34,0,10,0,5
+RNU,Oxford Health NHS Foundation Trust,35-39,5,0,0,0
+RNU,Oxford Health NHS Foundation Trust,40-44,10,5,10,5
+RNU,Oxford Health NHS Foundation Trust,45-49,10,20,10,15
+RNU,Oxford Health NHS Foundation Trust,50-54,25,20,15,15
+RNU,Oxford Health NHS Foundation Trust,55-59,45,35,35,30
+RNU,Oxford Health NHS Foundation Trust,60-64,40,50,30,40
+RNU,Oxford Health NHS Foundation Trust,65-69,45,70,40,50
+RNU,Oxford Health NHS Foundation Trust,70-74,95,90,70,65
+RNU,Oxford Health NHS Foundation Trust,75-79,125,140,95,105
+RNU,Oxford Health NHS Foundation Trust,80-84,150,225,120,170
+RNU,Oxford Health NHS Foundation Trust,85-plus,340,735,260,570
+RNU,Oxford Health NHS Foundation Trust,all-ages,925,1425,710,1095
+RPG,Oxleas NHS Foundation Trust,35-39,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,40-44,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,45-49,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,50-54,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,55-59,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,60-64,0,0,0,0
+RPG,Oxleas NHS Foundation Trust,65-69,5,0,5,0
+RPG,Oxleas NHS Foundation Trust,70-74,10,5,10,5
+RPG,Oxleas NHS Foundation Trust,75-79,0,5,0,5
+RPG,Oxleas NHS Foundation Trust,80-84,10,15,10,15
+RPG,Oxleas NHS Foundation Trust,85-plus,15,35,15,35
+RPG,Oxleas NHS Foundation Trust,all-ages,55,70,55,70
+RR1,Heart of England NHS Foundation Trust,5-9,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,15-18,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,19-24,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,25-29,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,30-34,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,35-39,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,40-44,0,0,0,0
+RR1,Heart of England NHS Foundation Trust,45-49,10,0,10,0
+RR1,Heart of England NHS Foundation Trust,50-54,10,10,10,10
+RR1,Heart of England NHS Foundation Trust,55-59,15,15,10,15
+RR1,Heart of England NHS Foundation Trust,60-64,10,10,5,5
+RR1,Heart of England NHS Foundation Trust,65-69,20,15,15,10
+RR1,Heart of England NHS Foundation Trust,70-74,20,30,20,25
+RR1,Heart of England NHS Foundation Trust,75-79,30,30,30,25
+RR1,Heart of England NHS Foundation Trust,80-84,35,40,30,40
+RR1,Heart of England NHS Foundation Trust,85-plus,60,165,55,160
+RR1,Heart of England NHS Foundation Trust,all-ages,215,325,195,305
+RR7,Gateshead Health NHS Foundation rust,10-14,0,0,0,0
+RR7,Gateshead Health NHS Foundation rust,5-9,0,0,0,0
+RR7,Gateshead Health NHS Foundation rust,15-18,0,0,0,0
+RR7,Gateshead Health NHS Foundation rust,19-24,0,0,0,0
+RR7,Gateshead Health NHS Foundation rust,25-29,0,5,0,0
+RR7,Gateshead Health NHS Foundation rust,30-34,0,5,0,0
+RR7,Gateshead Health NHS Foundation rust,35-39,0,5,0,5
+RR7,Gateshead Health NHS Foundation rust,40-44,5,5,5,5
+RR7,Gateshead Health NHS Foundation rust,45-49,10,5,5,5
+RR7,Gateshead Health NHS Foundation rust,50-54,10,10,10,10
+RR7,Gateshead Health NHS Foundation rust,55-59,15,20,15,15
+RR7,Gateshead Health NHS Foundation rust,60-64,15,20,15,20
+RR7,Gateshead Health NHS Foundation rust,65-69,35,30,30,30
+RR7,Gateshead Health NHS Foundation rust,70-74,35,45,30,35
+RR7,Gateshead Health NHS Foundation rust,75-79,45,55,30,45
+RR7,Gateshead Health NHS Foundation rust,80-84,40,110,35,80
+RR7,Gateshead Health NHS Foundation rust,85-plus,60,175,55,140
+RR7,Gateshead Health NHS Foundation rust,all-ages,280,505,240,415
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",19-24,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",25-29,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",30-34,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",35-39,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",40-44,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",45-49,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",50-54,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",60-64,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",65-69,0,0,0,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",70-74,5,5,5,5
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",75-79,0,10,0,10
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",80-84,10,0,10,0
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",85-plus,0,15,0,15
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",all-ages,40,45,40,45
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,10-14,0,0,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,0-4,0,0,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,15-18,0,5,0,0
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,19-24,15,10,10,10
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,25-29,20,5,10,5
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,30-34,15,15,15,10
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,35-39,20,15,20,15
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,40-44,30,25,20,15
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,45-49,45,35,35,30
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,50-54,50,60,35,45
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,55-59,75,80,45,60
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,60-64,120,120,75,75
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,65-69,185,155,115,120
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,70-74,210,215,155,155
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,75-79,240,320,175,230
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,80-84,300,465,215,335
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,85-plus,685,1590,465,1035
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,all-ages,2025,3120,1400,2135
+RT2,Pennine Care NHS Foundation Trust,19-24,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,25-29,0,5,0,5
+RT2,Pennine Care NHS Foundation Trust,30-34,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,35-39,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,40-44,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,45-49,0,0,0,0
+RT2,Pennine Care NHS Foundation Trust,50-54,5,5,5,5
+RT2,Pennine Care NHS Foundation Trust,55-59,0,5,0,5
+RT2,Pennine Care NHS Foundation Trust,60-64,10,10,10,10
+RT2,Pennine Care NHS Foundation Trust,65-69,5,5,5,5
+RT2,Pennine Care NHS Foundation Trust,70-74,15,10,15,10
+RT2,Pennine Care NHS Foundation Trust,75-79,5,15,5,10
+RT2,Pennine Care NHS Foundation Trust,80-84,15,30,10,30
+RT2,Pennine Care NHS Foundation Trust,85-plus,10,30,5,30
+RT2,Pennine Care NHS Foundation Trust,all-ages,75,130,70,120
+RT5,Leicestershire Partnership NHS Trust,10-14,30,15,25,10
+RT5,Leicestershire Partnership NHS Trust,5-9,20,5,15,5
+RT5,Leicestershire Partnership NHS Trust,0-4,10,10,10,10
+RT5,Leicestershire Partnership NHS Trust,15-18,45,25,40,20
+RT5,Leicestershire Partnership NHS Trust,19-24,115,70,100,60
+RT5,Leicestershire Partnership NHS Trust,25-29,85,70,75,60
+RT5,Leicestershire Partnership NHS Trust,30-34,65,75,60,65
+RT5,Leicestershire Partnership NHS Trust,35-39,90,75,75,60
+RT5,Leicestershire Partnership NHS Trust,40-44,70,110,60,95
+RT5,Leicestershire Partnership NHS Trust,45-49,105,130,90,100
+RT5,Leicestershire Partnership NHS Trust,50-54,120,125,90,100
+RT5,Leicestershire Partnership NHS Trust,55-59,175,145,145,110
+RT5,Leicestershire Partnership NHS Trust,60-64,210,155,155,120
+RT5,Leicestershire Partnership NHS Trust,65-69,270,240,200,180
+RT5,Leicestershire Partnership NHS Trust,70-74,295,270,205,195
+RT5,Leicestershire Partnership NHS Trust,75-79,290,375,215,265
+RT5,Leicestershire Partnership NHS Trust,80-84,395,550,280,380
+RT5,Leicestershire Partnership NHS Trust,85-plus,645,1570,445,1065
+RT5,Leicestershire Partnership NHS Trust,all-ages,3030,4015,2285,2910
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,10-14,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,5-9,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,0-4,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,15-18,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,19-24,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,35-39,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,40-44,0,0,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,45-49,5,0,5,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,50-54,5,0,5,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,55-59,5,5,0,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,60-64,10,5,10,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,65-69,5,15,5,10
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,70-74,15,15,15,10
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,75-79,15,20,15,15
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,80-84,10,15,10,15
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,85-plus,15,30,15,30
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,all-ages,95,110,85,100
+RTR,South Tees Hospitals NHS Foundation Trust,15-18,0,0,0,0
+RTR,South Tees Hospitals NHS Foundation Trust,19-24,10,0,10,0
+RTR,South Tees Hospitals NHS Foundation Trust,25-29,5,10,0,10
+RTR,South Tees Hospitals NHS Foundation Trust,30-34,10,15,10,10
+RTR,South Tees Hospitals NHS Foundation Trust,35-39,15,10,10,10
+RTR,South Tees Hospitals NHS Foundation Trust,40-44,10,10,10,5
+RTR,South Tees Hospitals NHS Foundation Trust,45-49,20,30,15,25
+RTR,South Tees Hospitals NHS Foundation Trust,50-54,30,25,20,20
+RTR,South Tees Hospitals NHS Foundation Trust,55-59,45,45,35,35
+RTR,South Tees Hospitals NHS Foundation Trust,60-64,55,40,40,35
+RTR,South Tees Hospitals NHS Foundation Trust,65-69,80,70,65,55
+RTR,South Tees Hospitals NHS Foundation Trust,70-74,95,85,80,80
+RTR,South Tees Hospitals NHS Foundation Trust,75-79,120,130,95,120
+RTR,South Tees Hospitals NHS Foundation Trust,80-84,155,245,120,205
+RTR,South Tees Hospitals NHS Foundation Trust,85-plus,260,615,205,515
+RTR,South Tees Hospitals NHS Foundation Trust,all-ages,900,1340,730,1125
+RTV,North West Boroughs Healthcare NHS Foundation Trust,10-14,15,10,15,10
+RTV,North West Boroughs Healthcare NHS Foundation Trust,5-9,0,0,0,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,0-4,0,0,0,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,15-18,25,10,20,10
+RTV,North West Boroughs Healthcare NHS Foundation Trust,19-24,35,40,30,35
+RTV,North West Boroughs Healthcare NHS Foundation Trust,25-29,25,45,25,40
+RTV,North West Boroughs Healthcare NHS Foundation Trust,30-34,30,35,30,35
+RTV,North West Boroughs Healthcare NHS Foundation Trust,35-39,50,45,45,40
+RTV,North West Boroughs Healthcare NHS Foundation Trust,40-44,45,30,35,25
+RTV,North West Boroughs Healthcare NHS Foundation Trust,45-49,45,65,40,55
+RTV,North West Boroughs Healthcare NHS Foundation Trust,50-54,80,55,65,50
+RTV,North West Boroughs Healthcare NHS Foundation Trust,55-59,95,85,80,70
+RTV,North West Boroughs Healthcare NHS Foundation Trust,60-64,135,85,100,70
+RTV,North West Boroughs Healthcare NHS Foundation Trust,65-69,105,90,90,75
+RTV,North West Boroughs Healthcare NHS Foundation Trust,70-74,105,110,90,95
+RTV,North West Boroughs Healthcare NHS Foundation Trust,75-79,120,150,100,125
+RTV,North West Boroughs Healthcare NHS Foundation Trust,80-84,130,220,100,160
+RTV,North West Boroughs Healthcare NHS Foundation Trust,85-plus,155,350,115,250
+RTV,North West Boroughs Healthcare NHS Foundation Trust,all-ages,1210,1440,995,1155
+RV3,Central and North West London NHS Foundation Trust,10-14,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,5-9,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,0-4,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,15-18,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,19-24,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,25-29,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,30-34,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,35-39,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,45-49,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,50-54,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,55-59,0,0,0,0
+RV3,Central and North West London NHS Foundation Trust,60-64,10,5,10,5
+RV3,Central and North West London NHS Foundation Trust,65-69,10,10,10,5
+RV3,Central and North West London NHS Foundation Trust,70-74,20,15,20,15
+RV3,Central and North West London NHS Foundation Trust,75-79,10,15,10,15
+RV3,Central and North West London NHS Foundation Trust,80-84,15,15,15,15
+RV3,Central and North West London NHS Foundation Trust,85-plus,25,55,25,55
+RV3,Central and North West London NHS Foundation Trust,all-ages,110,140,105,135
+RV9,Humber NHS Foundation Trust,45-49,0,0,0,0
+RV9,Humber NHS Foundation Trust,50-54,0,0,0,0
+RV9,Humber NHS Foundation Trust,55-59,0,0,0,0
+RV9,Humber NHS Foundation Trust,60-64,0,0,0,0
+RV9,Humber NHS Foundation Trust,65-69,0,0,0,0
+RV9,Humber NHS Foundation Trust,70-74,0,0,0,0
+RV9,Humber NHS Foundation Trust,75-79,5,10,0,10
+RV9,Humber NHS Foundation Trust,80-84,5,10,5,10
+RV9,Humber NHS Foundation Trust,85-plus,10,25,10,25
+RV9,Humber NHS Foundation Trust,all-ages,30,45,30,45
+RVW,North Tees and Hartlepool NHS Foundation Trust,15-18,0,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,19-24,0,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,25-29,5,0,0,0
+RVW,North Tees and Hartlepool NHS Foundation Trust,30-34,15,10,5,10
+RVW,North Tees and Hartlepool NHS Foundation Trust,35-39,15,15,15,10
+RVW,North Tees and Hartlepool NHS Foundation Trust,40-44,10,20,10,15
+RVW,North Tees and Hartlepool NHS Foundation Trust,45-49,35,15,20,15
+RVW,North Tees and Hartlepool NHS Foundation Trust,50-54,25,40,20,30
+RVW,North Tees and Hartlepool NHS Foundation Trust,55-59,35,30,25,25
+RVW,North Tees and Hartlepool NHS Foundation Trust,60-64,50,50,40,45
+RVW,North Tees and Hartlepool NHS Foundation Trust,65-69,80,55,55,45
+RVW,North Tees and Hartlepool NHS Foundation Trust,70-74,70,85,55,60
+RVW,North Tees and Hartlepool NHS Foundation Trust,75-79,100,130,80,100
+RVW,North Tees and Hartlepool NHS Foundation Trust,80-84,135,225,85,160
+RVW,North Tees and Hartlepool NHS Foundation Trust,85-plus,225,655,175,470
+RVW,North Tees and Hartlepool NHS Foundation Trust,all-ages,805,1345,600,985
+RVY,Southport and Ormskirk Hospital NHS Trust,10-14,0,0,0,0
+RVY,Southport and Ormskirk Hospital NHS Trust,5-9,0,0,0,0
+RVY,Southport and Ormskirk Hospital NHS Trust,0-4,0,0,0,0
+RVY,Southport and Ormskirk Hospital NHS Trust,15-18,0,0,0,0
+RVY,Southport and Ormskirk Hospital NHS Trust,all-ages,0,10,0,10
+RW1,Southern Health NHS Foundation Trust,0-4,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,15-18,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,19-24,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,25-29,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,30-34,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,35-39,10,10,5,0
+RW1,Southern Health NHS Foundation Trust,40-44,0,0,0,0
+RW1,Southern Health NHS Foundation Trust,45-49,15,15,10,10
+RW1,Southern Health NHS Foundation Trust,50-54,15,20,10,15
+RW1,Southern Health NHS Foundation Trust,55-59,20,20,15,15
+RW1,Southern Health NHS Foundation Trust,60-64,25,25,20,20
+RW1,Southern Health NHS Foundation Trust,65-69,35,40,30,30
+RW1,Southern Health NHS Foundation Trust,70-74,60,55,45,35
+RW1,Southern Health NHS Foundation Trust,75-79,55,80,45,60
+RW1,Southern Health NHS Foundation Trust,80-84,75,125,60,85
+RW1,Southern Health NHS Foundation Trust,85-plus,185,365,140,270
+RW1,Southern Health NHS Foundation Trust,all-ages,505,755,385,550
+RW5,Lancashire Care NHS Foundation Trust,15-18,10,10,10,5
+RW5,Lancashire Care NHS Foundation Trust,19-24,10,10,10,10
+RW5,Lancashire Care NHS Foundation Trust,25-29,20,20,20,20
+RW5,Lancashire Care NHS Foundation Trust,30-34,15,20,15,20
+RW5,Lancashire Care NHS Foundation Trust,35-39,25,35,20,25
+RW5,Lancashire Care NHS Foundation Trust,40-44,25,35,20,30
+RW5,Lancashire Care NHS Foundation Trust,45-49,40,50,35,45
+RW5,Lancashire Care NHS Foundation Trust,50-54,50,50,40,45
+RW5,Lancashire Care NHS Foundation Trust,55-59,60,55,60,50
+RW5,Lancashire Care NHS Foundation Trust,60-64,60,55,55,55
+RW5,Lancashire Care NHS Foundation Trust,65-69,75,90,70,75
+RW5,Lancashire Care NHS Foundation Trust,70-74,110,85,100,75
+RW5,Lancashire Care NHS Foundation Trust,75-79,85,100,75,85
+RW5,Lancashire Care NHS Foundation Trust,80-84,80,130,60,110
+RW5,Lancashire Care NHS Foundation Trust,85-plus,105,200,90,170
+RW5,Lancashire Care NHS Foundation Trust,all-ages,770,935,670,820
+RWJ,Stockport NHS Foundation Trust,10-14,20,10,15,10
+RWJ,Stockport NHS Foundation Trust,5-9,0,0,0,0
+RWJ,Stockport NHS Foundation Trust,0-4,0,0,0,0
+RWJ,Stockport NHS Foundation Trust,15-18,40,15,35,15
+RWJ,Stockport NHS Foundation Trust,19-24,50,40,45,40
+RWJ,Stockport NHS Foundation Trust,25-29,75,25,65,25
+RWJ,Stockport NHS Foundation Trust,30-34,60,55,50,50
+RWJ,Stockport NHS Foundation Trust,35-39,50,65,45,65
+RWJ,Stockport NHS Foundation Trust,40-44,70,60,60,60
+RWJ,Stockport NHS Foundation Trust,45-49,90,80,80,75
+RWJ,Stockport NHS Foundation Trust,50-54,100,95,85,85
+RWJ,Stockport NHS Foundation Trust,55-59,110,100,90,95
+RWJ,Stockport NHS Foundation Trust,60-64,105,130,95,110
+RWJ,Stockport NHS Foundation Trust,65-69,135,120,120,105
+RWJ,Stockport NHS Foundation Trust,70-74,175,150,150,140
+RWJ,Stockport NHS Foundation Trust,75-79,175,165,155,145
+RWJ,Stockport NHS Foundation Trust,80-84,165,200,145,165
+RWJ,Stockport NHS Foundation Trust,85-plus,195,440,165,375
+RWJ,Stockport NHS Foundation Trust,all-ages,1610,1760,1400,1560
+RWX,Berkshire Healthcare NHS Foundation Trust,19-24,10,5,10,5
+RWX,Berkshire Healthcare NHS Foundation Trust,25-29,0,0,0,0
+RWX,Berkshire Healthcare NHS Foundation Trust,30-34,15,0,10,0
+RWX,Berkshire Healthcare NHS Foundation Trust,35-39,5,0,0,0
+RWX,Berkshire Healthcare NHS Foundation Trust,40-44,10,10,5,5
+RWX,Berkshire Healthcare NHS Foundation Trust,45-49,15,15,10,5
+RWX,Berkshire Healthcare NHS Foundation Trust,50-54,15,25,15,15
+RWX,Berkshire Healthcare NHS Foundation Trust,55-59,25,20,20,15
+RWX,Berkshire Healthcare NHS Foundation Trust,60-64,45,25,35,20
+RWX,Berkshire Healthcare NHS Foundation Trust,65-69,40,35,30,30
+RWX,Berkshire Healthcare NHS Foundation Trust,70-74,55,65,45,50
+RWX,Berkshire Healthcare NHS Foundation Trust,75-79,65,100,45,80
+RWX,Berkshire Healthcare NHS Foundation Trust,80-84,110,185,90,135
+RWX,Berkshire Healthcare NHS Foundation Trust,85-plus,205,495,160,370
+RWX,Berkshire Healthcare NHS Foundation Trust,all-ages,615,990,490,745
+RWY,Calderdale and Huddersfield NHS Foundation Trust,10-14,15,0,15,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,5-9,5,0,5,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,0-4,5,5,5,5
+RWY,Calderdale and Huddersfield NHS Foundation Trust,15-18,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,30-34,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,35-39,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,40-44,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,45-49,5,0,5,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,50-54,0,0,0,0
+RWY,Calderdale and Huddersfield NHS Foundation Trust,55-59,10,5,10,5
+RWY,Calderdale and Huddersfield NHS Foundation Trust,60-64,10,10,10,10
+RWY,Calderdale and Huddersfield NHS Foundation Trust,65-69,15,5,15,5
+RWY,Calderdale and Huddersfield NHS Foundation Trust,70-74,15,20,10,15
+RWY,Calderdale and Huddersfield NHS Foundation Trust,75-79,15,25,15,15
+RWY,Calderdale and Huddersfield NHS Foundation Trust,80-84,25,15,25,15
+RWY,Calderdale and Huddersfield NHS Foundation Trust,85-plus,25,40,25,35
+RWY,Calderdale and Huddersfield NHS Foundation Trust,all-ages,150,140,140,120
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,10-14,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,5-9,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,0-4,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,15-18,0,0,0,0
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,19-24,5,5,5,5
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,25-29,10,15,5,10
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,30-34,10,15,10,15
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,35-39,0,5,0,5
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,40-44,20,45,15,20
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,45-49,15,30,15,25
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,50-54,40,25,35,20
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,55-59,40,35,35,30
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,60-64,55,40,45,35
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,65-69,75,65,55,45
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,70-74,85,60,70,50
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,75-79,85,100,70,85
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,80-84,80,130,70,105
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,85-plus,160,375,120,280
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,all-ages,690,950,565,740
+RXC,East Sussex Healthcare NHS Trust,15-18,0,0,0,0
+RXC,East Sussex Healthcare NHS Trust,19-24,0,0,0,0
+RXC,East Sussex Healthcare NHS Trust,25-29,10,10,0,5
+RXC,East Sussex Healthcare NHS Trust,30-34,0,0,0,0
+RXC,East Sussex Healthcare NHS Trust,35-39,5,10,0,5
+RXC,East Sussex Healthcare NHS Trust,40-44,5,5,5,0
+RXC,East Sussex Healthcare NHS Trust,45-49,15,20,10,15
+RXC,East Sussex Healthcare NHS Trust,50-54,25,35,20,20
+RXC,East Sussex Healthcare NHS Trust,55-59,35,30,25,25
+RXC,East Sussex Healthcare NHS Trust,60-64,35,50,25,45
+RXC,East Sussex Healthcare NHS Trust,65-69,65,65,55,50
+RXC,East Sussex Healthcare NHS Trust,70-74,140,115,110,85
+RXC,East Sussex Healthcare NHS Trust,75-79,100,180,75,115
+RXC,East Sussex Healthcare NHS Trust,80-84,190,240,150,170
+RXC,East Sussex Healthcare NHS Trust,85-plus,380,865,285,655
+RXC,East Sussex Healthcare NHS Trust,all-ages,1015,1630,780,1195
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,5-9,0,0,0,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,0-4,0,0,0,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,19-24,0,0,0,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,25-29,0,5,0,5
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,30-34,5,10,5,5
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,35-39,5,10,5,10
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,40-44,20,10,15,10
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,45-49,20,25,15,20
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,50-54,20,35,15,30
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,55-59,30,30,20,25
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,60-64,35,40,30,35
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,65-69,55,45,45,35
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,70-74,80,90,60,65
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,75-79,80,105,55,75
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,80-84,85,155,60,115
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,85-plus,115,380,90,280
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,all-ages,555,945,425,715
+RXF,Mid Yorkshire Hospitals NHS Trust,35-39,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,40-44,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,45-49,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,50-54,0,0,0,0
+RXF,Mid Yorkshire Hospitals NHS Trust,55-59,0,5,0,5
+RXF,Mid Yorkshire Hospitals NHS Trust,60-64,0,5,0,5
+RXF,Mid Yorkshire Hospitals NHS Trust,65-69,10,5,5,5
+RXF,Mid Yorkshire Hospitals NHS Trust,70-74,10,10,10,10
+RXF,Mid Yorkshire Hospitals NHS Trust,75-79,10,10,5,10
+RXF,Mid Yorkshire Hospitals NHS Trust,80-84,5,10,5,10
+RXF,Mid Yorkshire Hospitals NHS Trust,85-plus,10,45,10,45
+RXF,Mid Yorkshire Hospitals NHS Trust,all-ages,55,100,50,95
+RXG,South West Yorkshire Partnership Foundation Trust,10-14,15,10,10,10
+RXG,South West Yorkshire Partnership Foundation Trust,5-9,0,0,0,0
+RXG,South West Yorkshire Partnership Foundation Trust,0-4,5,0,0,0
+RXG,South West Yorkshire Partnership Foundation Trust,15-18,10,0,10,0
+RXG,South West Yorkshire Partnership Foundation Trust,19-24,30,30,25,25
+RXG,South West Yorkshire Partnership Foundation Trust,25-29,30,20,25,20
+RXG,South West Yorkshire Partnership Foundation Trust,30-34,35,40,35,40
+RXG,South West Yorkshire Partnership Foundation Trust,35-39,45,40,40,35
+RXG,South West Yorkshire Partnership Foundation Trust,40-44,35,35,30,35
+RXG,South West Yorkshire Partnership Foundation Trust,45-49,70,75,65,65
+RXG,South West Yorkshire Partnership Foundation Trust,50-54,80,70,70,60
+RXG,South West Yorkshire Partnership Foundation Trust,55-59,85,75,70,65
+RXG,South West Yorkshire Partnership Foundation Trust,60-64,85,70,75,60
+RXG,South West Yorkshire Partnership Foundation Trust,65-69,125,100,120,85
+RXG,South West Yorkshire Partnership Foundation Trust,70-74,125,135,110,115
+RXG,South West Yorkshire Partnership Foundation Trust,75-79,155,165,135,145
+RXG,South West Yorkshire Partnership Foundation Trust,80-84,155,175,125,150
+RXG,South West Yorkshire Partnership Foundation Trust,85-plus,180,475,145,375
+RXG,South West Yorkshire Partnership Foundation Trust,all-ages,1270,1520,1100,1295
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,10-14,0,0,0,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,15-18,5,0,5,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,19-24,0,0,0,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,25-29,0,0,0,0
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,30-34,5,5,0,5
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,35-39,5,10,0,5
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,40-44,10,15,10,15
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,45-49,10,10,5,10
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,50-54,15,15,15,10
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,55-59,35,20,25,20
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,60-64,20,25,15,20
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,65-69,35,50,25,40
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,70-74,40,45,35,30
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,75-79,70,95,60,75
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,80-84,65,95,50,80
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,85-plus,110,270,90,220
+RXK,Sandwell and West Birmingham Hospitals NHS Trust,all-ages,440,660,360,530
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,10-14,0,0,0,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,5-9,0,0,0,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,0-4,0,0,0,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,15-18,5,0,5,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,19-24,10,10,10,10
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,25-29,10,10,10,5
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,30-34,5,10,5,10
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,35-39,10,15,10,15
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,40-44,15,25,10,25
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,45-49,25,25,25,25
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,50-54,45,40,40,40
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,55-59,50,50,40,45
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,60-64,55,55,55,55
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,65-69,90,90,85,80
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,70-74,95,115,85,95
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,75-79,105,125,90,105
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,80-84,135,195,120,160
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,85-plus,175,475,145,420
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,all-ages,835,1245,740,1090
+RY1,Liverpool Community Health NHS Trust,10-14,5,0,0,0
+RY1,Liverpool Community Health NHS Trust,5-9,0,0,0,0
+RY1,Liverpool Community Health NHS Trust,15-18,20,30,15,30
+RY1,Liverpool Community Health NHS Trust,19-24,115,90,105,80
+RY1,Liverpool Community Health NHS Trust,25-29,100,100,85,90
+RY1,Liverpool Community Health NHS Trust,30-34,115,130,105,110
+RY1,Liverpool Community Health NHS Trust,35-39,125,110,110,100
+RY1,Liverpool Community Health NHS Trust,40-44,115,130,100,115
+RY1,Liverpool Community Health NHS Trust,45-49,140,150,120,130
+RY1,Liverpool Community Health NHS Trust,50-54,205,200,170,165
+RY1,Liverpool Community Health NHS Trust,55-59,240,210,195,180
+RY1,Liverpool Community Health NHS Trust,60-64,260,205,220,175
+RY1,Liverpool Community Health NHS Trust,65-69,275,215,240,190
+RY1,Liverpool Community Health NHS Trust,70-74,305,275,260,225
+RY1,Liverpool Community Health NHS Trust,75-79,280,305,230,260
+RY1,Liverpool Community Health NHS Trust,80-84,310,350,255,295
+RY1,Liverpool Community Health NHS Trust,85-plus,375,715,295,580
+RY1,Liverpool Community Health NHS Trust,all-ages,2985,3220,2500,2725
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,10-14,30,25,30,25
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,5-9,30,15,30,15
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,0-4,15,20,15,20
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,15-18,10,15,10,15
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,19-24,10,15,10,15
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,25-29,15,10,15,10
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,30-34,20,15,15,15
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,35-39,15,30,15,25
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,40-44,10,15,10,15
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,45-49,25,35,25,35
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,50-54,45,30,40,30
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,55-59,30,30,30,30
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,60-64,40,50,40,50
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,65-69,55,55,55,55
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,70-74,90,90,85,90
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,75-79,70,95,70,85
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,80-84,80,110,75,105
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,85-plus,105,285,100,270
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,all-ages,690,940,660,895
+RY3,Norfolk Community Health and Care NHS Trust,55-59,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,60-64,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,65-69,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,70-74,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,75-79,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,80-84,0,0,0,0
+RY3,Norfolk Community Health and Care NHS Trust,85-plus,5,5,5,5
+RY3,Norfolk Community Health and Care NHS Trust,all-ages,10,15,10,15
+RY4,Hertfordshire Community NHS Trust,15-18,5,0,5,0
+RY4,Hertfordshire Community NHS Trust,19-24,20,20,15,15
+RY4,Hertfordshire Community NHS Trust,25-29,15,10,10,10
+RY4,Hertfordshire Community NHS Trust,30-34,15,20,10,15
+RY4,Hertfordshire Community NHS Trust,35-39,15,20,15,15
+RY4,Hertfordshire Community NHS Trust,40-44,25,10,25,10
+RY4,Hertfordshire Community NHS Trust,45-49,30,30,25,25
+RY4,Hertfordshire Community NHS Trust,50-54,55,55,45,50
+RY4,Hertfordshire Community NHS Trust,55-59,60,80,55,65
+RY4,Hertfordshire Community NHS Trust,60-64,80,70,65,55
+RY4,Hertfordshire Community NHS Trust,65-69,100,110,85,95
+RY4,Hertfordshire Community NHS Trust,70-74,175,180,145,145
+RY4,Hertfordshire Community NHS Trust,75-79,185,255,165,220
+RY4,Hertfordshire Community NHS Trust,80-84,310,455,260,385
+RY4,Hertfordshire Community NHS Trust,85-plus,615,1645,500,1330
+RY4,Hertfordshire Community NHS Trust,all-ages,1700,2960,1425,2430
+RY5,Lincolnshire Community Health Services NHS Trust,10-14,0,0,0,0
+RY5,Lincolnshire Community Health Services NHS Trust,15-18,0,5,0,5
+RY5,Lincolnshire Community Health Services NHS Trust,19-24,0,0,0,0
+RY5,Lincolnshire Community Health Services NHS Trust,25-29,5,10,5,5
+RY5,Lincolnshire Community Health Services NHS Trust,30-34,10,10,5,10
+RY5,Lincolnshire Community Health Services NHS Trust,35-39,10,10,10,10
+RY5,Lincolnshire Community Health Services NHS Trust,40-44,20,10,20,10
+RY5,Lincolnshire Community Health Services NHS Trust,45-49,20,20,20,15
+RY5,Lincolnshire Community Health Services NHS Trust,50-54,25,25,25,25
+RY5,Lincolnshire Community Health Services NHS Trust,55-59,20,30,20,30
+RY5,Lincolnshire Community Health Services NHS Trust,60-64,35,35,35,30
+RY5,Lincolnshire Community Health Services NHS Trust,65-69,55,40,50,35
+RY5,Lincolnshire Community Health Services NHS Trust,70-74,80,80,75,75
+RY5,Lincolnshire Community Health Services NHS Trust,75-79,80,110,80,100
+RY5,Lincolnshire Community Health Services NHS Trust,80-84,110,140,100,130
+RY5,Lincolnshire Community Health Services NHS Trust,85-plus,180,430,170,395
+RY5,Lincolnshire Community Health Services NHS Trust,all-ages,665,940,620,880
+RY6,Leeds Community Healthcare NHS Trust,10-14,10,5,10,5
+RY6,Leeds Community Healthcare NHS Trust,5-9,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,0-4,0,5,0,5
+RY6,Leeds Community Healthcare NHS Trust,15-18,5,0,5,0
+RY6,Leeds Community Healthcare NHS Trust,19-24,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,25-29,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,30-34,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,35-39,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,40-44,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,45-49,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,50-54,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,55-59,0,0,0,0
+RY6,Leeds Community Healthcare NHS Trust,60-64,5,10,5,10
+RY6,Leeds Community Healthcare NHS Trust,65-69,0,5,0,5
+RY6,Leeds Community Healthcare NHS Trust,70-74,15,0,15,0
+RY6,Leeds Community Healthcare NHS Trust,75-79,10,10,10,10
+RY6,Leeds Community Healthcare NHS Trust,80-84,10,10,10,10
+RY6,Leeds Community Healthcare NHS Trust,85-plus,10,35,10,35
+RY6,Leeds Community Healthcare NHS Trust,all-ages,85,95,80,95
+RY7,Wirral Community NHS Foundation Trust,19-24,5,0,0,0
+RY7,Wirral Community NHS Foundation Trust,25-29,0,0,0,0
+RY7,Wirral Community NHS Foundation Trust,30-34,0,0,0,0
+RY7,Wirral Community NHS Foundation Trust,35-39,0,0,0,0
+RY7,Wirral Community NHS Foundation Trust,40-44,10,0,10,0
+RY7,Wirral Community NHS Foundation Trust,45-49,5,10,5,5
+RY7,Wirral Community NHS Foundation Trust,50-54,10,15,10,10
+RY7,Wirral Community NHS Foundation Trust,55-59,10,10,10,10
+RY7,Wirral Community NHS Foundation Trust,60-64,10,20,10,15
+RY7,Wirral Community NHS Foundation Trust,65-69,30,15,30,15
+RY7,Wirral Community NHS Foundation Trust,70-74,25,25,25,20
+RY7,Wirral Community NHS Foundation Trust,75-79,25,30,25,30
+RY7,Wirral Community NHS Foundation Trust,80-84,25,30,20,30
+RY7,Wirral Community NHS Foundation Trust,85-plus,50,100,45,95
+RY7,Wirral Community NHS Foundation Trust,all-ages,210,270,195,245
+RY8,Derbyshire Community Health Services NHS Foundation Trust,19-24,0,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,25-29,0,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,30-34,0,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,35-39,0,0,0,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,40-44,10,0,10,0
+RY8,Derbyshire Community Health Services NHS Foundation Trust,45-49,10,5,10,5
+RY8,Derbyshire Community Health Services NHS Foundation Trust,50-54,15,15,15,10
+RY8,Derbyshire Community Health Services NHS Foundation Trust,55-59,15,10,15,10
+RY8,Derbyshire Community Health Services NHS Foundation Trust,60-64,25,20,20,20
+RY8,Derbyshire Community Health Services NHS Foundation Trust,65-69,45,30,35,25
+RY8,Derbyshire Community Health Services NHS Foundation Trust,70-74,40,30,35,25
+RY8,Derbyshire Community Health Services NHS Foundation Trust,75-79,40,70,35,50
+RY8,Derbyshire Community Health Services NHS Foundation Trust,80-84,40,90,35,70
+RY8,Derbyshire Community Health Services NHS Foundation Trust,85-plus,70,165,60,135
+RY8,Derbyshire Community Health Services NHS Foundation Trust,all-ages,325,455,275,360
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,10-14,0,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,0-4,0,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,19-24,0,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,30-34,0,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,35-39,5,0,5,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,40-44,0,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,45-49,5,0,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,50-54,5,0,5,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,55-59,5,5,0,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,60-64,10,0,10,0
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,65-69,10,10,5,5
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,70-74,10,10,10,10
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,75-79,15,15,15,10
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,80-84,15,25,10,20
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,85-plus,30,40,25,35
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,all-ages,115,120,100,100
+RYG,Coventry and Warwickshire Partnership NHS Trust,10-14,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,0-4,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,15-18,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,19-24,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,25-29,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,30-34,10,5,5,5
+RYG,Coventry and Warwickshire Partnership NHS Trust,35-39,5,0,5,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,40-44,0,0,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,45-49,15,10,10,10
+RYG,Coventry and Warwickshire Partnership NHS Trust,50-54,15,15,10,15
+RYG,Coventry and Warwickshire Partnership NHS Trust,55-59,20,20,15,15
+RYG,Coventry and Warwickshire Partnership NHS Trust,60-64,30,30,25,20
+RYG,Coventry and Warwickshire Partnership NHS Trust,65-69,35,40,30,30
+RYG,Coventry and Warwickshire Partnership NHS Trust,70-74,70,55,50,45
+RYG,Coventry and Warwickshire Partnership NHS Trust,75-79,70,60,50,50
+RYG,Coventry and Warwickshire Partnership NHS Trust,80-84,75,95,55,80
+RYG,Coventry and Warwickshire Partnership NHS Trust,85-plus,115,295,90,230
+RYG,Coventry and Warwickshire Partnership NHS Trust,all-ages,455,635,345,505
+RYV,Cambridgeshire Community Services NHS Trust,10-14,0,0,0,0
+RYV,Cambridgeshire Community Services NHS Trust,5-9,0,0,0,0
+RYV,Cambridgeshire Community Services NHS Trust,15-18,0,0,0,0
+RYV,Cambridgeshire Community Services NHS Trust,19-24,0,0,0,0
+RYV,Cambridgeshire Community Services NHS Trust,25-29,5,10,0,0
+RYV,Cambridgeshire Community Services NHS Trust,30-34,10,5,5,0
+RYV,Cambridgeshire Community Services NHS Trust,35-39,0,5,0,0
+RYV,Cambridgeshire Community Services NHS Trust,40-44,5,5,5,0
+RYV,Cambridgeshire Community Services NHS Trust,45-49,5,10,5,0
+RYV,Cambridgeshire Community Services NHS Trust,50-54,15,20,10,10
+RYV,Cambridgeshire Community Services NHS Trust,55-59,10,20,10,10
+RYV,Cambridgeshire Community Services NHS Trust,60-64,20,25,15,20
+RYV,Cambridgeshire Community Services NHS Trust,65-69,40,35,25,20
+RYV,Cambridgeshire Community Services NHS Trust,70-74,30,60,20,30
+RYV,Cambridgeshire Community Services NHS Trust,75-79,65,70,40,45
+RYV,Cambridgeshire Community Services NHS Trust,80-84,50,115,40,70
+RYV,Cambridgeshire Community Services NHS Trust,85-plus,135,315,80,190
+RYV,Cambridgeshire Community Services NHS Trust,all-ages,400,695,265,410
+RYW,Birmingham Community Healthcare NHS Foundation Trust,0-4,0,0,0,0
+RYW,Birmingham Community Healthcare NHS Foundation Trust,15-18,0,0,0,0
+RYW,Birmingham Community Healthcare NHS Foundation Trust,all-ages,0,0,0,0
+RYX,Central London Community Healthcare NHS Trust,15-18,0,0,0,0
+RYX,Central London Community Healthcare NHS Trust,19-24,0,0,0,0
+RYX,Central London Community Healthcare NHS Trust,25-29,0,0,0,0
+RYX,Central London Community Healthcare NHS Trust,30-34,5,5,5,0
+RYX,Central London Community Healthcare NHS Trust,35-39,5,5,5,5
+RYX,Central London Community Healthcare NHS Trust,40-44,10,10,10,10
+RYX,Central London Community Healthcare NHS Trust,45-49,10,15,10,15
+RYX,Central London Community Healthcare NHS Trust,50-54,5,10,5,10
+RYX,Central London Community Healthcare NHS Trust,55-59,20,20,15,20
+RYX,Central London Community Healthcare NHS Trust,60-64,25,15,25,15
+RYX,Central London Community Healthcare NHS Trust,65-69,35,35,25,25
+RYX,Central London Community Healthcare NHS Trust,70-74,45,45,40,40
+RYX,Central London Community Healthcare NHS Trust,75-79,40,55,40,50
+RYX,Central London Community Healthcare NHS Trust,80-84,60,95,50,75
+RYX,Central London Community Healthcare NHS Trust,85-plus,90,225,80,190
+RYX,Central London Community Healthcare NHS Trust,all-ages,360,540,320,460
+RYY,Kent Community Health NHS Foundation Trust,10-14,5,0,5,0
+RYY,Kent Community Health NHS Foundation Trust,5-9,15,0,15,0
+RYY,Kent Community Health NHS Foundation Trust,0-4,0,0,0,0
+RYY,Kent Community Health NHS Foundation Trust,15-18,10,0,5,0
+RYY,Kent Community Health NHS Foundation Trust,all-ages,35,10,30,10
