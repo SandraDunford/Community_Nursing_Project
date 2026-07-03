@@ -1,10 +1,8 @@
 Version: 1.0
 Released: July 2026
-## Project Banner
+## README cnp banner
 
-![Project Banner](images/README cnp banner.png)
-
-**README.md**
+![README cnp banner](images/README cnp banner.png)
 
 **--EXECUTIVE SUMMARY--**
 Community Nursing Analytics Project
@@ -58,9 +56,9 @@ The project demonstrates not only technical capability in SQL, Snowflake, dbt, P
 
 **--DATA ARCHITECTURE AND PIPELINE--**
 This data architecture leverages senior healthcare experience, ensuring the right data is extracted, shaped, and modelled to answer real business questions, combined with modern data engineering skills to build a robust, scalable, and reliable analytics platform.
-## Data Architecture
+## README Data Architecture
 
-![Data Architecture](images/README Data Architecture.png)
+![README Data Architecture](images/README Data Architecture.png)
 
 **--DATA MODELS--**
 Healthcare domain expertise informed the selection, standardisation and modelling of clinically relevant data, while modern analytics engineering practices ensured the resulting datasets are trusted, reusable and optimised for reporting.
@@ -68,15 +66,136 @@ Healthcare domain expertise informed the selection, standardisation and modellin
 
 ![star_schema](images/star_schema.png)
 
-## Data Models
+## README Data Models
 
-![Data Models](images/README Data Models.png)
+![README Data Models](images/README Data Models.png)
 
 **--TECHNOLOGIES--**
 The Community Nursing Project used a modern ELT architecture built around cloud data warehousing and analytics engineering principles. Each technology was selected to demonstrate an industry-standard approach to building scalable, maintainable and analytics-ready data pipelines.
-## Tech and Skills
+## Technologies used and skills demonstrated
 
-![Tech and Skills](images/Technologies
+![Technologies used and skills demonstrated](images/Technologies used and skills demonstrated)
+
+**--DATA QUALITY TESTING--**
+
+RAW LAYER
+
+Raw datasets were manually reviewed to identify issues that would affect downstream processing. 
+	
+Checks included:
+* Consistent column headers across datasets. 
+* Data type validation (e.g. correcting age bands interpreted as dates in Excel). 
+* Removal of inconsistent formatting. 
+* Standardisation of categorical values (for example, ensuring consistent MV/OP values). 
+* Verification that all expected source files loaded successfully into the raw layer using the Python ingestion script.
+
+STAGING LAYER
+Transformation Validation, standardisation and cleaning to produce consistent datasets.
+
+Validation included:
+* Consistent naming conventions across all staging models. 
+* Standardised organisation names and codes. 
+* Removal of formatting inconsistencies. 
+* Validation of joins between source datasets. 
+* Verification of row counts between raw and staging tables where appropriate. 
+* Manual inspection of transformed data for plausibility.
+
+DBT TESTS
+* Unique - Ensures surrogate keys are unique
+* Not Null - validates mandatory key fields
+* Relationships - verifies referential integrity between fact and dimension tables
+
+MANUAL QUALITY ASSURANCE
+Verified tables materialised in the correct Snowflake schemas. 
+* Verified dimensional relationships. 
+* Spot-checked transformed records. 
+* Compared row counts between layers. 
+* Confirmed warehouse architecture matched the documented design.
+
+**--Business Questions Answered--**
+1. How does community nursing demand vary between organisations when considered alongside workforce capacity, population and deprivation?
+2.     Data Used: Activity+ Organisation
+3. Does workforce capacity appear aligned with demand?
+4.     Data Used: Workforce + activity
+5. Is service demand proportional to local population size?
+6.     Data used: ONS + activity
+7. Does deprivation appear to influence community nursing activity?
+8.     Data used: IMD + activity
+9. Which age groups account for teh greatest service demand?
+10.     Data used: age + activity
+
+**--SCREENSHOTS--**
+## Project Screenshots
+
+Additional screenshots demonstrating the pipeline, Snowflake warehouse, dbt lineage, and final data models can be viewed **[here](docs/screenshots.md)**.
+
+**--RESULTS--**
+The project successfully integrated multiple NHS England, ONS, and deprivation datasets into a single analytical warehouse. The resulting dimensional model enables consistent analysis of community nursing demand by organisation, geography, service type and age group while demonstrating a modern ELT workflow using Snowflake and dbt. The resulting warehouse provides reusable analytical datasets that can support future reporting, dashboard development service evaluation.
+
+**--DATA SOURCES, LICENSING, AND DISCLAIMER--**
+This project uses publicly available healthcare datasets published by UK government organisations. The data are used here solely for education, demonstration, and portfolio purposes to showcase modern data engineering and analytics engineering techniques.
+
+The raw data files in this repository are extracts from publicly available datasets where redistribution is permitted. Where applicable, the original data providers retain all rights, ownership, and intellectual property relating to the source data.
+Disclaimer:
+•	This repository contains no confidential, patient-identifiable or sensitive information.
+•	The analytical models, transformations, business questions and visualisation were independently developed for education and portfolio purposes.
+•	The analyses and conclusions presented are the author’s own and do not represent official NHS England reporting or guidance.
+
+Sources:
+NHS England - Community Health Services Statistics (District Nursing, End-of-Life-Care, Wound Care, and Community Workforce datasets)
+
+**--LIMITATIONS AND DATA QUALITY FINDINGS--**
+The following considerations should be taken into account when interpreting the analytical outputs.
+
+1.	The NHS workforce datasets did not contain workforce records for 9 of the 64 community healthcare organisations included within the clinical activity datasets.
+    These organisations were retained within the analytical model to preserve complete clinical reporting. However, they were excluded from workforce-capacity analyses where workforce measures were unavailable.
+
+2.	Some NHS community healthcare organisations provide service across multiple Local Authorities and Office for National Statistics (ONS) population areas. 
+    To simplify the portfolio implementation, each organisation has been assigned a single primary geography within the dimensional model. While this enables consistent reporting, it does not fully represent                 organisations whose services span multiple geographic areas.
+
+3.	The three clinical service domains are published at different levels of aggregation. For example, referral counts may be reported at organisation level, while age distributions are reported at organisation and age-      band level.
+    To create a complete end-to-end dimensional warehouse, the intermediate models standardise these datasets into a common analytical structure without redistributing measures across different levels of granularity.
+    As a result, the warehouse accurately demonstrates modern ELT architecture, dbt transformations, dimensional modelling and analytics engineering practices. However, analytical outputs should not be interpreted as        statistically precise across every dimensional combination, as they remain constrained by the structure of the published source data.
+
+This project was intentionally scoped to demonstrate a complete analytics engineering workflow within the constraints of publicly available data and the available development environment. The implementation prioritises clear architecture, maintainable transformations and reproducible analytical models while acknowledging the limitations inherent in the published datasets.
+
+**--CONTINUOUS IMPROVEMENTS--**
+This project is undergoing continuous improvements through a planned Version 2 coming soon, and future ideas logged here as longer-term improvements are recognised.
+
+Version 2
+
+•	PostgreSQL implementation 
+    Extend the dimensional model to include additional NHS Community Services Data Sets (CSDS) publications as they become available.
+    Expand the analytical layer with additional fact tables covering workforce capacity, care contacts and referral pathways.
+
+•	Dbt Core 
+    Introduce more comprehensive dbt tests, including customer business-rule validations and source freshness monitoring
+
+•	Bridge Table
+    Replace simplified geographic mappings with many-to-many relationships using bridge tables to support organisations service multiple Local Authorities and ONS population areas.
+
+•	Power BI
+    Enhance the Power BI reporting layer with additional operational dashboards and executive performance indicators.
+•	Analysis Report
+
+Future Ideas
+
+Planned enhancements include:
+
+•	Docker
+    Containerise the project using Docker to improve portability and deployment consistency.
+•	CI/CD
+    Implement CI/CD using GitHub Actions to automate testing and deployment
+
+•	Azure Data Factory
+    Introduce orchestration using tools such as Azure Data Factory to schedule and monitor pipeline execution.
+
+•	API Ingestion
+    Automate data ingestion directly from published source files or APIs to remove manual extraction and preparation steps.
+
+
+
+
 
 
 
