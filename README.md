@@ -37,6 +37,12 @@ This project demonstrates the complete lifecycle of a modern analytics engineeri
 * Creating dimensional models for reporting
 * Producing business-ready datasets capable of answering real operational questions
 
+**--DATA ARCHITECTURE AND PIPELINE--**
+This data architecture leverages senior healthcare experience, ensuring the right data is extracted, shaped, and modelled to answer real business questions, combined with modern data engineering skills to build a robust, scalable, and reliable analytics platform.
+## data_architecture
+
+![data_architecture](images/data_architecture.png)
+
 **--PURPOSE--**
 This project was designed to bridge my career in senior NHS leadership with my transition into Data Engineering.
 
@@ -53,12 +59,6 @@ Unlike many portfolio projects built around synthetic datasets, this project foc
 •	Supporting evidence-based decision-making
 
 The project demonstrates not only technical capability in SQL, Snowflake, dbt, Python, and Git, but also the domain knowledge required to understand healthcare data, ask meaningful business questions and design reporting that delivers value to clinicians, operational managers, and healthcare leaders for continuous improvement.
-
-**--DATA ARCHITECTURE AND PIPELINE--**
-This data architecture leverages senior healthcare experience, ensuring the right data is extracted, shaped, and modelled to answer real business questions, combined with modern data engineering skills to build a robust, scalable, and reliable analytics platform.
-## data_architecture
-
-![data_architecture](images/data_architecture.png)
 
 **--DATA MODELS--**
 Healthcare domain expertise informed the selection, standardisation and modelling of clinically relevant data, while modern analytics engineering practices ensured the resulting datasets are trusted, reusable and optimised for reporting.
