@@ -1,8 +1,8 @@
 Version: 1.0
 Released: July 2026
-## README cnp banner
+## banner
 
-![README cnp banner](images/README cnp banner.png)
+![banner](images/banner.png)
 
 **--EXECUTIVE SUMMARY--**
 Community Nursing Analytics Project
@@ -56,9 +56,9 @@ The project demonstrates not only technical capability in SQL, Snowflake, dbt, P
 
 **--DATA ARCHITECTURE AND PIPELINE--**
 This data architecture leverages senior healthcare experience, ensuring the right data is extracted, shaped, and modelled to answer real business questions, combined with modern data engineering skills to build a robust, scalable, and reliable analytics platform.
-## README Data Architecture
+## data_architecture
 
-![README Data Architecture](images/README Data Architecture.png)
+![data_architecture](images/data_architecture.png)
 
 **--DATA MODELS--**
 Healthcare domain expertise informed the selection, standardisation and modelling of clinically relevant data, while modern analytics engineering practices ensured the resulting datasets are trusted, reusable and optimised for reporting.
@@ -66,9 +66,9 @@ Healthcare domain expertise informed the selection, standardisation and modellin
 
 ![star_schema](images/star_schema.png)
 
-## README Data Models
+## data_models
 
-![README Data Models](images/README Data Models.png)
+![data_models](images/data_models.png)
 
 **--TECHNOLOGIES--**
 The Community Nursing Project used a modern ELT architecture built around cloud data warehousing and analytics engineering principles. Each technology was selected to demonstrate an industry-standard approach to building scalable, maintainable and analytics-ready data pipelines.
@@ -127,7 +127,7 @@ Verified tables materialised in the correct Snowflake schemas.
 **--SCREENSHOTS--**
 ## Project Screenshots
 
-Additional screenshots demonstrating the pipeline, Snowflake warehouse, dbt lineage, and final data models can be viewed **[here](docs/screenshots.md)**.
+Additional screenshots demonstrating the pipeline, Snowflake warehouse, dbt lineage, and final data models can be viewed **[here](images/screenshots.md)**.
 
 **--RESULTS--**
 The project successfully integrated multiple NHS England, ONS, and deprivation datasets into a single analytical warehouse. The resulting dimensional model enables consistent analysis of community nursing demand by organisation, geography, service type and age group while demonstrating a modern ELT workflow using Snowflake and dbt. The resulting warehouse provides reusable analytical datasets that can support future reporting, dashboard development service evaluation.
