@@ -1,0 +1,14 @@
+community-nursing-analytics/
+├── README.md
+├── PROJECT-PLAN.md
+├── data/
+│   └── raw/
+|   └── staging/
+|   └── marts/
+|
+├── sql/
+├── dbt_project/
+├── docs/
+├── analysis/
+├── snapshots/
+├── .gitignore

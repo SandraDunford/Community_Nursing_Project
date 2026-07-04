@@ -1,19 +1,38 @@
 SELECT
+
     CASE
-        WHEN TRIM(org_code) = 'All Submitters'
-            THEN 'All'
+        WHEN LOWER(TRIM(org_code)) = 'all submitters'
+            THEN 'all-orgs'
         ELSE TRIM(org_code)
     END AS org_code,
 
     CASE
-        WHEN TRIM(org_name) = 'All Submitters'
-            THEN 'All'
-        ELSE TRIM(org_name)
+        WHEN LOWER(TRIM(org_name)) = 'all submitters'
+            THEN 'all-orgs'
+        ELSE LOWER(TRIM(org_name))
     END AS org_name,
 
-    TRIM(gender) AS gender,
+    LOWER(TRIM(gender)) AS gender,
 
-    TRIM(age_group) AS age_group,
+    CASE
+        WHEN LOWER(TRIM(age_group)) IN (
+            '85+',
+            '85 +',
+            '85 and above',
+            '85 years and above',
+            '85 years and over',
+            '85 or above'
+        ) THEN '85-plus'
+
+        WHEN LOWER(TRIM(age_group)) IN (
+            'all ages',
+            'all age',
+            'all-age',
+            'all_ages'
+        ) THEN 'all-ages'
+
+        ELSE LOWER(TRIM(age_group))
+    END AS age_group,
 
     total_patients
 

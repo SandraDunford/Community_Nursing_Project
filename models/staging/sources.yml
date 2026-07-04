@@ -29,3 +29,12 @@ sources:
       - name: wound_procedures
       - name: wound_loc_age
       - name: wound_contacts
+
+  - name: lookup
+    database: raw_cnp
+    schema: DBT_SDUNFORD_THEDATAMATRON
+
+    tables:
+      - name: organisation_lookup
+      - name: service_lookup
+      - name: imd_lookup

@@ -1,0 +1,343 @@
+﻿org_code,org_name,team_type,female,male
+All orgs,All,All Team Types,40169,56755
+All orgs,All,Appliances Service,4,2
+All orgs,All,Cancer Service,1,
+All orgs,All,Cardiac Service,1,2
+All orgs,All,Childrens Community Nursing Service,63,53
+All orgs,All,Community Paediatrics Service,109,93
+All orgs,All,Continence Service,14,6
+All orgs,All,Dermatology Service,199,231
+All orgs,All,Diabetes Service,55,68
+All orgs,All,District Nursing Service,38008,25537
+All orgs,All,Ear Nose and Throat Service,1,
+All orgs,All,End of Life Care Service,7,9
+All orgs,All,Haematology Service,1,1
+All orgs,All,Health Visiting Service,21,13
+All orgs,All,Integrated Multi-Disciplinary Team (jointly commissioned),1535,929
+All orgs,All,Intermediate Care Service,3214,1802
+All orgs,All,Long Term Conditions Case Management Service,542,431
+All orgs,All,Neurology Service,2,1
+All orgs,All,Not recorded,80,61
+All orgs,All,Nutrition and Dietetics Service,48,20
+All orgs,All,Occupational Therapy Service,16,17
+All orgs,All,Orthoptist Service,1,2
+All orgs,All,Phlebotomy Service,8,10
+All orgs,All,Physiotherapy Service,13,2
+All orgs,All,Podiatry Service,142,171
+All orgs,All,Rehabilitation Service,14,1
+All orgs,All,Respiratory Service,1,
+All orgs,All,Respite Care Service,5,7
+All orgs,All,School Nursing Service,11,7
+All orgs,All,Tissue Viability Service,9283,7301
+All orgs,All,Treatment Room Nursing Service,3359,3388
+All orgs,All,Vulnerable Adults Service,,1
+AXG,Wiltshire Health & Care,All Teams,1151,660
+AXG,Wiltshire Health & Care,District Nursing Service,515,270
+AXG,Wiltshire Health & Care,End of Life Care Service,5,0
+AXG,Wiltshire Health & Care,Intermediate Care Service,470,305
+AXG,Wiltshire Health & Care,Long Term Conditions Case Management Service,160,80
+NDA,Virgin Care Services Ltd,All Teams,925,629
+NDA,Virgin Care Services Ltd,District Nursing Service,340,245
+NDA,Virgin Care Services Ltd,Intermediate Care Service,510,310
+NDA,Virgin Care Services Ltd,Neurology Service,0,0
+NDA,Virgin Care Services Ltd,Podiatry Service,0,0
+NDA,Virgin Care Services Ltd,Rehabilitation Service,0,
+NDA,Virgin Care Services Ltd,Tissue Viability Service,70,70
+NLL,Peninsula Community Health CIC,All Teams,743,594
+NLL,Peninsula Community Health CIC,District Nursing Service,705,550
+NLL,Peninsula Community Health CIC,Long Term Conditions Case Management Service,0,0
+NLL,Peninsula Community Health CIC,Podiatry Service,35,45
+NLT,North Somerset Community Partnership CIC,All Teams,473,280
+NLT,North Somerset Community Partnership CIC,District Nursing Service,420,235
+NLT,North Somerset Community Partnership CIC,Intermediate Care Service,40,25
+NLT,North Somerset Community Partnership CIC,Long Term Conditions Case Management Service,15,20
+NLT,North Somerset Community Partnership CIC,Occupational Therapy Service,0,0
+NLW,Bristol Community Health,All Teams,184,185
+NLW,Bristol Community Health,District Nursing Service,55,55
+NLW,Bristol Community Health,Intermediate Care Service,15,15
+NLW,Bristol Community Health,Long Term Conditions Case Management Service,110,110
+NLW,Bristol Community Health,Tissue Viability Service,5,5
+NLX,Sirona Care & Health,All Teams,76,68
+NLX,Sirona Care & Health,District Nursing Service,40,35
+NLX,Sirona Care & Health,Long Term Conditions Case Management Service,35,35
+NLX,Sirona Care & Health,Vulnerable Adults Service,,0
+NNV,Your Healthcare,All Teams,73,47
+NNV,Your Healthcare,District Nursing Service,25,15
+NNV,Your Healthcare,Tissue Viability Service,50,35
+NQ7,Medway Community Healthcare,All Teams,1125,929
+NQ8,Medway Community Healthcare,Continence Service,0,0
+NQ9,Medway Community Healthcare,Dermatology Service,0,0
+NQ10,Medway Community Healthcare,District Nursing Service,340,235
+NQ11,Medway Community Healthcare,Intermediate Care Service,0,0
+NQ12,Medway Community Healthcare,Podiatry Service,0,0
+NQ13,Medway Community Healthcare,Rehabilitation Service,0,
+NQ14,Medway Community Healthcare,Tissue Viability Service,775,680
+NQA,Provide,All Teams,2257,1284
+NQA,Provide,District Nursing Service,2095,1180
+NQA,Provide,Long Term Conditions Case Management Service,160,100
+NQA,Provide,Occupational Therapy Service,0,0
+NQT,Virgin Care Ltd,All Teams,895,561
+NQT,Virgin Care Ltd,District Nursing Service,570,345
+NQT,Virgin Care Ltd,Integrated Multi-Disciplinary Team (jointly commissioned),0,
+NQT,Virgin Care Ltd,Long Term Conditions Case Management Service,0,0
+NQT,Virgin Care Ltd,Tissue Viability Service,140,70
+NQT,Virgin Care Ltd,Treatment Room Nursing Service,180,145
+NR5,Livewell Southwest,All Teams,825,525
+NR6,Livewell Southwest,District Nursing Service,655,365
+NR7,Livewell Southwest,Tissue Viability Service,130,95
+NR8,Livewell Southwest,Treatment Room Nursing Service,40,65
+R1A,Worcestershire Health and Care NHS Trust,All Teams,315,182
+R1A,Worcestershire Health and Care NHS Trust,District Nursing Service,300,165
+R1A,Worcestershire Health and Care NHS Trust,Intermediate Care Service,0,0
+R1A,Worcestershire Health and Care NHS Trust,Neurology Service,0,
+R1A,Worcestershire Health and Care NHS Trust,Podiatry Service,,0
+R1A,Worcestershire Health and Care NHS Trust,Tissue Viability Service,15,15
+R1C,Solent NHS Trust,All Teams,241,158
+R1C,Solent NHS Trust,District Nursing Service,235,150
+R1C,Solent NHS Trust,Intermediate Care Service,,0
+R1C,Solent NHS Trust,Tissue Viability Service,10,10
+R1D,Shropshire Community Health NHS Trust,All Teams,587,442
+R1D,Shropshire Community Health NHS Trust,Childrens Community Nursing Service,0,0
+R1D,Shropshire Community Health NHS Trust,District Nursing Service,460,325
+R1D,Shropshire Community Health NHS Trust,Integrated Multi-Disciplinary Team (jointly commissioned),5,10
+R1D,Shropshire Community Health NHS Trust,Physiotherapy Service,0,
+R1D,Shropshire Community Health NHS Trust,School Nursing Service,0,
+R1D,Shropshire Community Health NHS Trust,Tissue Viability Service,120,105
+R1J,Gloucestershire Care Services NHS Trust,All Teams,70,74
+R1J,Gloucestershire Care Services NHS Trust,Childrens Community Nursing Service,0,0
+R1J,Gloucestershire Care Services NHS Trust,Haematology Service,0,0
+R1J,Gloucestershire Care Services NHS Trust,Podiatry Service,0,5
+R1J,Gloucestershire Care Services NHS Trust,Tissue Viability Service,65,65
+R1L,Essex Partnership University NHS Foundation Trust,All Teams,417,293
+R1L,Essex Partnership University NHS Foundation Trust,Cardiac Service,0,0
+R1L,Essex Partnership University NHS Foundation Trust,Dermatology Service,35,30
+R1L,Essex Partnership University NHS Foundation Trust,District Nursing Service,330,215
+R1L,Essex Partnership University NHS Foundation Trust,Nutrition and Dietetics Service,,0
+R1L,Essex Partnership University NHS Foundation Trust,Tissue Viability Service,50,40
+RAT,North East London NHS Foundation Trust,All Teams,3153,2093
+RAT,North East London NHS Foundation Trust,Appliances Service,0,0
+RAT,North East London NHS Foundation Trust,Childrens Community Nursing Service,5,5
+RAT,North East London NHS Foundation Trust,District Nursing Service,1430,925
+RAT,North East London NHS Foundation Trust,Integrated Multi-Disciplinary Team (jointly commissioned),1195,710
+RAT,North East London NHS Foundation Trust,Nutrition and Dietetics Service,35,15
+RAT,North East London NHS Foundation Trust,Tissue Viability Service,445,395
+RAT,North East London NHS Foundation Trust,Treatment Room Nursing Service,35,40
+RBK,Walsall Healthcare NHS Trust,All Teams,12,12
+RBK,Walsall Healthcare NHS Trust,Tissue Viability Service,10,10
+RBZ,Northern Devon Healthcare NHS Trust,All Teams,380,244
+RBZ,Northern Devon Healthcare NHS Trust,Community Paediatrics Service,5,0
+RBZ,Northern Devon Healthcare NHS Trust,District Nursing Service,375,240
+RBZ,Northern Devon Healthcare NHS Trust,Rehabilitation Service,0,
+RCB,York Teaching Hospital NHS Foundation Trust,All Teams,167,122
+RCB,York Teaching Hospital NHS Foundation Trust,Occupational Therapy Service,0,0
+RCB,York Teaching Hospital NHS Foundation Trust,Tissue Viability Service,165,120
+RCD,Harrogate and District NHS Foundation Trust,All Teams,454,305
+RCD,Harrogate and District NHS Foundation Trust,Childrens Community Nursing Service,0,0
+RCD,Harrogate and District NHS Foundation Trust,Integrated Multi-Disciplinary Team (jointly commissioned),325,205
+RCD,Harrogate and District NHS Foundation Trust,Tissue Viability Service,125,100
+RDR,Sussex Community NHS Foundation Trust,All Teams,2751,1691
+RDR,Sussex Community NHS Foundation Trust,Childrens Community Nursing Service,10,10
+RDR,Sussex Community NHS Foundation Trust,District Nursing Service,2270,1360
+RDR,Sussex Community NHS Foundation Trust,Long Term Conditions Case Management Service,0,
+RDR,Sussex Community NHS Foundation Trust,Phlebotomy Service,0,
+RDR,Sussex Community NHS Foundation Trust,Tissue Viability Service,465,320
+RFR,The Rotherham NHS Foundation Trust,All Teams,782,621
+RFR,The Rotherham NHS Foundation Trust,Community Paediatrics Service,90,60
+RFR,The Rotherham NHS Foundation Trust,Tissue Viability Service,695,565
+RGR,West Suffolk NHS Foundation Trust,All Teams,1,1
+RGR,West Suffolk NHS Foundation Trust,Childrens Community Nursing Service,0,0
+RH5,Somerset Partnership NHS Foundation Trust,All Teams,1043,717
+RH6,Somerset Partnership NHS Foundation Trust,District Nursing Service,820,490
+RH7,Somerset Partnership NHS Foundation Trust,Nutrition and Dietetics Service,0,0
+RH8,Somerset Partnership NHS Foundation Trust,Tissue Viability Service,160,155
+RH9,Somerset Partnership NHS Foundation Trust,Treatment Room Nursing Service,60,70
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,All Teams,1346,1060
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,District Nursing Service,1035,815
+RHQ,Sheffield Teaching Hospitals NHS Foundation Trust,Tissue Viability Service,310,245
+RJ2,Lewisham and Greenwich NHS Trust,All Teams,45,35
+RJ3,Lewisham and Greenwich NHS Trust,Tissue Viability Service,45,35
+RJ6,Croydon Health Services NHS Trust,All Teams,888,674
+RJ7,Croydon Health Services NHS Trust,Childrens Community Nursing Service,0,0
+RJ8,Croydon Health Services NHS Trust,Continence Service,,0
+RJ9,Croydon Health Services NHS Trust,District Nursing Service,685,510
+RJ10,Croydon Health Services NHS Trust,Health Visiting Service,15,10
+RJ11,Croydon Health Services NHS Trust,Integrated Multi-Disciplinary Team (jointly commissioned),5,5
+RJ12,Croydon Health Services NHS Trust,Intermediate Care Service,,0
+RJ13,Croydon Health Services NHS Trust,Tissue Viability Service,175,140
+RKE,Whittington Health NHS Trust,All Teams,208,203
+RKE,Whittington Health NHS Trust,Childrens Community Nursing Service,,0
+RKE,Whittington Health NHS Trust,Diabetes Service,0,0
+RKE,Whittington Health NHS Trust,District Nursing Service,15,15
+RKE,Whittington Health NHS Trust,Podiatry Service,,0
+RKE,Whittington Health NHS Trust,Rehabilitation Service,0,
+RKE,Whittington Health NHS Trust,Respiratory Service,0,
+RKE,Whittington Health NHS Trust,Tissue Viability Service,190,185
+RL4,The Royal Wolverhampton NHS Trust,All Teams,225,195
+RL5,The Royal Wolverhampton NHS Trust,Tissue Viability Service,225,195
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,All Teams,1224,911
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Diabetes Service,55,65
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,District Nursing Service,1000,730
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Health Visiting Service,0,0
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Integrated Multi-Disciplinary Team (jointly commissioned),,0
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Podiatry Service,0,
+RMP,Tameside and Glossop Integrated Care NHS Foundation Trust,Tissue Viability Service,165,110
+RNA,The Dudley Group NHS Foundation Trust,All Teams,170,153
+RNA,The Dudley Group NHS Foundation Trust,District Nursing Service,145,135
+RNA,The Dudley Group NHS Foundation Trust,Tissue Viability Service,25,15
+RNN,Cumbria Partnership NHS Foundation Trust,All Teams,2,1
+RNN,Cumbria Partnership NHS Foundation Trust,Childrens Community Nursing Service,0,0
+RNU,Oxford Health NHS Foundation Trust,All Teams,1424,923
+RNU,Oxford Health NHS Foundation Trust,Community Paediatrics Service,0,0
+RNU,Oxford Health NHS Foundation Trust,District Nursing Service,1035,625
+RNU,Oxford Health NHS Foundation Trust,End of Life Care Service,,0
+RNU,Oxford Health NHS Foundation Trust,Occupational Therapy Service,5,5
+RNU,Oxford Health NHS Foundation Trust,Podiatry Service,0,0
+RNU,Oxford Health NHS Foundation Trust,Respite Care Service,5,5
+RNU,Oxford Health NHS Foundation Trust,School Nursing Service,0,
+RNU,Oxford Health NHS Foundation Trust,Tissue Viability Service,365,280
+RR1,Heart of England NHS Foundation Trust,All Teams,170,112
+RR2,Heart of England NHS Foundation Trust,Childrens Community Nursing Service,0,0
+RR3,Heart of England NHS Foundation Trust,District Nursing Service,165,105
+RR4,Heart of England NHS Foundation Trust,Tissue Viability Service,0,5
+RR7,Gateshead Health NHS Foundation rust,All Teams,505,280
+RR8,Gateshead Health NHS Foundation rust,Childrens Community Nursing Service,0,
+RR9,Gateshead Health NHS Foundation rust,District Nursing Service,360,220
+RR10,Gateshead Health NHS Foundation rust,Ear Nose and Throat Service,0,
+RR11,Gateshead Health NHS Foundation rust,Intermediate Care Service,125,50
+RR12,Gateshead Health NHS Foundation rust,Long Term Conditions Case Management Service,15,10
+RR13,Gateshead Health NHS Foundation rust,Podiatry Service,0,
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",All Teams,47,42
+RRP,"Barnet, Enfield and Haringey Mental Health NHS Trust",Tissue Viability Service,45,40
+RT1,Cambridgeshire and Peterborough NHS Foundation Trust,All Teams,3119,2023
+RT2,Cambridgeshire and Peterborough NHS Foundation Trust,Childrens Community Nursing Service,,0
+RT3,Cambridgeshire and Peterborough NHS Foundation Trust,District Nursing Service,2305,1410
+RT4,Cambridgeshire and Peterborough NHS Foundation Trust,Intermediate Care Service,10,0
+RT5,Cambridgeshire and Peterborough NHS Foundation Trust,Tissue Viability Service,805,605
+RT2,Pennine Care NHS Foundation Trust,All Teams,131,77
+RT3,Pennine Care NHS Foundation Trust,Tissue Viability Service,130,75
+RT5,Leicestershire Partnership NHS Trust,All Teams,4014,3031
+RT6,Leicestershire Partnership NHS Trust,Continence Service,15,0
+RT7,Leicestershire Partnership NHS Trust,District Nursing Service,2825,2225
+RT8,Leicestershire Partnership NHS Trust,End of Life Care Service,,0
+RT9,Leicestershire Partnership NHS Trust,Intermediate Care Service,590,295
+RT10,Leicestershire Partnership NHS Trust,Long Term Conditions Case Management Service,40,70
+RT11,Leicestershire Partnership NHS Trust,Nutrition and Dietetics Service,0,0
+RT12,Leicestershire Partnership NHS Trust,Occupational Therapy Service,,0
+RT13,Leicestershire Partnership NHS Trust,Phlebotomy Service,5,0
+RT14,Leicestershire Partnership NHS Trust,Physiotherapy Service,0,
+RT15,Leicestershire Partnership NHS Trust,Tissue Viability Service,535,430
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,All Teams,106,91
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,District Nursing Service,10,0
+RTD,The Newcastle Upon Tyne Hospitals NHS Foundation Trust,Tissue Viability Service,95,85
+RTR,South Tees Hospitals NHS Foundation Trust,All Teams,1323,887
+RTR,South Tees Hospitals NHS Foundation Trust,District Nursing Service,1155,745
+RTR,South Tees Hospitals NHS Foundation Trust,Nutrition and Dietetics Service,5,0
+RTR,South Tees Hospitals NHS Foundation Trust,Physiotherapy Service,0,
+RTR,South Tees Hospitals NHS Foundation Trust,School Nursing Service,10,5
+RTR,South Tees Hospitals NHS Foundation Trust,Tissue Viability Service,150,130
+RTV,North West Boroughs Healthcare NHS Foundation Trust,All Teams,1443,1211
+RTV,North West Boroughs Healthcare NHS Foundation Trust,District Nursing Service,743,527
+RTV,North West Boroughs Healthcare NHS Foundation Trust,End of Life Care Service,0,
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Phlebotomy Service,,0
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Tissue Viability Service,30,25
+RTV,North West Boroughs Healthcare NHS Foundation Trust,Treatment Room Nursing Service,668,662
+RV3,Central and North West London NHS Foundation Trust,All Teams,140,108
+RV4,Central and North West London NHS Foundation Trust,Childrens Community Nursing Service,0,0
+RV5,Central and North West London NHS Foundation Trust,Community Paediatrics Service,0,0
+RV6,Central and North West London NHS Foundation Trust,Tissue Viability Service,135,105
+RV9,Humber NHS Foundation Trust,All Teams,15,12
+RV10,Humber NHS Foundation Trust,District Nursing Service,15,10
+RVW,North Tees and Hartlepool NHS Foundation Trust,All Teams,1332,797
+RVW,North Tees and Hartlepool NHS Foundation Trust,District Nursing Service,1330,795
+RVY,Southport and Ormskirk Hospital NHS Trust,All Teams,8,2
+RVY,Southport and Ormskirk Hospital NHS Trust,Childrens Community Nursing Service,10,0
+RW1,Southern Health NHS Foundation Trust,All Teams,757,507
+RW2,Southern Health NHS Foundation Trust,Tissue Viability Service,755,505
+RW5,Lancashire Care NHS Foundation Trust,All Teams,934,770
+RW6,Lancashire Care NHS Foundation Trust,District Nursing Service,310,200
+RW7,Lancashire Care NHS Foundation Trust,Intermediate Care Service,0,0
+RW8,Lancashire Care NHS Foundation Trust,Phlebotomy Service,,0
+RW9,Lancashire Care NHS Foundation Trust,Tissue Viability Service,10,10
+RW10,Lancashire Care NHS Foundation Trust,Treatment Room Nursing Service,615,560
+RWJ,Stockport NHS Foundation Trust,All Teams,1759,1612
+RWJ,Stockport NHS Foundation Trust,District Nursing Service,1470,1375
+RWJ,Stockport NHS Foundation Trust,End of Life Care Service,,0
+RWJ,Stockport NHS Foundation Trust,Intermediate Care Service,,0
+RWJ,Stockport NHS Foundation Trust,Podiatry Service,20,25
+RWJ,Stockport NHS Foundation Trust,Tissue Viability Service,265,210
+RWX,Berkshire Healthcare NHS Foundation Trust,All Teams,984,609
+RWX,Berkshire Healthcare NHS Foundation Trust,District Nursing Service,985,610
+RWY,Calderdale and Huddersfield NHS Foundation Trust,All Teams,138,150
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Community Paediatrics Service,10,30
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Podiatry Service,60,75
+RWY,Calderdale and Huddersfield NHS Foundation Trust,Tissue Viability Service,65,45
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,All Teams,948,690
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,District Nursing Service,945,690
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Health Visiting Service,0,
+RXA,Cheshire and Wirral Partnership NHS Foundation Trust,Rehabilitation Service,,0
+RXC,East Sussex Healthcare NHS Trust,All Teams,1572,991
+RXC,East Sussex Healthcare NHS Trust,District Nursing Service,1570,985
+RXC,East Sussex Healthcare NHS Trust,Intermediate Care Service,,0
+RXC,East Sussex Healthcare NHS Trust,Phlebotomy Service,,0
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,All Teams,947,556
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,District Nursing Service,730,430
+RXE,Rotherham Doncaster and South Humber NHS Foundation Trust,Tissue Viability Service,215,130
+RXF,Mid Yorkshire Hospitals NHS Trust,All Teams,98,54
+RXF,Mid Yorkshire Hospitals NHS Trust,Tissue Viability Service,100,55
+RXG,South West Yorkshire Partnership Foundation Trust,All Teams,1521,1271
+RXG,South West Yorkshire Partnership Foundation Trust,District Nursing Service,1360,1115
+RXG,South West Yorkshire Partnership Foundation Trust,Intermediate Care Service,10,10
+RXG,South West Yorkshire Partnership Foundation Trust,Podiatry Service,0,5
+RXG,South West Yorkshire Partnership Foundation Trust,Tissue Viability Service,145,140
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,All Teams,981,634
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,District Nursing Service,970,630
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Long Term Conditions Case Management Service,0,0
+RXL,Blackpool Teaching Hospitals NHS Foundation Trust,Rehabilitation Service,10,
+RY1,Liverpool Community Health NHS Trust,All Teams,3218,2985
+RY2,Liverpool Community Health NHS Trust,Dermatology Service,160,195
+RY3,Liverpool Community Health NHS Trust,District Nursing Service,1290,935
+RY4,Liverpool Community Health NHS Trust,End of Life Care Service,0,0
+RY5,Liverpool Community Health NHS Trust,Long Term Conditions Case Management Service,5,0
+RY6,Liverpool Community Health NHS Trust,Orthoptist Service,0,0
+RY7,Liverpool Community Health NHS Trust,Phlebotomy Service,,0
+RY8,Liverpool Community Health NHS Trust,Tissue Viability Service,,0
+RY9,Liverpool Community Health NHS Trust,Treatment Room Nursing Service,1760,1845
+RY2,Bridgewater Community Healthcare NHS Foundation Trust,All Teams,753,523
+RY3,Bridgewater Community Healthcare NHS Foundation Trust,District Nursing Service,755,525
+RY3,Norfolk Community Health and Care NHS Trust,All Teams,17,11
+RY4,Norfolk Community Health and Care NHS Trust,Tissue Viability Service,15,10
+RY4,Hertfordshire Community NHS Trust,All Teams,2949,1692
+RY5,Hertfordshire Community NHS Trust,District Nursing Service,1425,855
+RY6,Hertfordshire Community NHS Trust,Intermediate Care Service,1440,775
+RY7,Hertfordshire Community NHS Trust,Not recorded,80,60
+RY8,Hertfordshire Community NHS Trust,Occupational Therapy Service,0,
+RY9,Hertfordshire Community NHS Trust,Physiotherapy Service,0,
+RY5,Lincolnshire Community Health Services NHS Trust,All Teams,941,663
+RY6,Lincolnshire Community Health Services NHS Trust,Cancer Service,0,
+RY7,Lincolnshire Community Health Services NHS Trust,District Nursing Service,835,580
+RY8,Lincolnshire Community Health Services NHS Trust,Intermediate Care Service,,0
+RY9,Lincolnshire Community Health Services NHS Trust,Tissue Viability Service,105,80
+RY6,Leeds Community Healthcare NHS Trust,All Teams,14,15
+RY7,Leeds Community Healthcare NHS Trust,Childrens Community Nursing Service,15,15
+RY8,Derbyshire Community Health Services NHS Foundation Trust,All Teams,222,134
+RY9,Derbyshire Community Health Services NHS Foundation Trust,District Nursing Service,25,20
+RY10,Derbyshire Community Health Services NHS Foundation Trust,Intermediate Care Service,0,0
+RY11,Derbyshire Community Health Services NHS Foundation Trust,Occupational Therapy Service,0,0
+RY12,Derbyshire Community Health Services NHS Foundation Trust,Physiotherapy Service,10,0
+RY13,Derbyshire Community Health Services NHS Foundation Trust,Podiatry Service,5,0
+RY14,Derbyshire Community Health Services NHS Foundation Trust,Rehabilitation Service,0,
+RY15,Derbyshire Community Health Services NHS Foundation Trust,Tissue Viability Service,180,100
+RY9,Hounslow and Richmond Community Healthcare NHS Trust,All Teams,118,115
+RY10,Hounslow and Richmond Community Healthcare NHS Trust,Childrens Community Nursing Service,0,0
+RY11,Hounslow and Richmond Community Healthcare NHS Trust,Tissue Viability Service,115,115
+RYG,Coventry and Warwickshire Partnership NHS Trust,All Teams,287,215
+RYG,Coventry and Warwickshire Partnership NHS Trust,Childrens Community Nursing Service,0,
+RYG,Coventry and Warwickshire Partnership NHS Trust,District Nursing Service,150,110
+RYG,Coventry and Warwickshire Partnership NHS Trust,Podiatry Service,0,0
+RYG,Coventry and Warwickshire Partnership NHS Trust,Tissue Viability Service,130,105
+RYV,Cambridgeshire Community Services NHS Trust,All Teams,77,65
+RYV,Cambridgeshire Community Services NHS Trust,Tissue Viability Service,75,65
+RYX,Central London Community Healthcare NHS Trust,All Teams,538,359
+RYX,Central London Community Healthcare NHS Trust,District Nursing Service,375,205
+RYX,Central London Community Healthcare NHS Trust,Intermediate Care Service,,0
+RYX,Central London Community Healthcare NHS Trust,Tissue Viability Service,165,150

@@ -1,0 +1,109 @@
+-- clear staging tables
+
+TRUNCATE TABLE staging_daily_log;
+
+TRUNCATE TABLE staging_benchmarks;
+
+-- check new data loaded correctly. Any cleaning needed?
+
+SELECT *
+FROM staging_daily_log;
+
+SELECT *
+FROM staging_benchmarks;
+
+-- confirm correct number of rows loaded
+
+SELECT COUNT(*)
+FROM staging_daily_log;
+
+SELECT COUNT(*)
+FROM staging_benchmarks;
+
+-- Check for missing values in staging tables
+
+SELECT *
+FROM staging_daily_log
+WHERE topic IS NULL;
+
+SELECT *
+FROM staging_benchmarks
+WHERE learning_objectives IS NULL;
+
+-- Check for duplicates in staging tables
+
+SELECT
+    topic_name,
+    learning_objective,
+    COUNT(*)
+FROM staging_benchmarks
+GROUP BY topic_name, learning_objective
+HAVING COUNT(*) > 1;
+
+--Check for typos (DISTINCT VALUES)
+
+SELECT DISTINCT status
+FROM staging_benchmarks
+ORDER BY status;
+
+SELECT DISTINCT topic_name
+FROM staging_benchmarks
+ORDER BY topic_name;
+
+SELECT DISTINCT topic
+FROM staging_daily_log
+ORDER BY topic;
+
+--Check Date Range (loading expected date periods for daily log)
+
+SELECT
+    MIN(log_date),
+    MAX(log_date)
+FROM staging_daily_log;
+
+--move the benchmarks staging layer into the fact and dimension tables. This will allow us to create the current state dashboard and progress analytics tables based
+-- on the latest data from the staging layer.
+
+INSERT INTO dim_benchmarks (
+    topic_id,
+    stage_id,
+    learning_objective,
+    activities,
+    status,
+    comments
+)
+
+SELECT
+    t.topic_id,
+    s.stage_id,
+    sb.learning_objective,
+    sb.activities,
+    sb.status,
+    sb.comments
+
+FROM staging_benchmarks sb
+
+JOIN dim_key_topics t
+    ON sb.topic_name = t.topic_name
+
+JOIN dim_benner_stages s
+    ON sb.stage_name = s.stage_name;
+
+-- move staging daily logs into fact table for analysis and dashboard creation. This will allow us to create the current state dashboard and progress analytics tables based on the latest data from the staging layer.
+
+INSERT INTO fact_daily_log (
+    log_id,
+    log_date,
+    topic,
+    hours_spent,
+    confidence_level,
+    notes
+)
+SELECT
+    log_id,
+    log_date,
+    topic,
+    hours_spent,
+    confidence_level,
+    notes
+FROM staging_daily_log;

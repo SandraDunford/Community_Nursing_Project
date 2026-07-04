@@ -1,0 +1,7 @@
+﻿pref_pod,pod_hospital,pod_private,pod_hospice,pod_care_home,pod_other,pod_not_recorded
+Hospital,29,2,1,0,0,35
+Private Residence,45,423,58,20,41,490
+Hospice,17,28,97,4,4,102
+Care Home,10,6,1,59,1,75
+Other,2,6,5,3,0,6
+Not Known,295,411,178,170,309,2891

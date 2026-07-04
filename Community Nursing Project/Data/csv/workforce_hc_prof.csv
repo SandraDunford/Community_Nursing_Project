@@ -1,0 +1,425 @@
+﻿region,trust,total,qual_clin,doctors,nurses,midwives,ambulance_staff,science_tech_staff,clin_support,support_staff,infrastructure,manager
+Health Education East Midlands,Chesterfield Royal Hospital NHS Foundation Trust,4114,1948,801,902,112,0,811,1297,1024,1567,122
+Health Education East Midlands,Derby Teaching Hospitals NHS Foundation Trust,8506,4613,1887,2320,264,9,1674,2889,2301,1661,247
+Health Education East Midlands,Derbyshire Community Health Services NHS Foundation Trust,4350,2115,98,1348,0,2,985,1577,1320,1263,72
+Health Education East Midlands,Derbyshire Healthcare NHS Foundation Trust,2473,1397,274,907,0,0,426,487,416,1089,82
+Health Education East Midlands,East Midlands Ambulance Service NHS Trust,3277,2045,16,21,0,2950,0,949,15,415,142
+Health Education East Midlands,Kettering General Hospital NHS Foundation Trust,3927,1917,868,1006,125,6,623,1308,1033,1289,117
+Health Education East Midlands,Leicestershire Partnership NHS Trust,5189,2775,432,1765,0,0,1007,1763,1551,977,287
+Health Education East Midlands,Lincolnshire Community Health Services NHS Trust,1894,962,24,712,8,14,364,783,635,263,37
+Health Education East Midlands,Lincolnshire Partnership NHS Foundation Trust,1916,846,154,524,0,0,386,737,600,508,152
+Health Education East Midlands,NHS Corby CCG,10,0,0,0,0,0,0,0,0,14,6
+Health Education East Midlands,NHS East Leicestershire and Rutland CCG,90,13,0,6,0,0,7,0,0,115,39
+Health Education East Midlands,NHS Erewash CCG,34,4,0,4,0,0,0,0,0,46,14
+Health Education East Midlands,NHS Hardwick CCG,41,3,0,2,0,1,0,0,0,52,24
+Health Education East Midlands,NHS Leicester City CCG,90,21,0,9,0,0,12,0,0,101,37
+Health Education East Midlands,NHS Lincolnshire East CCG,55,3,0,3,0,0,0,0,0,74,30
+Health Education East Midlands,NHS Lincolnshire West CCG,63,5,0,5,0,0,0,0,0,82,34
+Health Education East Midlands,NHS Mansfield and Ashfield CCG,94,19,0,6,0,0,13,0,0,111,40
+Health Education East Midlands,NHS Nene CCG,125,41,0,18,0,0,23,0,0,121,47
+Health Education East Midlands,NHS Newark and Sherwood CCG,40,17,0,12,0,0,5,1,1,35,9
+Health Education East Midlands,NHS North Derbyshire CCG,121,32,0,9,0,0,23,0,0,147,31
+Health Education East Midlands,NHS Nottingham City CCG,135,31,18,9,0,0,13,0,0,152,56
+Health Education East Midlands,NHS Nottingham North and East CCG,54,10,2,3,0,0,6,2,2,61,23
+Health Education East Midlands,NHS Nottingham West CCG,25,6,0,0,0,0,6,0,0,26,12
+Health Education East Midlands,NHS Rushcliffe CCG,66,15,0,1,0,0,14,0,0,81,21
+Health Education East Midlands,NHS South Lincolnshire CCG,15,4,0,4,0,0,0,0,0,15,7
+Health Education East Midlands,NHS South West Lincolnshire CCG,61,10,4,8,0,0,0,1,1,92,8
+Health Education East Midlands,NHS Southern Derbyshire CCG,163,54,0,10,0,0,46,2,0,156,59
+Health Education East Midlands,NHS West Leicestershire CCG,83,15,2,6,0,0,8,1,1,95,39
+Health Education East Midlands,Northampton General Hospital NHS Trust,4868,2531,1059,1278,198,9,811,1491,1197,1521,169
+Health Education East Midlands,Northamptonshire Healthcare NHS Foundation Trust,3605,1959,244,1240,0,0,753,1145,991,872,108
+Health Education East Midlands,Nottingham University Hospitals NHS Trust,14495,7928,3412,3972,436,0,2360,3923,3382,4489,664
+Health Education East Midlands,Nottinghamshire Healthcare NHS Foundation Trust,8667,4125,522,2592,0,0,1632,3022,2669,2673,322
+Health Education East Midlands,Sherwood Forest Hospitals NHS Foundation Trust,4763,2266,914,1159,132,0,825,1755,1449,1337,146
+Health Education East Midlands,United Lincolnshire Hospitals NHS Trust,7589,3797,1649,1934,234,4,1258,2737,2288,2034,114
+Health Education East Midlands,University Hospitals of Leicester NHS Trust,14628,7433,3699,3511,419,8,2349,4337,3636,5443,205
+Health Education East of England,Basildon and Thurrock University Hospitals NHS Foundation Trust,4752,2351,1146,1233,180,0,661,1526,1233,1660,81
+Health Education East of England,Bedford Hospital NHS Trust,2793,1505,668,755,107,0,503,902,709,725,49
+Health Education East of England,Cambridge University Hospitals NHS Foundation Trust,9677,5663,2681,2738,203,0,2065,2648,1971,2301,347
+Health Education East of England,Cambridgeshire and Peterborough NHS Foundation Trust,3884,2069,336,1180,0,7,1074,1387,1032,678,174
+Health Education East of England,Cambridgeshire Community Services NHS Trust,2050,1215,211,872,0,0,363,703,579,233,33
+Health Education East of England,Colchester Hospital University NHS Foundation Trust,4555,2322,940,1114,156,1,987,1501,1099,1336,129
+Health Education East of England,East and North Hertfordshire NHS Trust,5663,3102,1484,1569,202,0,898,1193,886,2594,111
+Health Education East of England,East of England Ambulance Service NHS Trust,4752,2276,0,19,0,4177,2,1922,0,1010,97
+Health Education East of England,Essex Partnership University NHS Foundation Trust,5814,2870,455,1861,0,1,1148,1849,1482,1977,218
+Health Education East of England,Hertfordshire Community NHS Trust,2680,1639,70,951,0,10,788,687,542,649,65
+Health Education East of England,Hertfordshire Partnership University NHS Foundation Trust,3105,1544,413,708,0,0,693,1009,948,779,236
+Health Education East of England,Ipswich Hospital NHS Trust,4662,2617,992,1355,143,2,970,1562,1218,878,78
+Health Education East of England,James Paget University Hospitals NHS Foundation Trust,3133,1545,612,847,92,1,455,908,757,1319,53
+Health Education East of England,Luton and Dunstable University Hospital NHS Foundation Trust,4082,2427,1218,1144,230,0,633,1180,992,817,117
+Health Education East of England,Mid Essex Hospital Services NHS Trust,4540,2377,1152,1185,154,1,656,1346,1152,1528,102
+Health Education East of England,NHS Basildon and Brentwood CCG,76,16,0,16,0,0,0,0,0,103,17
+Health Education East of England,NHS Bedfordshire CCG,202,48,30,18,0,0,15,6,6,214,84
+Health Education East of England,NHS Cambridgeshire and Peterborough CCG,333,72,14,42,0,0,23,0,0,399,127
+Health Education East of England,NHS Castle Point and Rochford CCG,63,8,0,8,0,0,0,0,0,89,20
+Health Education East of England,NHS East and North Hertfordshire CCG,340,103,120,21,0,0,22,1,1,408,64
+Health Education East of England,NHS Great Yarmouth and Waveney CCG,92,19,2,14,0,0,4,0,0,113,33
+Health Education East of England,NHS Herts Valleys CCG,206,63,54,22,0,0,14,1,1,215,69
+Health Education East of England,NHS Luton CCG,93,20,8,7,0,0,9,2,2,106,38
+Health Education East of England,NHS Mid Essex CCG,129,36,10,24,0,0,7,0,0,161,25
+Health Education East of England,NHS North East Essex CCG,133,35,0,22,0,0,13,0,0,170,26
+Health Education East of England,NHS North Norfolk CCG,39,3,0,3,0,0,0,0,0,53,19
+Health Education East of England,NHS Norwich CCG,122,25,0,25,0,0,0,0,0,159,34
+Health Education East of England,NHS South Norfolk CCG,55,2,0,2,0,0,0,0,0,88,18
+Health Education East of England,NHS Southend CCG,66,20,0,13,0,0,7,0,0,75,17
+Health Education East of England,NHS Thurrock CCG,53,15,0,8,0,0,7,0,0,59,17
+Health Education East of England,NHS West Essex CCG,133,34,12,14,0,0,14,0,0,172,28
+Health Education East of England,NHS West Norfolk CCG,41,2,0,1,0,0,1,1,1,59,17
+Health Education East of England,NHS West Suffolk CCG,268,49,0,35,0,0,15,2,1,296,140
+Health Education East of England,Norfolk and Norwich University Hospitals NHS Foundation Trust,7709,4438,2049,2097,250,3,1689,2434,1819,1445,184
+Health Education East of England,Norfolk and Suffolk NHS Foundation Trust,3911,1925,366,1154,0,0,727,1245,1106,1312,159
+Health Education East of England,Norfolk Community Health and Care NHS Trust,2204,1064,81,682,0,0,552,883,673,416,77
+Health Education East of England,North West Anglia NHS Foundation Trust,5949,3310,1402,1633,257,3,1083,1919,1556,1282,163
+Health Education East of England,Papworth Hospital NHS Foundation Trust,1775,1006,398,580,0,0,335,486,378,497,74
+Health Education East of England,Princess Alexandra Hospital NHS Trust,3293,1686,939,708,180,1,468,975,838,1154,109
+Health Education East of England,Queen Elizabeth Hospital King's Lynn NHS Foundation Trust,3209,1548,692,805,107,3,460,1041,871,1170,74
+Health Education East of England,Southend University Hospital NHS Foundation Trust,4399,2330,1112,1078,160,0,803,1501,1238,956,176
+Health Education East of England,West Hertfordshire Hospitals NHS Trust,4687,2516,1267,1189,163,0,808,1524,1248,961,245
+Health Education East of England,West Suffolk NHS Foundation Trust,3740,1973,766,950,106,0,712,1099,924,1258,87
+Health Education Yorkshire and the Humber,Airedale NHS Foundation Trust,2849,1422,528,656,95,3,654,970,726,857,68
+Health Education Yorkshire and the Humber,Barnsley Hospital NHS Foundation Trust,3203,1732,672,842,141,0,647,1067,833,621,138
+Health Education Yorkshire and the Humber,Bradford District Care NHS Foundation Trust,2894,1642,182,1143,0,0,470,786,726,840,95
+Health Education Yorkshire and the Humber,Bradford Teaching Hospitals NHS Foundation Trust,5792,2984,1377,1424,227,0,919,1635,1365,2266,82
+Health Education Yorkshire and the Humber,Calderdale and Huddersfield NHS Foundation Trust,5893,3085,1086,1595,206,0,1178,1742,1307,1793,259
+Health Education Yorkshire and the Humber,Doncaster and Bassetlaw Teaching Hospitals NHS Foundation Trust,6394,3074,1148,1600,209,0,1224,2182,1651,2094,175
+Health Education Yorkshire and the Humber,Harrogate and District NHS Foundation Trust,4009,2284,792,1274,87,3,703,1202,1028,985,78
+Health Education Yorkshire and the Humber,Hull and East Yorkshire Hospitals NHS Trust,8106,4340,1942,2193,188,0,1534,2003,1460,3211,277
+Health Education Yorkshire and the Humber,Humber NHS Foundation Trust,2438,1149,148,722,0,0,504,835,684,850,58
+Health Education Yorkshire and the Humber,Leeds and York Partnership NHS Foundation Trust,2452,1207,318,713,3,0,369,694,657,1027,74
+Health Education Yorkshire and the Humber,Leeds Community Healthcare NHS Trust,2808,1580,117,994,0,13,614,919,821,594,35
+Health Education Yorkshire and the Humber,Leeds Teaching Hospitals NHS Trust,16918,8883,4157,3792,418,2,3615,4897,3882,6030,192
+Health Education Yorkshire and the Humber,Mid Yorkshire Hospitals NHS Trust,8143,3886,1556,1853,255,0,1591,2921,2331,2511,149
+Health Education Yorkshire and the Humber,"NHS Airedale, Wharfedale and Craven CCG",30,1,0,1,0,0,0,0,0,40,18
+Health Education Yorkshire and the Humber,NHS Barnsley CCG,118,47,4,16,0,0,29,0,0,106,36
+Health Education Yorkshire and the Humber,NHS Bassetlaw CCG,41,10,2,7,0,0,2,0,0,44,17
+Health Education Yorkshire and the Humber,NHS Bradford Districts CCG,176,26,10,18,0,0,3,8,8,226,60
+Health Education Yorkshire and the Humber,NHS Calderdale CCG,95,20,2,16,0,0,3,0,0,120,30
+Health Education Yorkshire and the Humber,NHS Doncaster CCG,168,55,4,43,0,0,10,0,0,166,59
+Health Education Yorkshire and the Humber,NHS East Riding of Yorkshire CCG,102,30,6,25,0,0,2,1,1,108,33
+Health Education Yorkshire and the Humber,NHS Greater Huddersfield CCG,96,17,6,5,0,0,9,2,2,118,35
+Health Education Yorkshire and the Humber,"NHS Hambleton, Richmondshire and Whitby CCG",38,7,8,3,0,0,0,0,0,45,17
+Health Education Yorkshire and the Humber,NHS Harrogate and Rural District CCG,51,18,2,2,0,0,15,0,0,42,24
+Health Education Yorkshire and the Humber,NHS Hull CCG,76,7,8,3,0,0,0,0,0,98,40
+Health Education Yorkshire and the Humber,NHS Leeds South and East CCG,288,81,12,41,0,0,34,0,0,305,109
+Health Education Yorkshire and the Humber,NHS North East Lincolnshire CCG,92,9,0,9,0,0,2,2,0,129,33
+Health Education Yorkshire and the Humber,NHS North Kirklees CCG,83,27,2,20,0,0,6,1,1,88,22
+Health Education Yorkshire and the Humber,NHS North Lincolnshire CCG,59,17,2,16,0,0,0,0,0,70,14
+Health Education Yorkshire and the Humber,NHS Rotherham CCG,106,34,2,23,0,0,10,0,0,102,40
+Health Education Yorkshire and the Humber,NHS Scarborough and Ryedale CCG,79,13,2,12,0,0,0,1,1,99,31
+Health Education Yorkshire and the Humber,NHS Sheffield CCG,308,123,42,64,0,0,38,0,0,256,117
+Health Education Yorkshire and the Humber,NHS Vale of York CCG,114,22,0,19,0,0,3,0,0,159,25
+Health Education Yorkshire and the Humber,NHS Wakefield CCG,166,31,0,21,0,0,10,0,0,177,93
+Health Education Yorkshire and the Humber,Northern Lincolnshire and Goole NHS Foundation Trust,6013,2868,976,1495,188,10,1084,2043,1654,2041,159
+Health Education Yorkshire and the Humber,Rotherham Doncaster and South Humber NHS Foundation Trust,3512,1599,140,1230,0,0,393,1358,1266,1064,47
+Health Education Yorkshire and the Humber,Rotherham NHS Foundation Trust,4409,2304,696,1190,115,2,1045,1493,1103,1155,72
+Health Education Yorkshire and the Humber,Sheffield Children's NHS Foundation Trust,3168,1803,693,916,0,0,750,1043,836,565,75
+Health Education Yorkshire and the Humber,Sheffield Health and Social Care NHS Foundation Trust,2349,994,292,521,0,9,589,1031,762,555,100
+Health Education Yorkshire and the Humber,Sheffield Teaching Hospitals NHS Foundation Trust,16280,8196,3161,4044,284,1,3182,5130,4241,5511,329
+Health Education Yorkshire and the Humber,South West Yorkshire Partnership NHS Foundation Trust,4238,2160,318,1286,0,0,886,1418,1249,1260,68
+Health Education Yorkshire and the Humber,York Teaching Hospital NHS Foundation Trust,8615,4132,1534,2028,201,0,1783,2809,2168,3237,151
+Health Education Yorkshire and the Humber,Yorkshire Ambulance Service NHS Trust,4768,2101,8,92,0,4007,6,2009,1,1170,154
+Health Education Wessex,Dorset County Hospital NHS Foundation Trust,2689,1400,668,655,88,1,444,889,769,695,96
+Health Education Wessex,Dorset Healthcare University NHS Foundation Trust,5575,2658,294,1675,2,3,1118,2073,1795,1567,139
+Health Education Wessex,Hampshire Hospitals NHS Foundation Trust,6109,3162,1523,1506,229,3,1091,1965,1540,1867,92
+Health Education Wessex,Isle of Wight NHS Trust,3078,1524,457,803,54,202,562,1034,712,942,101
+Health Education Wessex,NHS Dorset CCG,342,52,0,41,0,0,11,43,43,424,73
+Health Education Wessex,NHS Fareham and Gosport CCG,7,6,12,0,0,0,0,0,0,1,1
+Health Education Wessex,NHS Isle of Wight CCG,93,27,18,12,0,0,6,1,1,106,24
+Health Education Wessex,NHS North East Hampshire and Farnham CCG,96,27,34,5,0,0,5,3,3,111,20
+Health Education Wessex,NHS North Hampshire CCG,58,13,14,2,0,0,4,0,0,80,10
+Health Education Wessex,NHS Portsmouth CCG,96,24,24,5,0,0,7,4,4,114,21
+Health Education Wessex,NHS South Eastern Hampshire CCG,87,28,16,8,0,0,12,0,0,109,9
+Health Education Wessex,NHS Southampton CCG,115,38,30,13,0,0,10,4,4,133,12
+Health Education Wessex,NHS West Hampshire CCG,278,103,40,52,0,0,31,3,3,327,22
+Health Education Wessex,Poole Hospital NHS Foundation Trust,3925,2182,958,951,170,0,862,1356,1077,650,103
+Health Education Wessex,Portsmouth Hospitals NHS Trust,7119,4128,1875,2052,178,0,1788,2499,1675,732,216
+Health Education Wessex,Royal Bournemouth and Christchurch Hospitals NHS Foundation Trust,4555,2338,982,1250,45,0,865,1444,1132,1461,86
+Health Education Wessex,Salisbury NHS Foundation Trust,3306,1705,764,758,101,0,671,1018,816,1091,97
+Health Education Wessex,Solent NHS Trust,3366,1705,314,878,0,0,872,1095,896,1015,108
+Health Education Wessex,Southern Health NHS Foundation Trust,5740,2798,496,1823,0,4,971,2256,2010,1254,132
+Health Education Wessex,University Hospital Southampton NHS Foundation Trust,10556,6157,2936,3139,251,2,1696,3243,2849,1954,376
+Health Education Thames Valley,Berkshire Healthcare NHS Foundation Trust,4171,2241,394,1139,0,29,1141,1350,1090,908,245
+Health Education Thames Valley,Buckinghamshire Healthcare NHS Trust,5958,3373,1358,1684,192,0,1171,2023,1674,990,146
+Health Education Thames Valley,Milton Keynes University Hospital NHS Foundation Trust,3399,1749,850,841,124,0,599,1039,802,1101,111
+Health Education Thames Valley,NHS Bracknell and Ascot CCG,1,1,2,0,0,0,0,0,0,0,0
+Health Education Thames Valley,NHS Chiltern CCG,100,26,24,5,0,0,10,4,3,110,30
+Health Education Thames Valley,NHS Milton Keynes CCG,91,24,0,15,0,0,9,1,1,84,49
+Health Education Thames Valley,NHS Newbury and District CCG,3,0,0,0,0,0,0,0,0,4,2
+Health Education Thames Valley,NHS North and West Reading CCG,4,0,0,0,0,0,0,0,0,5,3
+Health Education Thames Valley,NHS Oxfordshire CCG,117,36,42,4,0,0,11,4,4,114,40
+Health Education Thames Valley,NHS Slough CCG,5,2,4,0,0,0,0,0,0,3,3
+Health Education Thames Valley,NHS South Reading CCG,5,1,0,1,0,0,0,0,0,6,2
+Health Education Thames Valley,"NHS Windsor, Ascot and Maidenhead CCG",107,23,6,12,0,0,8,9,9,97,53
+Health Education Thames Valley,NHS Wokingham CCG,88,25,2,15,0,0,9,0,0,86,40
+Health Education Thames Valley,Oxford Health NHS Foundation Trust,5206,2745,517,1421,0,29,1400,1774,1414,1187,180
+Health Education Thames Valley,Oxford University Hospitals NHS Foundation Trust,11752,7021,3501,3282,330,3,2320,3625,2964,1959,257
+Health Education Thames Valley,Royal Berkshire NHS Foundation Trust,5232,2901,1416,1433,173,4,847,1500,1239,1518,143
+Health Education Thames Valley,South Central Ambulance Service NHS Foundation Trust,3529,1302,8,85,0,3157,1,1960,15,446,90
+Health Education North West London,Central and North West London NHS Foundation Trust,6659,3986,988,2101,0,13,1694,1986,1671,1126,261
+Health Education North West London,Central London Community Healthcare NHS Trust,3448,2196,102,1547,0,0,695,1072,975,255,83
+Health Education North West London,Chelsea and Westminster Hospital NHS Foundation Trust,5851,3841,2304,1706,396,0,750,1443,1281,859,249
+Health Education North West London,Hillingdon Hospitals NHS Foundation Trust,3186,1664,886,786,158,3,457,829,649,1302,86
+Health Education North West London,Hounslow and Richmond Community Healthcare NHS Trust,1095,608,28,292,0,5,375,369,292,184,48
+Health Education North West London,Imperial College Healthcare NHS Trust,10603,6881,3619,3206,361,0,2034,2401,1872,2178,456
+Health Education North West London,London Ambulance Service NHS Trust,5203,3220,0,26,0,4411,0,1218,1,1180,358
+Health Education North West London,London North West Healthcare NHS Trust,8240,5187,2462,2569,171,9,1567,2362,2007,1180,204
+Health Education North West London,NHS Brent CCG,342,38,18,19,0,0,10,0,0,457,154
+Health Education North West London,NHS Central London (Westminster) CCG,260,60,32,21,0,0,23,0,0,269,137
+Health Education North West London,NHS Ealing CCG,111,22,9,8,0,0,10,0,0,113,65
+Health Education North West London,NHS Hammersmith and Fulham CCG,49,1,2,0,0,0,0,0,0,66,32
+Health Education North West London,NHS Harrow CCG,44,10,12,2,0,0,2,0,0,47,21
+Health Education North West London,NHS Hillingdon CCG,81,20,12,7,0,0,7,0,0,88,35
+Health Education North West London,NHS Hounslow CCG,54,12,16,4,0,0,0,0,0,63,23
+Health Education North West London,NHS West London CCG,53,11,18,1,0,0,1,0,0,55,29
+Health Education North West London,Royal Brompton and Harefield NHS Foundation Trust,3604,2366,964,1329,0,1,697,696,554,997,89
+Health Education North West London,Royal Marsden NHS Foundation Trust,4047,2273,806,1103,0,0,964,1037,842,1310,157
+Health Education North West London,West London Mental Health NHS Trust,3259,1643,432,869,0,0,633,988,914,1139,111
+Health Education South London,Croydon Health Services NHS Trust,3630,2064,982,1016,129,5,612,1068,880,932,64
+Health Education South London,Epsom and St Helier University Hospitals NHS Trust,4869,2767,1444,1325,221,0,757,1548,1293,946,168
+Health Education South London,Guy's and St Thomas' NHS Foundation Trust,15249,9094,4275,4355,301,0,2678,2782,2411,6295,459
+Health Education South London,King's College Hospital NHS Foundation Trust,11884,7775,4232,3763,442,3,1859,3180,2773,1630,212
+Health Education South London,Kingston Hospital NHS Foundation Trust,3125,1834,986,804,198,5,496,937,779,607,90
+Health Education South London,Lewisham and Greenwich NHS Trust,6026,3697,1718,1775,323,3,1135,1816,1419,910,124
+Health Education South London,NHS Bexley CCG,64,13,2,6,0,0,6,0,0,76,26
+Health Education South London,NHS Bromley CCG,105,27,0,17,0,0,10,0,0,129,26
+Health Education South London,NHS Croydon CCG,77,22,2,3,0,0,18,0,0,90,20
+Health Education South London,NHS Greenwich CCG,68,21,6,9,0,0,10,1,0,75,19
+Health Education South London,NHS Kingston CCG,46,10,6,2,0,0,5,0,0,61,11
+Health Education South London,NHS Lambeth CCG,71,12,2,3,0,0,8,0,0,98,20
+Health Education South London,NHS Lewisham CCG,79,20,0,15,0,0,5,0,0,89,28
+Health Education South London,NHS Merton CCG,49,17,8,4,0,0,9,0,0,59,5
+Health Education South London,NHS Richmond CCG,55,13,8,4,0,0,5,0,0,75,9
+Health Education South London,NHS Southwark CCG,108,17,4,3,0,0,12,0,0,127,54
+Health Education South London,NHS Sutton CCG,66,24,8,8,0,0,12,0,0,69,15
+Health Education South London,NHS Wandsworth CCG,114,14,2,3,3,0,7,1,1,180,20
+Health Education South London,Oxleas NHS Foundation Trust,3514,1956,352,1090,0,0,877,1196,1010,630,87
+Health Education South London,South London and Maudsley NHS Foundation Trust,4697,2769,942,1303,0,0,1235,1256,1017,1126,219
+Health Education South London,South West London and St George's Mental Health NHS Trust,2137,1208,433,621,0,0,469,683,586,413,81
+Health Education South London,St George's University Hospitals NHS Foundation Trust,8568,5393,2604,2474,216,0,2065,2288,1627,1591,150
+Health Education North Central and East London,"Barking, Havering and Redbridge University Hospitals NHS Trust",6393,3750,1714,1784,319,3,1270,2107,1625,945,124
+Health Education North Central and East London,"Barnet, Enfield and Haringey Mental Health NHS Trust",3054,1736,413,945,0,0,758,1028,856,492,83
+Health Education North Central and East London,Barts Health NHS Trust,15387,9451,4884,4429,613,254,2613,3799,2904,3847,347
+Health Education North Central and East London,Camden and Islington NHS Foundation Trust,1968,813,269,429,0,0,836,944,359,308,118
+Health Education North Central and East London,East London NHS Foundation Trust,4931,2849,746,1411,0,0,1309,1565,1322,695,309
+Health Education North Central and East London,Great Ormond Street Hospital For Children NHS Foundation Trust,4562,2953,1293,1539,0,0,1050,1014,732,1092,97
+Health Education North Central and East London,Homerton University Hospital NHS Foundation Trust,3683,2345,980,983,220,0,902,987,738,596,82
+Health Education North Central and East London,Moorfields Eye Hospital NHS Foundation Trust,2079,1102,690,440,0,0,412,506,418,706,182
+Health Education North Central and East London,NHS Barking and Dagenham CCG,11,0,0,0,0,0,0,0,0,20,2
+Health Education North Central and East London,NHS Barnet CCG,75,13,10,6,0,0,3,1,0,88,34
+Health Education North Central and East London,NHS Camden CCG,107,1,0,1,0,0,1,1,0,164,46
+Health Education North Central and East London,NHS City and Hackney CCG,64,3,2,2,0,0,0,3,3,102,14
+Health Education North Central and East London,NHS Enfield CCG,96,7,2,4,0,0,2,1,1,138,38
+Health Education North Central and East London,NHS Haringey CCG,58,12,2,1,0,0,10,1,1,58,32
+Health Education North Central and East London,NHS Havering CCG,16,0,0,0,0,0,0,0,0,29,3
+Health Education North Central and East London,NHS Islington CCG,62,0,0,0,0,0,0,0,0,89,35
+Health Education North Central and East London,NHS Newham CCG,66,2,0,2,0,0,0,1,1,86,38
+Health Education North Central and East London,NHS Redbridge CCG,143,20,2,9,0,0,10,4,4,188,50
+Health Education North Central and East London,NHS Tower Hamlets CCG,95,2,0,2,0,0,0,0,0,136,50
+Health Education North Central and East London,NHS Waltham Forest CCG,64,7,0,0,0,0,7,0,0,86,28
+Health Education North Central and East London,North East London NHS Foundation Trust,5732,3236,490,1856,0,0,1377,1843,1604,1133,183
+Health Education North Central and East London,North Middlesex University Hospital NHS Trust,3131,2003,1022,996,148,0,450,823,721,540,66
+Health Education North Central and East London,Royal Free London NHS Foundation Trust,8991,5439,3129,2487,313,1,1553,2586,2108,1812,112
+Health Education North Central and East London,Royal National Orthopaedic Hospital NHS Trust,1516,819,388,389,0,0,291,240,186,809,99
+Health Education North Central and East London,Tavistock and Portman NHS Foundation Trust,696,375,114,25,0,0,356,88,25,445,36
+Health Education North Central and East London,University College London Hospitals NHS Foundation Trust,8409,5355,2960,2415,226,15,1534,1994,1685,1635,466
+Health Education North Central and East London,Whittington Health NHS Trust,4031,2416,966,1017,158,0,1012,916,662,1281,133
+"Health Education Kent, Surrey and Sussex",Ashford and St. Peter's Hospitals NHS Foundation Trust,3721,1995,1123,886,149,0,638,1068,831,1258,64
+"Health Education Kent, Surrey and Sussex",Brighton and Sussex University Hospitals NHS Trust,8088,4636,2304,2258,245,0,1356,2233,1863,2323,140
+"Health Education Kent, Surrey and Sussex",Dartford and Gravesham NHS Trust,3206,1838,750,918,177,7,548,1111,924,438,76
+"Health Education Kent, Surrey and Sussex",East Kent Hospitals University NHS Foundation Trust,7743,4249,1950,1955,274,0,1574,2533,2004,1667,189
+"Health Education Kent, Surrey and Sussex",East Sussex Healthcare NHS Trust,6938,3434,1200,1898,141,0,1117,2255,1937,2376,133
+"Health Education Kent, Surrey and Sussex",Frimley Health NHS Foundation Trust,9011,4595,2200,2294,329,7,1452,3023,2441,2615,175
+"Health Education Kent, Surrey and Sussex",Kent and Medway NHS and Social Care Partnership Trust,3197,1467,318,847,0,2,540,1145,1064,1048,97
+"Health Education Kent, Surrey and Sussex",Kent Community Health NHS Foundation Trust,4631,2243,197,1285,0,0,1142,1372,1094,1827,188
+"Health Education Kent, Surrey and Sussex",Maidstone and Tunbridge Wells NHS Trust,5581,2980,1394,1303,239,6,1097,1413,1052,2262,122
+"Health Education Kent, Surrey and Sussex",Medway NHS Foundation Trust,4413,2066,1100,995,180,1,554,1426,1214,1783,66
+"Health Education Kent, Surrey and Sussex",NHS Ashford CCG,6,0,0,0,0,0,0,0,0,11,1
+"Health Education Kent, Surrey and Sussex",NHS Brighton and Hove CCG,136,54,16,27,0,0,19,2,2,113,48
+"Health Education Kent, Surrey and Sussex",NHS Canterbury and Coastal CCG,66,8,0,4,0,0,4,0,0,88,29
+"Health Education Kent, Surrey and Sussex",NHS Coastal West Sussex CCG,218,67,36,35,0,0,14,10,10,257,27
+"Health Education Kent, Surrey and Sussex","NHS Dartford, Gravesham and Swanley CCG",85,1,0,0,0,0,1,4,4,134,32
+"Health Education Kent, Surrey and Sussex",NHS East Surrey CCG,42,5,2,4,0,0,0,0,0,60,14
+"Health Education Kent, Surrey and Sussex","NHS Eastbourne, Hailsham and Seaford CCG",8,1,0,1,0,0,0,0,0,9,5
+"Health Education Kent, Surrey and Sussex",NHS Guildford and Waverley CCG,98,10,2,2,0,0,7,10,10,120,36
+"Health Education Kent, Surrey and Sussex",NHS Hastings and Rother CCG,164,47,2,39,0,0,7,0,0,206,25
+"Health Education Kent, Surrey and Sussex",NHS High Weald Lewes Havens CCG,78,11,2,0,0,0,10,0,0,107,27
+"Health Education Kent, Surrey and Sussex",NHS Horsham and Mid Sussex CCG,107,23,8,1,0,0,18,0,0,148,20
+"Health Education Kent, Surrey and Sussex",NHS Medway CCG,84,20,8,6,0,0,10,2,2,104,20
+"Health Education Kent, Surrey and Sussex",NHS North West Surrey CCG,102,16,10,1,0,0,10,0,0,133,38
+"Health Education Kent, Surrey and Sussex",NHS South Kent Coast CCG,71,1,0,0,0,0,5,4,0,89,43
+"Health Education Kent, Surrey and Sussex",NHS Surrey Downs CCG,193,74,14,46,0,0,21,1,1,202,36
+"Health Education Kent, Surrey and Sussex",NHS Surrey Heath CCG,35,7,12,1,0,0,0,1,1,42,12
+"Health Education Kent, Surrey and Sussex",NHS Swale CCG,96,23,2,20,0,0,2,2,2,114,27
+"Health Education Kent, Surrey and Sussex",NHS Thanet CCG,69,0,0,0,0,0,0,0,0,100,38
+"Health Education Kent, Surrey and Sussex",NHS West Kent CCG,100,16,0,5,0,0,11,0,0,131,37
+"Health Education Kent, Surrey and Sussex",Queen Victoria Hospital NHS Foundation Trust,964,483,304,186,0,8,200,315,254,310,25
+"Health Education Kent, Surrey and Sussex",Royal Surrey County Hospital NHS Foundation Trust,3792,2389,1177,1037,120,1,879,1011,779,702,98
+"Health Education Kent, Surrey and Sussex",South East Coast Ambulance Service NHS Foundation Trust,3297,1622,0,0,0,2644,2,1024,0,1170,189
+"Health Education Kent, Surrey and Sussex",Surrey and Borders Partnership NHS Foundation Trust,2392,1129,339,565,0,0,666,939,670,517,131
+"Health Education Kent, Surrey and Sussex",Surrey and Sussex Healthcare NHS Trust,4072,2189,1230,964,165,0,599,1223,1071,1208,109
+"Health Education Kent, Surrey and Sussex",Sussex Community NHS Foundation Trust,4844,2563,171,1573,0,0,1193,1636,1357,1141,138
+"Health Education Kent, Surrey and Sussex",Sussex Partnership NHS Foundation Trust,4227,2255,489,1164,0,0,1007,1318,1161,1154,142
+"Health Education Kent, Surrey and Sussex",Western Sussex Hospitals NHS Foundation Trust,6873,3482,1508,1674,223,9,1370,2194,1648,2302,104
+Health Education North East,City Hospitals Sunderland NHS Foundation Trust,4838,2823,1163,1453,127,0,864,1442,1247,966,143
+Health Education North East,County Durham and Darlington NHS Foundation Trust,7087,3804,1378,2088,240,19,1100,2210,1881,1960,193
+Health Education North East,Gateshead Health NHS Foundation Trust,4388,2195,780,1140,83,0,935,1382,1030,1468,136
+Health Education North East,Newcastle Upon Tyne Hospitals NHS Foundation Trust,14370,8346,3510,4207,292,1,2945,4048,3200,3628,274
+Health Education North East,"NHS Durham Dales, Easington and Sedgefield CCG",1,1,2,0,0,0,0,0,0,0,0
+Health Education North East,NHS North Durham CCG,2,1,0,0,0,0,1,0,0,2,0
+Health Education North East,NHS South Tees CCG,632,138,182,41,0,0,6,7,7,881,110
+Health Education North East,NHS Sunderland CCG,12,3,2,2,0,0,0,0,0,17,1
+Health Education North East,North East Ambulance Service NHS Foundation Trust,2620,832,2,32,0,2248,13,1464,2,578,75
+Health Education North East,North Tees and Hartlepool NHS Foundation Trust,5500,2780,976,1433,133,9,1070,1438,1087,2479,99
+Health Education North East,"Northumberland, Tyne and Wear NHS Foundation Trust",5632,2887,654,1884,0,0,909,2305,2074,737,133
+Health Education North East,Northumbria Healthcare NHS Foundation Trust,8004,4323,1286,2276,164,0,1565,2451,2130,2117,299
+Health Education North East,South Tees Hospitals NHS Foundation Trust,8689,4918,1926,2525,232,2,1784,2910,2328,1626,110
+Health Education North East,South Tyneside NHS Foundation Trust,3646,2066,450,1370,67,0,531,1011,887,1090,57
+Health Education North East,"Tees, Esk and Wear Valleys NHS Foundation Trust",6664,3383,625,2282,0,0,1027,2219,1981,1935,187
+Health Education North West,Aintree University Hospital NHS Foundation Trust,4971,2478,1124,1247,4,0,955,1461,1174,1936,131
+Health Education North West,Alder Hey Children's NHS Foundation Trust,3389,2027,764,1072,0,0,727,703,551,1235,112
+Health Education North West,Blackpool Teaching Hospitals NHS Foundation Trust,6964,3775,1093,2161,102,0,1385,2071,1654,2103,129
+Health Education North West,Bolton NHS Foundation Trust,5950,3147,1012,1674,264,0,1023,1923,1612,1675,74
+Health Education North West,Bridgewater Community Healthcare NHS Foundation Trust,2946,1735,182,1135,28,0,594,807,698,689,111
+Health Education North West,Cheshire and Wirral Partnership NHS Foundation Trust,3466,1878,282,1133,0,0,704,1028,928,1004,97
+Health Education North West,Christie NHS Foundation Trust,2833,1457,537,668,0,0,657,728,592,1191,107
+Health Education North West,Clatterbridge Cancer Centre NHS Foundation Trust,1227,629,170,276,0,0,338,360,290,391,85
+Health Education North West,Countess of Chester Hospital NHS Foundation Trust,3997,1944,909,905,114,1,737,1413,1147,1226,53
+Health Education North West,Cumbria Partnership NHS Foundation Trust,3912,2037,224,1231,0,0,905,1101,891,1409,153
+Health Education North West,East Cheshire NHS Trust,2718,1423,508,715,85,2,551,998,820,546,58
+Health Education North West,East Lancashire Hospitals NHS Trust,8185,4269,1534,2261,278,0,1451,2372,1890,2915,171
+Health Education North West,Greater Manchester Mental Health NHS Foundation Trust,4754,2237,396,1311,0,0,1204,1790,1319,1323,121
+Health Education North West,Lancashire Care NHS Foundation Trust,6397,3379,418,2218,0,0,1339,2375,1990,1010,278
+Health Education North West,Lancashire Teaching Hospitals NHS Foundation Trust,7944,3964,1652,1992,190,0,1544,2547,1963,2719,127
+Health Education North West,Liverpool Community Health NHS Trust,1964,1077,66,852,0,0,326,389,256,957,43
+Health Education North West,Liverpool Heart and Chest Hospital NHS Foundation Trust,1570,856,295,514,0,0,290,382,288,611,56
+Health Education North West,Liverpool Women's NHS Foundation Trust,1501,936,292,363,321,0,164,355,298,368,53
+Health Education North West,Manchester University NHS Foundation Trust,20021,11661,4692,5883,564,0,4390,6338,4825,3623,396
+Health Education North West,Mersey Care NHS Foundation Trust,4769,1866,315,1207,0,0,650,1722,1574,2257,109
+Health Education North West,Mid Cheshire Hospitals NHS Foundation Trust,4454,2103,664,1040,130,0,943,1630,1296,1381,81
+Health Education North West,NHS Blackburn with Darwen CCG,52,21,20,4,0,0,7,0,0,36,25
+Health Education North West,NHS Blackpool CCG,76,15,22,3,0,0,1,10,10,70,34
+Health Education North West,NHS Bolton CCG,152,66,36,18,0,0,30,0,0,137,34
+Health Education North West,NHS Bury CCG,100,26,36,3,0,0,5,0,0,124,24
+Health Education North West,NHS Chorley and South Ribble CCG,73,5,0,4,0,0,1,0,0,97,39
+Health Education North West,NHS East Lancashire CCG,134,54,57,6,0,0,20,1,1,112,44
+Health Education North West,NHS Eastern Cheshire CCG,62,6,6,2,0,0,1,0,0,83,29
+Health Education North West,NHS Fylde and Wyre CCG,68,10,12,3,0,0,1,0,0,85,33
+Health Education North West,NHS Greater Preston CCG,10,0,0,0,0,0,0,0,0,10,10
+Health Education North West,NHS Halton CCG,76,33,2,20,0,0,12,0,0,72,14
+Health Education North West,"NHS Heywood, Middleton and Rochdale CCG",101,39,24,20,0,0,7,0,0,103,20
+Health Education North West,NHS Knowsley CCG,82,23,2,13,0,0,9,0,0,87,29
+Health Education North West,NHS Liverpool CCG,148,1,2,0,0,0,0,0,0,283,7
+Health Education North West,NHS Manchester CCG,268,60,4,20,0,0,38,0,0,317,99
+Health Education North West,NHS Morecambe Bay CCG,70,22,36,4,0,0,0,0,0,64,33
+Health Education North West,NHS North Cumbria CCG,3,2,4,0,0,0,0,0,0,1,1
+Health Education North West,NHS Oldham CCG,419,44,10,9,0,0,30,0,0,670,78
+Health Education North West,NHS Salford CCG,134,46,34,22,0,0,7,1,1,142,32
+Health Education North West,NHS South Cheshire CCG,178,71,26,58,0,0,0,9,9,169,26
+Health Education North West,NHS South Sefton CCG,122,42,6,5,0,0,34,0,0,131,29
+Health Education North West,NHS St Helens CCG,89,39,14,14,0,0,18,1,1,76,21
+Health Education North West,NHS Stockport CCG,123,50,14,16,0,0,29,2,0,124,18
+Health Education North West,NHS Tameside and Glossop CCG,92,27,14,15,0,0,6,1,0,100,27
+Health Education North West,NHS Trafford CCG,86,3,4,1,0,0,0,0,0,129,39
+Health Education North West,NHS Vale Royal CCG,36,24,4,4,0,0,18,1,1,15,7
+Health Education North West,NHS Warrington CCG,72,26,16,18,0,0,0,2,2,69,19
+Health Education North West,NHS West Cheshire CCG,77,4,6,1,0,0,0,0,0,106,40
+Health Education North West,NHS West Lancashire CCG,45,15,14,2,0,0,8,2,0,41,15
+Health Education North West,NHS Wigan Borough CCG,154,42,18,21,0,0,12,3,3,163,49
+Health Education North West,NHS Wirral CCG,74,10,4,8,0,0,0,0,0,95,32
+Health Education North West,North Cumbria University Hospitals NHS Trust,4100,2117,794,1147,159,11,684,1297,1022,1279,95
+Health Education North West,North West Ambulance Service NHS Trust,6021,3454,2,64,0,5425,7,2055,13,900,106
+Health Education North West,North West Boroughs Healthcare NHS Foundation Trust,3901,2013,232,1377,0,0,720,1259,1060,1135,111
+Health Education North West,Pennine Acute Hospitals NHS Trust,9999,5343,2269,2701,403,10,1581,3070,2584,2997,172
+Health Education North West,Pennine Care NHS Foundation Trust,5425,2980,437,1812,0,1,1178,1611,1387,1503,142
+Health Education North West,Royal Liverpool and Broadgreen University Hospitals NHS Trust,6886,3773,1784,1796,0,0,1618,1823,1290,2159,363
+Health Education North West,Salford Royal NHS Foundation Trust,7825,3956,1670,1964,0,3,1681,2423,1897,2694,204
+Health Education North West,Southport and Ormskirk Hospital NHS Trust,2936,1494,566,749,122,0,533,897,704,1068,23
+Health Education North West,St Helens and Knowsley Hospitals NHS Trust,5787,2915,1346,1404,172,0,1061,1800,1409,2000,147
+Health Education North West,Stockport NHS Foundation Trust,5270,2753,972,1461,147,1,873,1610,1396,1661,147
+Health Education North West,Tameside and Glossop Integrated Care NHS Foundation Trust,3849,1820,608,1012,119,0,589,1254,1053,1367,143
+Health Education North West,University Hospitals of Morecambe Bay NHS Foundation Trust,5541,2672,986,1381,179,2,862,1677,1435,2183,185
+Health Education North West,Walton Centre NHS Foundation Trust,1414,733,336,395,0,0,198,373,345,490,94
+Health Education North West,Warrington and Halton Hospitals NHS Foundation Trust,4078,2006,782,941,124,1,841,1372,1089,1273,112
+Health Education North West,Wirral Community NHS Foundation Trust,1426,887,56,669,0,2,289,412,314,217,33
+Health Education North West,Wirral University Teaching Hospital NHS Foundation Trust,6054,2890,1180,1469,144,0,1006,1949,1631,2326,104
+Health Education North West,"Wrightington, Wigan and Leigh NHS Foundation Trust",5067,2253,1096,1126,131,0,638,1837,1648,1842,109
+Health Education West Midlands,Birmingham and Solihull Mental Health NHS Foundation Trust,3863,1883,500,1153,0,0,688,1145,937,1422,196
+Health Education West Midlands,Birmingham Community Healthcare NHS Foundation Trust,4747,2629,464,1529,0,0,1028,1291,1134,1457,176
+Health Education West Midlands,Birmingham Women's and Children's NHS Foundation Trust,5551,3332,1142,1499,359,0,1160,1405,1150,1364,236
+Health Education West Midlands,Black Country Partnership NHS Foundation Trust,1923,1001,174,614,0,0,366,578,513,557,117
+Health Education West Midlands,Burton Hospitals NHS Foundation Trust,3161,1571,638,811,125,0,471,989,836,1143,63
+Health Education West Midlands,Coventry and Warwickshire Partnership NHS Trust,3791,1702,398,1016,0,0,722,1561,1327,886,161
+Health Education West Midlands,Dudley and Walsall Mental Health Partnership NHS Trust,1098,587,176,406,0,0,139,348,302,269,45
+Health Education West Midlands,Dudley Group NHS Foundation Trust,4832,2741,1033,1407,172,8,999,1706,1347,567,150
+Health Education West Midlands,George Eliot Hospital NHS Trust,2296,1124,454,588,99,4,338,695,565,891,60
+Health Education West Midlands,Heart of England NHS Foundation Trust,10670,5663,2325,2777,457,6,1838,3228,2657,3430,133
+Health Education West Midlands,NHS Birmingham CrossCity CCG,268,87,0,36,0,0,51,0,0,238,124
+Health Education West Midlands,NHS Cannock Chase CCG,8,3,0,0,0,0,3,0,0,7,3
+Health Education West Midlands,NHS Coventry and Rugby CCG,190,70,62,13,0,0,27,11,11,172,50
+Health Education West Midlands,NHS Dudley CCG,105,27,0,21,0,0,6,1,1,111,43
+Health Education West Midlands,NHS East Staffordshire CCG,21,7,0,2,0,0,5,0,0,18,10
+Health Education West Midlands,NHS Herefordshire CCG,60,17,8,8,0,0,5,4,4,55,23
+Health Education West Midlands,NHS North Staffordshire CCG,61,15,4,4,0,0,9,0,0,61,29
+Health Education West Midlands,NHS Redditch and Bromsgrove CCG,60,16,20,6,0,0,0,0,0,56,31
+Health Education West Midlands,NHS Sandwell and West Birmingham CCG,171,46,0,29,0,0,17,1,1,165,79
+Health Education West Midlands,NHS Shropshire CCG,140,48,16,25,0,1,14,3,3,136,43
+Health Education West Midlands,NHS South East Staffordshire and Seisdon Peninsula CCG,47,12,8,5,0,0,3,0,0,44,26
+Health Education West Midlands,NHS South Warwickshire CCG,44,5,0,5,0,0,0,0,0,48,30
+Health Education West Midlands,NHS South Worcestershire CCG,120,38,14,24,0,0,7,2,2,116,43
+Health Education West Midlands,NHS Stafford and Surrounds CCG,73,12,10,4,0,0,3,0,0,86,36
+Health Education West Midlands,NHS Stoke on Trent CCG,76,20,8,4,0,0,12,0,0,78,34
+Health Education West Midlands,NHS Telford and Wrekin CCG,93,29,20,12,0,0,8,1,0,101,25
+Health Education West Midlands,NHS Walsall CCG,86,9,2,4,0,0,4,0,0,116,38
+Health Education West Midlands,NHS Warwickshire North CCG,39,2,0,2,0,0,0,0,0,43,31
+Health Education West Midlands,NHS Wolverhampton CCG,95,25,0,24,0,0,1,0,0,105,35
+Health Education West Midlands,NHS Wyre Forest CCG,6,0,0,0,0,0,0,0,0,8,4
+Health Education West Midlands,North Staffordshire Combined Healthcare NHS Trust,1417,753,130,456,0,0,318,430,345,411,52
+Health Education West Midlands,Robert Jones and Agnes Hunt Orthopaedic Hospital NHS Foundation Trust,1418,655,234,322,0,0,313,435,339,614,51
+Health Education West Midlands,Royal Orthopaedic Hospital NHS Foundation Trust,977,462,220,236,0,0,173,258,201,467,49
+Health Education West Midlands,Royal Wolverhampton NHS Trust,8131,4168,1689,2139,213,0,1481,2636,2134,2525,123
+Health Education West Midlands,Sandwell and West Birmingham Hospitals NHS Trust,6846,3720,1516,1869,230,61,1269,1908,1446,2216,195
+Health Education West Midlands,Shrewsbury and Telford Hospital NHS Trust,5749,2888,1109,1378,258,0,1114,1999,1593,1559,167
+Health Education West Midlands,Shropshire Community Health NHS Trust,1511,861,114,571,0,0,329,309,213,648,46
+Health Education West Midlands,South Staffordshire and Shropshire Healthcare NHS Foundation Trust,3725,1678,314,958,0,0,989,1363,941,1313,64
+Health Education West Midlands,South Warwickshire NHS Foundation Trust,4334,2462,673,1355,127,0,835,1426,1239,765,113
+Health Education West Midlands,Staffordshire and Stoke on Trent Partnership NHS Trust,4263,2166,150,1257,0,0,1666,1796,968,516,92
+Health Education West Midlands,University Hospitals Birmingham NHS Foundation Trust,9264,5036,2384,2594,0,0,1779,2257,1730,3857,87
+Health Education West Midlands,University Hospitals Coventry and Warwickshire NHS Trust,7901,4590,1980,2258,216,7,1776,2595,1940,1077,307
+Health Education West Midlands,University Hospitals of North Midlands NHS Trust,10502,5531,2256,2952,268,0,1811,3538,2914,2612,238
+Health Education West Midlands,Walsall Healthcare NHS Trust,4225,2132,784,1121,164,2,712,1308,1050,1478,93
+Health Education West Midlands,West Midlands Ambulance Service NHS Foundation Trust,4981,2738,2,2,0,4598,2,1865,0,593,120
+Health Education West Midlands,Worcestershire Acute Hospitals NHS Trust,5971,3342,1292,1659,250,2,1165,1930,1553,1251,133
+Health Education West Midlands,Worcestershire Health and Care NHS Trust,3734,1896,292,1222,0,1,688,1269,1110,1101,32
+Health Education West Midlands,Wye Valley NHS Trust,3108,1597,616,805,81,2,640,1131,893,614,110
+Health Education South West,2Gether NHS Foundation Trust,2100,1086,218,623,0,2,430,658,580,621,98
+Health Education South West,Avon and Wiltshire Mental Health Partnership NHS Trust,4061,2088,480,1207,0,1,876,1378,1145,1021,155
+Health Education South West,Cornwall Partnership NHS Foundation Trust,3643,1891,204,1314,0,12,609,1241,1097,912,108
+Health Education South West,Devon Partnership NHS Trust,2507,1251,260,686,0,0,598,847,688,710,106
+Health Education South West,Gloucestershire Care Services NHS Trust,2565,1411,76,903,0,14,637,851,674,534,56
+Health Education South West,Gloucestershire Hospitals NHS Foundation Trust,7618,4091,1727,1991,297,2,1557,2480,1867,1813,208
+Health Education South West,Great Western Hospitals NHS Foundation Trust,5474,3000,1092,1516,179,26,1134,1818,1422,1138,136
+Health Education South West,NHS Bath and North East Somerset CCG,75,14,4,5,0,0,7,0,0,97,25
+Health Education South West,NHS Bristol CCG,204,45,24,11,0,0,22,4,4,291,19
+Health Education South West,NHS Gloucestershire CCG,313,94,10,47,0,0,42,50,50,283,56
+Health Education South West,NHS Kernow CCG,263,86,32,56,0,0,14,0,0,303,46
+Health Education South West,NHS North Somerset CCG,73,13,2,4,0,0,8,3,3,104,10
+Health Education South West,"NHS Northern, Eastern and Western Devon CCG",424,100,82,30,0,0,29,0,0,584,64
+Health Education South West,NHS Somerset CCG,207,70,20,59,0,0,1,2,2,251,18
+Health Education South West,NHS South Devon and Torbay CCG,110,32,18,5,0,0,18,0,0,127,29
+Health Education South West,NHS South Gloucestershire CCG,71,9,0,1,0,0,8,1,1,77,45
+Health Education South West,NHS Swindon CCG,96,20,6,10,0,0,7,1,1,131,19
+Health Education South West,NHS Wiltshire CCG,151,32,28,12,0,0,6,6,6,191,35
+Health Education South West,North Bristol NHS Trust,8123,4220,1880,1955,281,0,1716,2540,1886,2472,290
+Health Education South West,Northern Devon Healthcare NHS Trust,3073,1622,655,777,77,9,659,1098,878,649,71
+Health Education South West,Plymouth Hospitals NHS Trust,6951,3853,1969,1809,156,5,1379,2156,1676,1674,179
+Health Education South West,Royal Cornwall Hospitals NHS Trust,5318,2936,1424,1302,180,2,1087,1688,1344,1243,127
+Health Education South West,Royal Devon and Exeter NHS Foundation Trust,7907,3856,1497,1926,191,0,1527,2674,2150,2595,165
+Health Education South West,Royal United Hospitals Bath NHS Foundation Trust,5135,2690,1172,1263,181,0,1069,1626,1227,1489,158
+Health Education South West,Somerset Partnership NHS Foundation Trust,3699,1879,218,1120,0,3,758,1119,1013,1397,36
+Health Education South West,South Western Ambulance Service NHS Foundation Trust,4300,2088,2,16,0,3764,4,1749,52,870,88
+Health Education South West,Taunton and Somerset NHS Foundation Trust,4374,2173,972,1078,147,2,676,1504,1290,1245,121
+Health Education South West,Torbay and South Devon NHS Foundation Trust,5913,2789,952,1246,101,7,1479,1964,1448,2228,111
+Health Education South West,University Hospitals Bristol NHS Foundation Trust,9038,5120,2498,2470,180,0,1728,2757,2259,2246,95
+Health Education South West,Weston Area Health NHS Trust,1720,785,342,376,29,0,291,631,549,596,12
+Health Education South West,Yeovil District Hospital NHS Foundation Trust,2240,1099,516,536,66,4,349,742,631,708,92

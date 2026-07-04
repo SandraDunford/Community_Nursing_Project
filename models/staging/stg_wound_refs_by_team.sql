@@ -1,14 +1,21 @@
 SELECT
+
     CASE
-        WHEN TRIM(org_code) = 'All orgs' THEN 'All'
+        WHEN LOWER(TRIM(org_code)) = 'all orgs'
+            THEN 'all-orgs'
         ELSE TRIM(org_code)
     END AS org_code,
 
-    TRIM(org_name) AS org_name,
+    CASE
+        WHEN LOWER(TRIM(org_name)) = 'all orgs'
+            THEN 'all-orgs'
+        ELSE LOWER(TRIM(org_name))
+    END AS org_name,
 
-    TRIM(team_type) AS team_type,
+    LOWER(TRIM(team_type)) AS team_type,
 
-    females,
-    males
+    females AS female_referrals,
+
+    males AS male_referrals
 
 FROM {{ source('raw', 'wound_refs_by_team') }}

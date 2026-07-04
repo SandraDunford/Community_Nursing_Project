@@ -1,0 +1,15 @@
+version: 1
+
+models:
+
+  - name: int_dn_activity
+    description: >
+      Consolidates District Nursing activity into a single business-ready dataset.
+
+  - name: int_wound_activity
+    description: >
+      Consolidates Wound Care activity into a single business-ready dataset.
+
+  - name: int_eol_activity
+    description: >
+      Consolidates End of Life activity into a single business-ready dataset.
