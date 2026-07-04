@@ -4,3 +4,15 @@ target/
 dbt_packages/
 logs/
 dbt_internal_packages/
+# Environment variables
+.env
+**/.env
+
+# Python
+.venv/
+__pycache__/
+
+# dbt generated files
+target/
+logs/
+
