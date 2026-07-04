@@ -104,6 +104,7 @@ DBT TESTS
 * Unique - Ensures surrogate keys are unique
 * Not Null - validates mandatory key fields
 * Relationships - verifies referential integrity between fact and dimension tables
+Automated dbt testing was implemented across dimensional models to validate uniqueness, completeness, and referential integrity. Testing identified known limitations within the source datasets, including incomplete mappings between idnependently published NHS datasets. These findings were documented and retained rather than artificially corrected to reserve transparaency of the source data.
 
 MANUAL QUALITY ASSURANCE
 Verified tables materialised in the correct Snowflake schemas. 
