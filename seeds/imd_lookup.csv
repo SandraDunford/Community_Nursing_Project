@@ -1,0 +1,56 @@
+local_authority,lsoa_count,average_imd_rank,average_imd_decile
+Birmingham,639,7752,2.9
+Blackpool,94,5885,2.4
+Brentwood,46,24755,8
+"Bristol, City of",263,13542,4.6
+Calderdale,128,12981,4.5
+Cambridge,69,19797,6.6
+Cheshire East,234,21700,7.1
+City of London,6,20275,6.7
+Colchester,105,18654,6.2
+Cornwall,326,13325,4.5
+Coventry,195,13740,4.7
+Croydon,220,14927,5
+Derbyshire Dales,43,23093,7.6
+Doncaster,194,11275,4
+Dudley,201,15149,5.1
+East Hampshire,72,24518,8
+Gateshead,126,12238,4.3
+Hartlepool,58,10396,3.7
+Hounslow,142,14339,4.8
+"Kingston upon Hull, City of",166,7694,3
+Kirklees,259,13914,4.7
+Leeds,482,14058,4.8
+Leicester,192,10099,3.6
+Lewisham,169,10781,3.8
+Lincoln,57,12675,4.3
+Liverpool,298,7023,2.8
+Medway,163,14441,4.9
+Mid Suffolk,56,21331,7.1
+Mid Sussex,86,27282,8.8
+Middlesbrough,86,9190,3.4
+Newcastle upon Tyne,175,13043,4.5
+North Devon,58,15572,5.2
+North Hertfordshire,82,23234,7.6
+North Norfolk,62,14165,4.8
+Northampton,133,14906,5.1
+Nottingham,182,8024,3
+Oxford,83,18990,6.3
+Plymouth,161,13141,4.5
+Rotherham,167,11858,4.1
+Sandwell,186,7633,2.8
+Sheffield,345,14222,4.8
+Shropshire,193,17785,5.9
+Slough,80,13064,4.5
+Southampton,148,11886,4.1
+Stockport,190,17736,5.9
+Surrey Heath,55,27092,8.7
+Wakefield,209,12568,4.3
+Warrington,127,18534,6.2
+West Berkshire,97,24962,8.1
+West Lancashire,73,18717,6.2
+Somerset West and Taunton,88,16556,5.5
+Wiltshire,285,21462,7
+Wolverhampton,158,9920,3.5
+Worcester,63,17165,5.8
+Wycombe,107,24505,7.9

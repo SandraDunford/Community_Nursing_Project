@@ -1,0 +1,112 @@
+version: 2
+
+models:
+
+
+  - name: dim_organisation
+    description: >
+        provides a conformed organisation diemension containing NHS organisations
+        and their associated trust and geographic information. Used to support analysis
+        of service activity across District Nursing, Wound Care and End of Life Care services.
+
+    columns:
+      - name: organisation_key
+        description: Surrogate key for unqiuely identifying each organsation.
+
+      - name: org_code
+        description: Three-character NHS organisation identifier
+
+      - name: org_name
+        description: Standardised NHS organisation name
+
+      - name: population_area
+        description: ONS region to which the organisation belongs
+
+
+# NEXT MODEL
+
+  - name: dim_age
+    description: >
+        Provides a standardised age dimension used to categorise patients
+        into consistent age groups across all clinical services.
+
+    columns:
+      - name: age_key
+        description: Surrogate key uniquely identifying each age group
+
+      - name: age_group
+        description: Standardised patient age band
+
+# NEXT MODEL
+
+  - name: dim_service
+    description: >
+        Provides a service dimension identifying the community healthcare service
+        included within the community nursing project.
+
+    columns:
+      - name: service_key
+        description: Surrogate key uniquely identifying each service
+
+      - name: service_name
+        description: Standardised name for the community healthcare service
+
+      - name: district_nursing
+        description: Indicates whether the record relates to the District Nursing service
+
+      - name: end_of_life
+        description: Indicates whether the record relates to the End of Life Care service
+
+      - name: wound_care
+        description: Indicates whether the record relates to the Wound Care service
+
+
+# NEXT MODEL
+
+  - name: dim_geography
+    description: >
+        Provides a geography dimension supporting analysis of service activity
+        across different geographic areas, including local authority and IMD decile.
+
+    columns:
+      - name: geography_key
+        description: Surrogate key uniquely identifying each geographic area
+
+      - name: local_authority
+        description: 
+
+      - name: imd_decile
+        description: IMD decile for the geographic area
+
+
+# NEXT MODEL
+
+  - name: fact_service_activity
+    description: >
+      Stores measures relating to community healthcare activity across District
+      Nursing, End of Life and Wound Care services, Each row represents a 
+      combination of organisations, service and age group, enabling analysis of 
+      patients, referrals and care contacts across organisations and geographic 
+      areas.
+
+    columns:
+      - name: organisation_key
+        description: Foreign key referencing the organisation dimension.
+
+      - name: age_key
+        description: Foreign key referencing the age group dimension.
+
+      - name: service_key
+        description: Foreign key referencing the service dimension.
+
+      - name: geography_key
+        description: Foreign key referencing the geography dimension.
+
+      - name: patients
+        description: Number of unique patients
+      
+      - name: referrals
+        description: Number of referrals received
+
+      - name: contacts
+        description: Number of care contacts delivered
