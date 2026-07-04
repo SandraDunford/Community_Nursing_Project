@@ -1,0 +1,55 @@
+-- MOVE DATA FROM FACT & DIM TABLE TO CURRENT STATE DASHBOARD FOR LATEST PICTURE OF METRICS
+
+INSERT INTO mart_current_state_dashboard (
+    topic_name,
+    total_hours,
+    total_study_sessions,
+    avg_confidence
+)
+SELECT 
+    topic AS topic_name,
+    SUM(hours_spent) AS total_hours,
+    COUNT(DISTINCT log_date) AS total_study_sessions,
+    ROUND(AVG(confidence_level), 2) AS avg_confidence
+
+FROM fact_daily_log
+
+GROUP BY topic;
+
+--ADD IN THE BENNER PERCENTAGE METRIC TO CURRENT STAGE DASHBOARD.
+
+UPDATE mart_current_state_dashboard m
+
+SET benner_progress_pct = p.benner_progress_pct
+
+FROM (
+
+    SELECT
+        t.topic_name,
+
+        ROUND(
+            AVG(
+                CASE b.status
+                    WHEN 'Not Started' THEN 0
+                    WHEN 'Early Progress' THEN 0.33
+                    WHEN 'Later Progress' THEN 0.66
+                    WHEN 'Completed' THEN 1
+                END
+            ) * 100,
+            2
+        ) AS benner_progress_pct
+
+    FROM dim_benchmarks b
+
+    JOIN dim_key_topics t
+        ON b.topic_id = t.topic_id
+
+    GROUP BY t.topic_name
+
+) p
+
+WHERE m.topic_name = p.topic_name;
+
+
+
+

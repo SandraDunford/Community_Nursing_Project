@@ -1,0 +1,18 @@
+-- copy data from current state dashboard to analytics table as a snapshot todays date for historical tracking. This will allow us to track progress over time and analyze trends in study habits and confidence levels. We can also use this data to calculate the benner progress percentage based on the benchmarks table and include that in our analytics for a more comprehensive view of progress towards learning objectives.
+
+INSERT INTO mart_progress_analytics (
+    snapshot_date,
+    topic_name,
+    total_hours,
+    total_study_sessions,
+    avg_confidence,
+    benner_progress_pct 
+)
+SELECT
+    CURRENT_DATE,
+    topic_name,
+    total_hours,
+    total_study_sessions,
+    avg_confidence,
+    benner_progress_pct
+FROM mart_current_state_dashboard;
